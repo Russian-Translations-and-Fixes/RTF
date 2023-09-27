@@ -1,0 +1,28 @@
+{
+  "itemGroup.fabric-furnaces.group": "Fabric Furnaces",
+
+  "block.fabric-furnaces.fabric_furnace": "Тканевая печь",
+  "block.fabric-furnaces.iron_furnace": "Железная печь",
+  "block.fabric-furnaces.gold_furnace": "Золотая печь",
+  "block.fabric-furnaces.diamond_furnace": "Алмазная печь",
+  "block.fabric-furnaces.obsidian_furnace": "Обсидиановая печь",
+  "block.fabric-furnaces.nether_furnace": "Незерская печь",
+  "block.fabric-furnaces.emerald_furnace": "Изумрудная печь",
+  "block.fabric-furnaces.end_furnace": "Эндер-печь",
+  "block.fabric-furnaces.ethereal_furnace": "Эфирная печь",
+
+  "block.fabric-furnaces.crystal_fabric_furnace": "Стеклянная тканевая печь",
+  "block.fabric-furnaces.crystal_iron_furnace": "Стеклянная железная печь",
+  "block.fabric-furnaces.crystal_gold_furnace": "Стеклянная золотая печь",
+  "block.fabric-furnaces.crystal_diamond_furnace": "Стеклянная алмазная печь",
+  "block.fabric-furnaces.crystal_obsidian_furnace": "Стеклянная обсидиановая печь",
+  "block.fabric-furnaces.crystal_nether_furnace": "Стеклянная незерская печь",
+  "block.fabric-furnaces.crystal_emerald_furnace": "Стеклянная изумрудная печь",
+  "block.fabric-furnaces.crystal_end_furnace": "Стеклянная эндер-печь",
+  "block.fabric-furnaces.crystal_ethereal_furnace": "Стеклянная эфирная печь",
+
+  "fabric-furnaces.text.dupelabel": " Шанс удвоить выплавляемое: %d",
+  "fabric-furnaces.text.speedlabel": " Скорость переплавки: %dx",
+  "fabric-furnaces.text.fuellabel": " Расход топлива: %dx",
+  "fabric-furnaces.text.tooltiplabel": "Характеристики печи:"
+}

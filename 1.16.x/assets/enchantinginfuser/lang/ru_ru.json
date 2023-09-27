@@ -1,0 +1,9 @@
+{
+  "block.enchantinginfuser.enchanting_infuser": "Нагнетатель чар",
+  "block.enchantinginfuser.advanced_enchanting_infuser": "Продвинутый нагнетатель чар",
+  "gui.enchantinginfuser.tooltip.enchanting_power": "Сила зачарования %s",
+  "gui.enchantinginfuser.tooltip.required_enchanting_power": "Текущая сила зачарования: %s / %s",
+  "gui.enchantinginfuser.tooltip.unknown_enchantment": "Это зачарование слишком мощное для нынешней силы зачарования нагнетателя",
+  "gui.enchantinginfuser.tooltip.low_power": "Дальнейшее увеличение уровня зачарования требует нагнетатель с большей силой зачарования",
+  "gui.enchantinginfuser.tooltip.incompatible": "Это зачарование несовместимо с: %s"
+}

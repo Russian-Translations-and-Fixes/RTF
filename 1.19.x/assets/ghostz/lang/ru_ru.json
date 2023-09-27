@@ -1,0 +1,16 @@
+{
+    "itemGroup.ghostz.item_group": "GhostZ",
+    "item.ghostz.ghost_lantern": "Призрачный фонарь",
+    "xp": "1Призрачный фонарь",
+    "item.ghostz.ghost_lantern.xp.tag": "2Призрачный фонарь",
+    "item.ghostz.ghost_lantern.xp": "3Призрачный фонарь",
+    "block.ghostz.ghost_lantern_block": "Размещаемый призрачный фонарь",
+    "block.ghostz.wisp": "Огонёк фонаря",
+    "tooltip.ghostz.can_be_placed": "Можно разместить",
+    "tooltip.ghostz.does_not_gain_xp": "не получает опыт",
+    "command.ghostz.exception.invaliditem": "Недопустимый предмет %s, требуется %s",
+    "command.ghostz.setlevel": "Уровень предмета \"%s\" установлен на %s",
+    "command.ghostz.setxp": "\"%s\" теперь имеет %s опыт(а)",
+    "message.ghostz.ghost_lantern_suck": "Возвращено огоньков: %s",
+    "message.ghostz.ghost_lantern_levelup": "%s получил %s уровень"
+}

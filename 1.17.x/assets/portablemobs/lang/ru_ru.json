@@ -1,0 +1,9 @@
+{
+  "portablemobs.item.basic_capture_cell": "Обычная переносная клетка",
+  "portablemobs.item.master_capture_cell": "Прочная переносная клетка",
+  "portablemobs.capture_failed": "Невозможно поместить это существо в клетку.",
+  "portablemobs.capture_success": "Существо помещено в клетку.",
+  "portablemobs.tooltip_name": "%s",
+  "portablemobs.item_group": "Portable Mobs",
+  "portablemobs": "Portable Mobs"
+}

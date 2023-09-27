@@ -1,0 +1,12 @@
+{
+	"item.display_case.display_case": "Витрина",
+	"block.display_case.display_case": "Витрина",
+	"advancement.display_case.collapse.title": "Коллапс",
+	"advancement.display_case.collapse.description": "",
+	"advancement.display_case.colorful.title": "Красочный!",
+	"advancement.display_case.colorful.description": "Измените цвет витрины",
+	"advancement.display_case.display_item.title": "Ого что за предмет?!",
+	"advancement.display_case.display_item.description": "Поставьте предмет в витрину",
+	"advancement.display_case.infinity_case.title": "Бесконечность не предел!",
+	"advancement.display_case.infinity_case.description": "Поставьте витрину в витрину"
+}

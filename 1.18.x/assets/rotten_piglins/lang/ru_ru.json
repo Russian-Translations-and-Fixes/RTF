@@ -1,0 +1,8 @@
+{
+  "item.rotten_piglins.burning_zombie_piglin_spawn_egg": "Яйцо призыва обгоревшего зомбифицированного пиглина",
+  "entity.rotten_piglins.burning_zombie_piglin": "Обгоревший зомбифицированный пиглин",
+  "subtitles.burning_piglin_hurt": "Обгоревший зомбифицированный пиглин ранен",
+  "subtitles.burning_piglin_angry": "Обгоревший зомбифицированный пиглин сердито хрюкает",
+  "subtitles.burning_piglin_idle": "Обгоревший зомбифицированный пиглин хрюкает",
+  "subtitles.burning_piglin_death": "Обгоревший зомбифицированный пиглин умирает"
+}

@@ -1,0 +1,9 @@
+{
+  "item.spirit.soul_crystal": "Кристалл душ",
+  "item.spirit.soul_crystal.upgrade_message": "Душа внутри вашего кристалла достигла новых высот! Уровень повышен.",
+  "block.spirit.soul_cage": "Клетка душ",
+  "block.spirit.broken_spawner": "Сломанный рассадник",
+  "effect.spirit.corrupted": "Бездушный",
+  "itemGroup.spirit.spirit": "Spirit",
+  "config.spirit.toggletooltip": "Включить/Выключить визуальный эффект для сущностей"
+}

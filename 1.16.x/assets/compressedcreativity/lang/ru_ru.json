@@ -1,0 +1,30 @@
+{
+  "itemGroup.compressedcreativity.main": "Compressed Creativity",
+
+  "compressedcreativity.unit.bar": " бар",
+  "compressedcreativity.unit.air": " мл",
+  "compressedcreativity.unit.air_per_tick": " мл/т",
+
+  "block.compressedcreativity.rotational_compressor": "Ротационный компрессор",
+
+  "block.compressedcreativity.air_blower": "Воздуходувка",
+
+  "compressedcreativity.tooltip.rotational_compressor.pressure_summary": "Статистика давления:",
+  "compressedcreativity.tooltip.rotational_compressor.pressure": "Давление:",
+  "compressedcreativity.tooltip.rotational_compressor.air": "Воздух:",
+  "compressedcreativity.tooltip.rotational_compressor.air_production": "Производство воздуха:",
+  "compressedcreativity.tooltip.rotational_compressor.wrong_direction": "Требование к направлению вращения:",
+  "compressedcreativity.tooltip.rotational_compressor.wrong_direction_desc": "Этот механизм не будет работать при вращении в этом направлении",
+
+  "compressedcreativity.ponder.rotational_compressor.header": "Генерацией давления ротационным компрессором",
+  "compressedcreativity.ponder.rotational_compressor.text_1": "Ротационный компрессор используется для генерации давления",
+  "compressedcreativity.ponder.rotational_compressor.text_2": "Для его работы требуется соблюдать направление вращения",
+  "compressedcreativity.ponder.rotational_compressor.text_3": "Воздух будет утекать с несоединенных сторон труб и некоторых механизмов!",
+  "compressedcreativity.ponder.rotational_compressor.text_4": "Не допускайте накопления давления в механизмах",
+  "compressedcreativity.ponder.rotational_compressor.text_5": "Если давление будет выше допустимого предела...",
+  "compressedcreativity.ponder.rotational_compressor.text_6": "Механизм может взорваться!",
+
+  "compressedcreativity.ponder.air_blower.header": "Воздушным потоком сжатого воздуха",
+  "compressedcreativity.ponder.air_blower.text_1": "Воздуходувка использует сжатый воздух для создания воздушного потока",
+  "compressedcreativity.ponder.air_blower.text_2": "Скорость воздушного потока, так же как и скорость потребления воздуха, зависит от давления"
+}

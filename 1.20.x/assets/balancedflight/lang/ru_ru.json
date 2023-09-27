@@ -1,0 +1,17 @@
+{
+  "balancedflight.ponder.flight_anchor.header": "Управляемый полёт с помощью вращательной силой",
+  "balancedflight.ponder.flight_anchor.text_1": "The flight anchor requires an immense amount of power to operate.",
+  "balancedflight.ponder.flight_anchor.text_2": "For each RPM, you will be able to fly one block around the anchor.",
+  "balancedflight.ponder.flight_anchor.text_3": "Higher speeds cover a much higher surface area.",
+  "balancedflight.ponder.tag.flight_anchor": "Якорь полёта",
+  "balancedflight.ponder.tag.flight_anchor.description": "Управляемый полёт с помощью вращательной силой",
+  "block.balancedflight.flight_anchor": "Якорь полёта",
+  "curios.identifier.flight_ring": "Кольцо полёта",
+  "item.balancedflight.ascended_flight_ring": "Кольцо вознесения",
+  "itemGroup.balancedflight.base": "Create: Balanced Flight",
+  "tooltip.balancedflight.ascended_flight_ring": "Невероятно плотное золотое кольцо, и все же оно позволяет летать куда угодно",
+  "tooltip.balancedflight.flight_anchor": "Allows flight in a 25 block radius. Only works in the overworld.",
+  "block.balancedflight.flight_anchor.tooltip": "Якорь полёта1",
+  "block.balancedflight.tooltip.flight_anchor": "Якорь полёта2",
+  "block.tooltip.balancedflight.flight_anchor": "Якорь полёта3",
+}

@@ -1,0 +1,40 @@
+{
+	"itemGroup.mining_dims.mining_dims_group": "Mining Dimensions",
+
+	"item.mining_dims.mining_teleporter": "Телепорт в измерение \"Добычи\"",
+	"item.mining_dims.hunting_teleporter": "Телепорт в измерение \"Охоты\"",
+	"item.mining_dims.caving_teleporter": "Телепорт в измерение \"Пещер\"",
+	"item.mining_dims.nethering_teleporter": "Телепорт в измерение \"Незера\"",
+	"item.mining_dims.climbing_teleporter": "Телепорт в измерение \"Скал\"",
+
+	"item.mining_dims.teleporter1": "Пожалуйста, стойте спокойно, идёт поиск безопасного места.",
+	"item.mining_dims.teleporter2": "Всё ещё ищу...",
+	"item.mining_dims.teleporter3": "Не удалось найти безопасное место, пожалуйста, повторите попытку в другом месте.",
+	"item.mining_dims.teleporter4": "Добро пожаловать домой!",
+	"item.mining_dims.teleporter5": "Для начала установите точку возрождения на кровати.",
+	"item.mining_dims.teleporter.desc": "Портативное телепортационное устройство",
+	"item.mining_dims.teleporter.desc2": "Нажмите [ПКМ] в приседе для возврата на кровать",
+
+	"item.mining_dims.diamond_nugget": "Алмазный самородок",
+	"item.mining_dims.netherite_fragment": "Кусочек незерита",
+
+	"item.mining_dims.flint_and_diamond": "Портальная зажигалка",
+
+	"item.mining_dims.mining_portal_block": "Блок портала измерения \"Добычи\"",
+	"block.mining_dims.mining_portal_block": "Блок портала измерения \"Добычи\"",
+
+	"item.mining_dims.hunting_portal_block": "Блок портала измерения \"Охоты\"",
+	"block.mining_dims.hunting_portal_block": "Блок портала измерения \"Охоты\"",
+
+	"item.mining_dims.caving_portal_block": "Блок портала измерения \"Пещер\"",
+	"block.mining_dims.caving_portal_block": "Блок портала измерения \"Пещер\"",
+
+	"item.mining_dims.nethering_portal_block": "Блок портала измерения \"Незера\"",
+	"block.mining_dims.nethering_portal_block": "Блок портала измерения \"Незера\"",
+
+	"item.mining_dims.climbing_portal_block": "Блок портала измерения \"Скал\"",
+	"block.mining_dims.climbing_portal_block": "Блок портала измерения \"Скал\"",
+
+	"enchantment.mining_dims.returning": "Возвращение",
+	"enchantment.mining_dims.returning.desc": "Нажмите [ПКМ] в приседе для возврата на кровать"
+}

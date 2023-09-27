@@ -1,0 +1,31 @@
+{
+  "item.duckling.duck_spawn_egg": "Яйцо призыва утки",
+  "item.duckling.quackling_spawn_egg": "Яйцо призыва крякера",
+  "item.duckling.duck_egg": "Утиное яйцо",
+  "block.duckling.holiday_fruit_cake": "Праздничный фруктовый торт",
+  "item.duckling.raw_duck": "Сырая утятина",
+  "item.duckling.cooked_duck": "Жареная утятина",
+  "entity.duckling.duck": "Утка",
+  "entity.duckling.quackling": "Крякер",
+  "entity.duckling.duck_egg": "Утиное яйцо",
+
+  "subtitles.duckling.quack": "Утка крякает",
+  "subtitles.duckling.deep_quack": "Крякер крякает",
+  "subtitles.duckling.duck_death": "Утка ранена",
+  "subtitles.duckling.quackling_death": "Крякер ранен",
+
+  "advancements.duckling.agent_d.title": "Супер Секретный Шпион",
+  "advancements.duckling.agent_d.description": "Покормите Agent D, супер секретного шпиона!",
+
+  "advancements.duckling.breed_duck.title": "Посмотри на всех этих куриц!",
+  "advancements.duckling.breed_duck.description": "Размножьте пару уток",
+
+  "advancements.duckling.fishing_rod.title": "Сделка с крякером",
+  "advancements.duckling.fishing_rod.description": "Дайте удочку крякеру",
+
+  "advancements.duckling.holiday_fruit_cake.title": "Немного фруктов не помешает",
+  "advancements.duckling.holiday_fruit_cake.description": "Получите праздничный фруктовый торт",
+
+  "advancements.duckling.pet_duck.title": "Передоз милоты",
+  "advancements.duckling.pet_duck.description": "Покормите утку"
+}

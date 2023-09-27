@@ -1,0 +1,10 @@
+{
+  "alloy_forgery.forge_controller_name_pattern": "{type} {name}",
+
+  "alloy_forgery.forge_controller": "Контроллер плавильни",
+  "container.alloy_forgery.alloy_forge": "Плавильная печь",
+  "container.alloy_forgery.rei.title": "Выплавка сплавов",
+  "container.alloy_forgery.rei.min_tier": "Мин. уровень: %1$f",
+  "container.alloy_forgery.rei.heat": "Треб. нагрев: %d",
+  "message.alloy_forgery.invalid_multiblock": "Многоблочная плавильня построена неправильно"
+}

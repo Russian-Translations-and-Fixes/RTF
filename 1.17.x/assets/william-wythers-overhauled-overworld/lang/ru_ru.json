@@ -1,0 +1,9 @@
+{
+    "text.autoconfig.wwoo/main_configs.title": "Настройки William Wythers' Overhauled Overworld",
+    "text.autoconfig.wwoo/main_configs.option.MiscConfig.enableWWOO": "Включить William Wythers' Overhauled Overworld?",
+    "text.autoconfig.wwoo/main_configs.option.MiscConfig.enableCC": "Включить пещеры и высоту строительства из 1.18 (и биомы Пещер)?",
+    "text.autoconfig.wwoo/main_configs.option.MiscConfig.enableMS": "Включить больше строений?",
+    "text.autoconfig.wwoo/main_configs.option.MiscConfig.enablePS": "Заменить грибные биомы призмариновыми районами?",
+    "text.autoconfig.wwoo/main_configs.option.MiscConfig.enableOO": "Убрать скалистые острова и стобовидные скалы из Океана?",
+    "text.autoconfig.wwoo/main_configs.option.MiscConfig.enablePF": "Заменить Холмы тёмного леса на Призрачный лес?"
+}

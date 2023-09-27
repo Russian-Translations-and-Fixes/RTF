@@ -1,0 +1,15 @@
+{
+    "block.geodes.emerald_geode": "Блок изумрудных кристаллов",
+    "block.geodes.budding_emerald": "Цветущий изумруд",
+    "block.geodes.emerald_cluster": "Изумрудная друза",
+    "block.geodes.large_emerald_bud": "Большой изумрудный бутон",
+    "block.geodes.medium_emerald_bud": "Средний изумрудный бутон",
+    "block.geodes.small_emerald_bud": "Малый изумрудный бутон",
+    "item.geodes.emerald_shard": "Осколок изумруда",
+    "block.geodes.quartz_geode": "Блок кварцевых кристаллов",
+    "block.geodes.budding_quartz": "Цветущий кварц",
+    "block.geodes.quartz_cluster": "Кварцевая друза",
+    "block.geodes.large_quartz_bud": "Большой кварцевый бутон",
+    "block.geodes.medium_quartz_bud": "Средний кварцевый бутон",
+    "block.geodes.small_quartz_bud": "Малый кварцевый бутон"
+}

@@ -1,0 +1,48 @@
+{
+    "block.minecells.big_chain": "Большая цепь",
+    "block.minecells.elevator_assembler": "Основа лифта",
+
+    "death.attack.minecells.aura": "%s не уважал границы %s",
+    "death.attack.minecells.backstab": "%s был заколот в спину %s",
+    "death.attack.minecells.elevator": "%s превратился в блинчик",
+
+    "effect.minecells.electrified": "Наэлектризованный",
+    "effect.minecells.electrified.description": "Постепенно наносит урон во время нахождения в воде. Пока не добавлен (WIP).",
+    "effect.minecells.protected": "Под щитом",
+    "effect.minecells.protected.description": "Защищает от любого урона пока действует эффект.",
+
+    "entity.minecells.disgusting_worm": "Мерзкий червь",
+    "entity.minecells.grenadier": "Гранатомётчик",
+    "entity.minecells.inquisitor": "Инквизитор",
+    "entity.minecells.kamikaze": "Камикадзе",
+    "entity.minecells.leaping_zombie": "Прыгучий зомби",
+    "entity.minecells.mutated_bat": "Мутировавшая мышь",
+    "entity.minecells.protector": "Защитник",
+    "entity.minecells.rancid_rat": "Мерзкая крыса",
+    "entity.minecells.runner": "Бегун",
+    "entity.minecells.sewers_tentacle": "Сточное щупальце",
+    "entity.minecells.shieldbearer": "Щитоносец",
+    "entity.minecells.shocker": "Электрошокер",
+    "entity.minecells.undead_archer": "Оживший лучник",
+
+    "item.minecells.assassins_dagger": "Кинжал ассасина",
+    "item.minecells.assassins_dagger.tooltip": "Наносит %s урона если\nатаковать врага со спины",
+    "item.minecells.disgusting_worm_spawn_egg": "Яйцо призыва мерзкого червя",
+    "item.minecells.elevator_mechanism": "Подъёмный механизм",
+    "item.minecells.grenadier_spawn_egg": "Яйцо призыва гранатомётчика",
+    "item.minecells.inquisitor_spawn_egg": "Яйцо призыва инквизитора",
+    "item.minecells.kamikaze_spawn_egg": "Яйцо призыва камикадзе",
+    "item.minecells.leaping_zombie_spawn_egg": "Яйцо призыва прыгучего зомби",
+    "item.minecells.mutated_bat_spawn_egg": "Яйцо призыва мутировавшей мыши",
+    "item.minecells.protector_spawn_egg": "Яйцо призыва защитника",
+    "item.minecells.rancid_rat_spawn_egg": "Яйцо призыва мерзкой крысы",
+    "item.minecells.runner_spawn_egg": "Яйцо призыва бегуна",
+    "item.minecells.sewers_tentacle_spawn_egg": "Яйцо призыва сточного щупальца",
+    "item.minecells.shieldbearer_spawn_egg": "Яйцо призыва щитоносца",
+    "item.minecells.shocker_spawn_egg": "Яйцо призыва электрошокера",
+    "item.minecells.undead_archer_spawn_egg": "Яйцо призыва ожившего лучника",
+
+    "itemGroup.minecells.blocks_and_items": "Mine Cells: Блоки и предметы",
+    "itemGroup.minecells.eggs": "Mine Cells: Яйца призыва",
+    "itemGroup.minecells.weapons": "Mine Cells: Оружие"
+}

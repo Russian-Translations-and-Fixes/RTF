@@ -1,0 +1,10 @@
+{
+  "item.bombastic.powder_barrel_minecart": "Вагонетка с пороховой бочкой",
+  "item.bombastic.activator": "Дистанционный активатор",
+  "entity.bombastic.powder_barrel_minecart": "Вагонетка с пороховой бочкой",
+  "entity.bombastic.powder_barrel": "Активированная пороховая бочка",
+  "block.bombastic.detonator": "Детонатор",
+  "block.bombastic.powder_barrel": "Пороховая бочка",
+  "message.bombastic.no_coords": "Детонатор не привязан!",
+  "message.bombastic.no_detonator": "Детонатор отсутствует по координатам: x: %d, y: %d, z: %d"
+}

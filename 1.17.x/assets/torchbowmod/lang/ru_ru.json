@@ -1,0 +1,16 @@
+{
+  "item.torchbowmod.torchbow": "Факельный лук",
+  "item.torchbowmod.multitorch": "Связка факелов",
+  "item.torchbowmod.torcharrow": "Факельная стрела",
+  "itemGroup.torchBowModTab": "Torch Bow Mod",
+  "itemGroup.torchbowmod.torchbowmod_tab": "Torch Bow Mod",
+  "death.attack.EntityTorch": "%1$s пронзён насмерть факелом %2$s",
+  "log.sb.check": "Проверка наличия установленного Storagebox...",
+  "log.sb.load": "Storagebox установлен. Загрузка завершена.",
+  "log.sb.error": "Ошибка загрузки Storagebox.",
+  "log.sb.unload": "Storagebox не установлен.",
+  "log.sg.check": "Проверка наличия установленного Silent's Gems...",
+  "log.sg.load": "Silent's установлен. Загрузка завершена.",
+  "log.sg.error": "Ошибка загрузки Silent's Gems.",
+  "log.sg.unload": "Silent's Gems не установлен."
+}

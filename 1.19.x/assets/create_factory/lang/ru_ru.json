@@ -1,0 +1,27 @@
+{
+  "item.create_factory.chocolate_roll": "Рулет в шоколадной глазури",
+  "item.create_factory.honey_glazed_berries": "Сладкие ягоды в медовой глазури",
+  "item.create_factory.chocolate_apple": "Яблоко в шоколадной глазури",
+  "item.create_factory.caramel_roll": "Карамельный рулет",
+  "item.create_factory.dark_chocolate_roll": "Рулет в тёмной шоколадной глазури",
+  "item.create_factory.honey_roll": "Медовый рулет",
+  "item.create_factory.ruby_chocolate_roll": "Рулет в рубиновой шоколадной глазури",
+  "item.create_factory.white_chocolate_roll": "Рулет в белой шоколадной глазури",
+
+  "item.create_factory.caramel_apple": "Карамельное яблоко",
+  "item.create_factory.dark_chocolate_apple": "Яблоко в тёмной шоколадной глазури",
+  "item.create_factory.ruby_chocolate_apple": "Яблоко в рубиновой шоколадной глазури",
+  "item.create_factory.white_chocolate_apple": "Яблоко в белой шоколадной глазури",
+
+  "item.create_factory.chocolate_waffle": "Вафля в шоколадной глазури",
+  "item.create_factory.caramel_waffle": "Вафля в карамельной глазури",
+  "item.create_factory.dark_chocolate_waffle": "Вафля в тёмной шоколадной глазури",
+  "item.create_factory.honey_waffle": "Медовая вафля",
+  "item.create_factory.ruby_chocolate_waffle": "Вафля в рубиновой шоколадной глазури",
+  "item.create_factory.white_chocolate_waffle": "Вафля в белой шоколадной глазури",
+  "item.create_factory.waffle": "Вафля",
+  "item.create_factory.uncooked_waffle": "Сырая вафля",
+  "item.create_factory.cake_paste": "Тесто для вафель",
+
+  "itemGroup.create_factory_tab": "Create: Factory"
+}

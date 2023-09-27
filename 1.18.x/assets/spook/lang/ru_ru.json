@@ -1,0 +1,10 @@
+{
+    "block.spook.spikeghostblock": "Шипастый призрачный блок",
+    "entity.spook.eyeghost_2": "Пугач",
+    "entity.spook.projectile_eyedart": "Снаряд глазо-пушки",
+    "item.spook.eyedart": "Глазо-пушка",
+    "item.spook.eyeghost_2_spawn_egg": "Яйцо призыва пугача",
+    "subtitles.entity.eyeghost.ambient": "?",
+    "subtitles.entity.eyeghost.death": "Глазо-пушка визжит",
+    "subtitles.entity.eyeghost.shoot": "Глазо-пушка выстреливает"
+}

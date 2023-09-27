@@ -1,0 +1,16 @@
+{
+    "block.create_electric_trains.electric_wire_curve_l_hanging": "Электрический провод с поворотом налево",
+    "block.create_electric_trains.electric_wire_curve_r_hanging": "Электрический провод с поворотом направо",
+    "block.create_electric_trains.electric_wire_diagonal": "Диагональный электрический провод",
+    "block.create_electric_trains.electric_wire_diagonal_hanging": "Диагональный электрический провод",
+    "block.create_electric_trains.electric_wire_diagonal_to_straight": "Электрический провод с поворотом направо",
+    "block.create_electric_trains.electric_wire_split_l": "Электрический провод с разделением налево",
+    "block.create_electric_trains.electric_wire_split_l_hanging": "Электрический провод с разделением налево",
+    "block.create_electric_trains.electric_wire_split_r": "Электрический провод с разделением направо",
+    "block.create_electric_trains.electric_wire_split_r_hanging": "Электрический провод с разделением направо",
+    "block.create_electric_trains.electric_wire_straight": "Электрический провод",
+    "block.create_electric_trains.electric_wire_straight_hanging": "Электрический провод",
+    "block.create_electric_trains.electric_wire_straight_to_diagonal": "Электрический провод с поворотом налево",
+    "item.create_electric_trains.electric_particle": "Часть электрического провода",
+    "itemGroup.tabcreate_electric_trains": "Create: Electric Trains"
+}
