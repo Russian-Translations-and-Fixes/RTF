@@ -752,7 +752,7 @@
     "text.autoconfig.ad_astra.option.waterPump.maxEnergy": "Максимальный объём хранимой энергии",
     "text.autoconfig.ad_astra.option.waterPump.tankBuckets": "Объём бака",
     "text.autoconfig.ad_astra.option.waterPump.transferPerTick": "Передача воды за тик",
-    "text.autoconfig.ad_astra.title": "Настройки - Ad Astra",
+    "text.autoconfig.ad_astra.title": "Ad Astra - Настройки",
 
     "tooltip.ad_astra.consumable": "§2Расходуемый предмет",
     "tooltip.ad_astra.hold_shift": "Удерживайте [Shift] для сводки",
