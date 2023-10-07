@@ -1,0 +1,12 @@
+{
+  "gui.convenientnametags.title": "Переименовать",
+  "gui.convenientnametags.experience_required": "Требуемый уровень: %d",
+  "gui.convenientnametags.not_enough_experience": "Недостаточно уровней опыта",
+  "gui.convenientnametags.apply": "✔",
+  "gui.convenientnametags.clear": "_",
+  "gui.convenientnametags.cancel": "x",
+  "gui.convenientnametags.apply.tooltip": "Применить",
+  "gui.convenientnametags.clear.tooltip": "Очистить",
+  "gui.convenientnametags.cancel.tooltip": "Отменить",
+  "message.convenientnametags.denylisted": "Вы пытаетесь применить недопустимое название"
+}
