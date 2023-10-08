@@ -1,9 +1,6 @@
 {
     "itemGroup.ghostz.item_group": "GhostZ",
     "item.ghostz.ghost_lantern": "Призрачный фонарь",
-    "xp": "1Призрачный фонарь",
-    "item.ghostz.ghost_lantern.xp.tag": "2Призрачный фонарь",
-    "item.ghostz.ghost_lantern.xp": "3Призрачный фонарь",
     "block.ghostz.ghost_lantern_block": "Размещаемый призрачный фонарь",
     "block.ghostz.wisp": "Огонёк фонаря",
     "tooltip.ghostz.can_be_placed": "Можно разместить",

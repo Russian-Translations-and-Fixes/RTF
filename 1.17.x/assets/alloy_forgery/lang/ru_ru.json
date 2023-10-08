@@ -12,7 +12,7 @@
   "container.alloy_forgery.forge_controller": "Плавильная печь",
   "container.alloy_forgery.rei.title": "Выплавка сплавов",
   "container.alloy_forgery.rei.min_tier": "Треб. уровень: %d",
-  "container.alloy_forgery.rei.fuel_per_tick": "Топлива в тик: %d",
+  "container.alloy_forgery.rei.fuel_per_tick": "Топлива за тик: %d",
   "container.alloy_forgery.rei.button": "Изменить уровень плавильни",
 
   "message.alloy_forgery.invalid_multiblock": "Многоблочная плавильня построена неправильно",
