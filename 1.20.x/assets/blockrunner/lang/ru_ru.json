@@ -1,1 +1,4 @@
-{"block.blockrunner.speedMultiplier":"Множитель скорости: %s","block.blockrunner.speed_multiplier":"Множитель скорости: %s"}
+{
+  "block.blockrunner.speedMultiplier": "Множитель скорости: %s",
+  "block.blockrunner.speed_multiplier": "Множитель скорости: %s"
+}

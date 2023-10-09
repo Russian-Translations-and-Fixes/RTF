@@ -26,7 +26,7 @@
   "item.bosses_of_mass_destruction.monolith_block.tooltip_0": "Когда установлен, увеличивает силу взрывов на 30%",
   "item.bosses_of_mass_destruction.monolith_block.tooltip_1": "в радиусе 64 блоков. Эффект не суммируется",
 
-  "block.bosses_of_mass_destruction.levitation_block" : "Стол подъёма",
+  "block.bosses_of_mass_destruction.levitation_block" : "Стол левитации",
   "item.bosses_of_mass_destruction.levitation_block.tooltip": "Когда установлен, даёт возможность летать, как в Творческом режиме в области 7х7 блоков",
 
   "advancements.nether.gauntlet_defeat.title": "Перчатка в дырку",
