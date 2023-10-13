@@ -1,17 +1,17 @@
 {
-  "name": "Frost Ward",
+  "name": "Морозный страж",
   "icon": "simplyswords:runic_tablet",
   "category": "simplyswords:category_rune_etching",
   "pages": [
     {
       "type": "patchouli:spotlight",
       "item": "simplyswords:runic_tablet",
-      "title": "Frost Ward",
-      "text": "Frost Ward is a runic power that imbues the wielder's weapon with the $(#38caff)$(l)essence of cold and frost$(). $(br2)It creates a ward that periodically fires movement impairing snowballs at nearby enemies."
+      "title": "Морозный страж",
+      "text": "Морозный страж — это руническая сила, наделяющая оружие владельца $(#38caff)$(l)сущностью холода и льда$(). $(br2)Она периодически выстреливает в ближайших врагов снежками, замедляющими врагов."
     },
     {
       "type": "patchouli:text",
-      "text": "Frost Ward is an ideal choice for those who prefer a more defensive playstyle, as it allows them to control the battlefield with ease."
+      "text": "Морозный страж — это идеальный выбор для тех, кто предпочитает более оборонительный стиль игры, так как он позволяет легко контролировать поле боя."
     }
   ]
 }

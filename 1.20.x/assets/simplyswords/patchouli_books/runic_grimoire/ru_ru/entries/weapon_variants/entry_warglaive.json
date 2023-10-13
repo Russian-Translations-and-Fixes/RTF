@@ -1,12 +1,12 @@
 {
-  "name": "Warglaive",
+  "name": "Боевой клинок",
   "icon": "simplyswords:iron_warglaive",
   "category": "simplyswords:category_weapon_variants",
   "pages": [
     {
       "type": "patchouli:spotlight",
       "item": "simplyswords:iron_warglaive",
-      "text": "Warglaives are known for their speed and agility and with their razor-sharp edges, they can deliver swift and deadly strikes. They require a high level of dexterity and skill to wield effectively, but when used correctly they can be very effective in battle."
+      "text": "Боевые клинки известны своей скоростью, а благодаря своим острым, как бритва, лезвиям они могут наносить быстрые и смертельные удары. Для эффективного владения ими требуется высокий уровень ловкости и мастерства, но при правильном использовании они могут быть очень эффективны в бою."
     },
     {
       "type": "patchouli:crafting",

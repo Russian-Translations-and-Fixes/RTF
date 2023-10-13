@@ -1,12 +1,12 @@
 {
-  "name": "Greathammer",
+  "name": "Большой молот",
   "icon": "simplyswords:iron_greathammer",
   "category": "simplyswords:category_weapon_variants",
   "pages": [
     {
       "type": "patchouli:spotlight",
       "item": "simplyswords:iron_greathammer",
-      "text": "The Greathammer is known for its ability to deliver devastating damage with each strike, due to its weight and size. It was traditionally used by infantry and heavy cavalry in medieval warfare, and it was also used by blacksmiths, masons, and other laborers for heavy-duty striking."
+      "text": "Большой молот известен тем, что благодаря своей массе и размерам способен наносить сокрушительный урон при каждом ударе. Он традиционно использовался пехотой и тяжелой кавалерией в средневековых войнах, а также кузнецами, каменщиками и другими рабочими для нанесения тяжелых ударов."
     },
     {
       "type": "patchouli:crafting",

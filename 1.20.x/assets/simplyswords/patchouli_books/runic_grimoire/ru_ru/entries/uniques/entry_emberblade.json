@@ -1,5 +1,5 @@
 {
-  "name": "Emberblade",
+  "name": "Тлеющий клинок",
   "icon": "simplyswords:emberblade",
   "advancement": "simplyswords:emberblade",
   "category": "simplyswords:category_unique_weapons",
@@ -7,11 +7,11 @@
     {
       "type": "patchouli:spotlight",
       "item": "simplyswords:emberblade",
-      "text": "The Emberblade is a powerful longsword that is imbued with the power of fire. The blade is forged from a rare metal that is able to withstand the intense heat of the flames that surround it. Known to engulf its wielder in flames, The Emberblade can grant increased strength and speed."
+      "text": "Тлеющий клинок — мощный длинный меч, наделённый силой огня. Клинок выкован из редкого металла, способного выдерживать сильный жар окружающего его пламени. Известно, что Тлеющий клинок способен охватить своего владельца пламенем и придать ему большую силу и скорость."
     },
     {
       "type": "patchouli:text",
-      "text": "It's said that the sword chooses its wielder and that only those who are worthy of it can wield it. However, it has been said that using the sword's abilities for too long can cause the wielder to lose control and become overwhelmed by the flames, resulting in a most horrifying demise."
+      "text": "Говорят, что меч выбирает своего владельца, и только тот, кто достоин его, может им владеть. Однако слишком долгое использование способностей меча может привести к тому, что владелец потеряет контроль над собой и будет охвачен пламенем, что приведет к ужасающей гибели."
     }
   ]
 }

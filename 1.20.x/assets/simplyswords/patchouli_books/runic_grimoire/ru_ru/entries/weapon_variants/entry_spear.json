@@ -1,12 +1,12 @@
 {
-  "name": "Spear",
+  "name": "Копьё",
   "icon": "simplyswords:iron_spear",
   "category": "simplyswords:category_weapon_variants",
   "pages": [
     {
       "type": "patchouli:spotlight",
       "item": "simplyswords:iron_spear",
-      "text": "Spears have been used throughout history as a weapon for hunting and warfare. They are known for their versatility and range, and are primarily used for thrusting. They are also relatively simple to make and maintain, making them a popular weapon among ancient and primitive cultures."
+      "text": "Копья использовались на протяжении всей истории человечества как оружие для охоты и ведения войны. Они известны своей универсальностью и дальнобойностью и используются в основном для метания. Кроме того, они достаточно просты в изготовлении и обслуживании, что сделало их популярным оружием в древних и первобытных культурах."
     },
     {
       "type": "patchouli:crafting",

@@ -1,16 +1,16 @@
 {
-  "name": "Netherfused Gem",
+  "name": "Насыщенный незеритом самоцвет",
   "icon": "simplyswords:netherfused_gem",
   "category": "simplyswords:category_gem_socketing",
   "pages": [
     {
       "type": "patchouli:spotlight",
       "item": "simplyswords:netherfused_gem",
-      "text": "Netherfused Gems can be obtained by combining an Empowered Remnant and a Netherite Ingot within a smithing table. Once identified, these gems will reveal a random power housed within the gem."
+      "text": "Насыщенный незеритом самоцвет можно получить путём объединения наделённой силой материю и незеритового слитка в столе кузнеца. После идентификации самоцвет получит случайную силу, заключенную в нём."
     },
     {
       "type": "patchouli:text",
-      "text": "Netherfused Gems can be socketed onto Unique weapons that contain an empty [ netherfused socket ]."
+      "text": "Насыщенные незеритом самоцветы могут быть инкрустированы в уникальное оружие которое имеет [ Пустое незеритовое гнездо ]."
     },
     {
       "type": "patchouli:smithing",

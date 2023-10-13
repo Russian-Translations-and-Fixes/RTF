@@ -1,17 +1,17 @@
 {
-  "name": "Active Defence",
+  "name": "Активная оборона",
   "icon": "simplyswords:runic_tablet",
   "category": "simplyswords:category_rune_etching",
   "pages": [
     {
       "type": "patchouli:spotlight",
       "item": "simplyswords:runic_tablet",
-      "title": "Active Defence",
-      "text": "Active Defence is a runic power that imbues the wielder's weapon with the $(#389fff)$(l)essence of protection$(). $(br2)It grants the wielder a chance to periodically fire arrows at nearby enemies, as long as the wielder has arrows in their inventory."
+      "title": "Активная оборона",
+      "text": "Активная оборона — это руническая сила, наделяющая оружие владельца $(#389fff)$(l)сущностью защиты$(). $(br2)Она даёт владельцу возможность периодически выпускать стрелы в ближайших врагов, пока у него есть стрелы в инвентаре."
     },
     {
       "type": "patchouli:text",
-      "text": "Keep in mind that this power requires the wielder to have arrows in their inventory, if the wielder runs out of arrows, the power will deactivate and the wielder will have to restock before they can use it again. $(br2)It's ideal for characters that rely on kiting and crowd control, as the arrows can keep enemies at bay while the wielder repositions."
+      "text": "Помните, что эта способность требует наличия стрел в инвентаре владельца. Если у владельца закончатся стрелы, способность деактивируется, и ему придётся пополнить запасы, прежде чем он сможет использовать её снова. $(br2)Она идеально подходит для персонажей, которые полагаются на кайтинг и контроль врагов, так как стрелы могут держать их на расстоянии, пока владелец меняет позиции на более удобную."
     }
   ]
 }

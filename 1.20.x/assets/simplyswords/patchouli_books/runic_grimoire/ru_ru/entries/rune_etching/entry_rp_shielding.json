@@ -1,17 +1,17 @@
 {
-  "name": "Shielding",
+  "name": "Защита",
   "icon": "simplyswords:runic_tablet",
   "category": "simplyswords:category_rune_etching",
   "pages": [
     {
       "type": "patchouli:spotlight",
       "item": "simplyswords:runic_tablet",
-      "title": "Shielding",
-      "text": "Shielding is a runic power that imbues the wielder's weapon with the $(#389fff)$(l)essence of protection$(). $(br2)It grants the wielder a chance to grant absorption on hit with each successful strike."
+      "title": "Защита",
+      "text": "Защита — это руническая сила, наделяющая оружие владельца $(#389fff)$(l)сущностью защиты$(). $(br2)Она даёт владльцу шанс получить эффект \"Поглощение\" при каждой успешной атаке."
     },
     {
       "type": "patchouli:text",
-      "text": "Shielding is a powerful runic power that can give the wielder an edge in battle by protecting them from harm. It's ideal for characters that are focused on tanking and absorbing damage, such as warriors and paladins. $(br2)It also can be useful for characters that rely on heavy hitting attacks, as the absorption effect allows them to stay in the fight for longer."
+      "text": "Защита — это мощная руническая сила, которая даёт владельцу преимущество в бою, защищая его от урона. Она идеально подходит для персонажей, ориентированных на защиту и поглощение урона, таких как воины и паладины. $(br2)Она также может быть полезна персонажам, которые полагаются на сильные удары, поскольку эффект поглощения позволяет им дольше оставаться в бою."
     }
   ]
 }

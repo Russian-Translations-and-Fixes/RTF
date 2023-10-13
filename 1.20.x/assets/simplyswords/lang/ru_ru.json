@@ -112,7 +112,7 @@
   "item.simplyswords.righteous_relic": "Праведная реликвия",
   "item.simplyswords.whisperwind": "Шелест ветра",
 
-  "item.simplyswords.runic_tablet": "Руническая табличка",
+  "item.simplyswords.runic_tablet": "Руническая скрижаль",
   "item.simplyswords.runefused_gem": "Насыщенный рунами самоцвет",
   "item.simplyswords.netherfused_gem": "Насыщенный незеритом самоцвет",
   "item.simplyswords.empowered_remnant": "Наделённая силой материя",
@@ -462,12 +462,12 @@
   "item.simplyswords.awakening.powers": "Пробуждённые силы:",
   "item.simplyswords.greater_runic_power": "Великий",
   "item.simplyswords.runefused_power": "Руническая сила:",
-  "item.simplyswords.gem_description": "Может быть вставлен в соответствующее",
+  "item.simplyswords.gem_description": "Может быть инкрустирован в соответствующее",
   "item.simplyswords.gem_description2": "гнездо для самоцвета уникального оружия.",
-  "item.simplyswords.remnant_description": "Соединяется на столе кузнеца с Рунической табличкой,",
-  "item.simplyswords.remnant_description2": "Незеритовым слитком или Плачущим обсидианом,",
+  "item.simplyswords.remnant_description": "Соединяется на столе кузнеца с",
+  "item.simplyswords.remnant_description2": "Рунической скрижалью или Незеритовым слитком,",
   "item.simplyswords.remnant_description3": "чтобы создать самоцвет, который можно",
-  "item.simplyswords.remnant_description4": "вставить в гнездо уникального оружия.",
+  "item.simplyswords.remnant_description4": "инкрустировать в гнездо уникального оружия.",
   "item.simplyswords.empty_runic_slot": "[ Пустое руническое гнездо ]",
   "item.simplyswords.empty_nether_slot": "[ Пустое незеритовое гнездо ]",
   "item.simplyswords.filled_runic_slot": "[ Насыщенный рунами самоцвет ]",
@@ -850,6 +850,21 @@
   "item.simplyswords.uniquesworditem.netherfused_power.soulshock.description": "Когда оружие будет в ведущей руке",
   "item.simplyswords.uniquesworditem.netherfused_power.soulshock.description2": "увеличивает силу заклинаний",
   "item.simplyswords.uniquesworditem.netherfused_power.soulshock.description3": "душ и молний.",
+
+  "item.simplyswords.uniquesworditem.netherfused_power.spellstandard": "[ Незеритовое насыщение: Магический штандарт ]",
+  "item.simplyswords.uniquesworditem.netherfused_power.spellstandard.description": "При попадании заклинанием есть",
+  "item.simplyswords.uniquesworditem.netherfused_power.spellstandard.description2": "вероятность призвать Магический штандарт,",
+  "item.simplyswords.uniquesworditem.netherfused_power.spellstandard.description3": "который даёт \"Точность\" и \"Магическую закалку\".",
+
+  "item.simplyswords.uniquesworditem.netherfused_power.warstandard": "[ Незеритовое насыщение: Боевой штандарт ]",
+  "item.simplyswords.uniquesworditem.netherfused_power.warstandard.description": "При рывке вперёд призывает",
+  "item.simplyswords.uniquesworditem.netherfused_power.warstandard.description2": "Боевой штандарт, который даёт \"Могущество\"",
+  "item.simplyswords.uniquesworditem.netherfused_power.warstandard.description3": "и обнаруживает ближайших врагов.",
+
+  "item.simplyswords.uniquesworditem.netherfused_power.deception": "[ Незеритовое насыщение: Уловка ]",
+  "item.simplyswords.uniquesworditem.netherfused_power.deception.description": "При уклонении от атаки,",
+  "item.simplyswords.uniquesworditem.netherfused_power.deception.description2": "используя мастерство уклонения,",
+  "item.simplyswords.uniquesworditem.netherfused_power.deception.description3": "есть вероятность очиститься от обнаружения.",
 
   "item.simplyswords.common.blacklisteffect": "СПОСОБНОСТЬ ОТКЛЮЧЕНА",
   "item.simplyswords.common.showtooltip": "- Удерживайте [§2Alt§7] для просмотра слотов -",
@@ -1344,6 +1359,9 @@
   "text.autoconfig.simplyswords_main.option.gem_effects.spellshieldChance": "Вероятность срабатывания \"Магический щит\"",
   "text.autoconfig.simplyswords_main.option.gem_effects.enableSpellforged": "Включить \"Магическая закалка\"",
   "text.autoconfig.simplyswords_main.option.gem_effects.enableSoulshock": "Включить \"Шторм душ\"",
+  "text.autoconfig.simplyswords_main.option.gem_effects.enableSpellStandard": "Включить \"Магический штандарт\"",
+  "text.autoconfig.simplyswords_main.option.gem_effects.enableWarStandard": "Включить \"Боевой штандарт\"",
+  "text.autoconfig.simplyswords_main.option.gem_effects.enableDeception": "Включить \"Уловка\"",
 
   "text.autoconfig.simplyswords_main.option.status_effects.echoDamage": "Базовый урон эффекта \"Эхо\""
 }

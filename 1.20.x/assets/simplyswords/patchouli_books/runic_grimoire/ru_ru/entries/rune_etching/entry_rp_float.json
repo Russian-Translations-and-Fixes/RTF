@@ -1,17 +1,17 @@
 {
-  "name": "Float",
+  "name": "Левитация",
   "icon": "simplyswords:runic_tablet",
   "category": "simplyswords:category_rune_etching",
   "pages": [
     {
       "type": "patchouli:spotlight",
       "item": "simplyswords:runic_tablet",
-      "title": "Float",
-      "text": "Float is a runic power that harnesses the power of levitation, allowing the wielder to manipulate gravity and reverse its effects on their targets. $(br2)It grants the wielder a chance to lift their enemies off the ground, making them temporarily unable to move or act."
+      "title": "Левитация",
+      "text": "Левитация — это руническая сила, наделяющая оружие владельца силой левитации, которая позволяет манипулировать гравитацией и оказывать обратный эффект на врагов. $(br2)Она даёт владельцу возможность поднять врага с земли, лишив его на время возможности двигаться и действовать."
     },
     {
       "type": "patchouli:text",
-      "text": "Float is a powerful runic power that can disrupt the flow of battle and give the wielder a strategic advantage. $(br2)It's ideal for characters that are focused on crowd control and support, such as mages, warlocks, and summoners, who can use the power to immobilize their enemies and give their allies an opening to strike."
+      "text": "Левитация — мощная руническая сила, способная нарушить ход боя и дать владельцу стратегическое преимущество. $(br2)Она идеально подходит для персонажей, ориентированных на контроль врагов и поддержку, таких как маги, колдуны и призыватели, которые могут использовать эту силу для обездвиживания врагов и предоставления союзникам возможности нанести удар."
     }
   ]
 }

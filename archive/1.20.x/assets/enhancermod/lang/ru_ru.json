@@ -19,8 +19,8 @@
     "block.enhancermod.wild_beet": "Морская свёкла",
     "block.enhancermod.wild_carrot": "Дикая морковь",
     "block.enhancermod.wild_potato": "Дикий картофель",
-    "block.enhancermod.wild_wheat": "Пырей",
-    "block.minecraft.blast_furnace": "Улучшенная плавильная печь",
+    "block.enhancermod.wild_wheat": "Дикие ростки пшеницы",
+    "block.minecraft.blast_furnace": "Усиленная плавильная печь",
     "block.minecraft.stonecutter": "Настольная пила",
 
     "container.blast_furnace": "Улучшенная плавильная печь",
@@ -67,7 +67,7 @@
     "item.minecraft.tipped_arrow.effect.strong_roaring_star_potion": "Стрела ревущей звезды",
 
     "stat.minecraft.interact_with_blast_furnace": "Улучшенная плавильная печь использована",
-    "stat.minecraft.interact_with_stonecutter": "ННастольная пила использована",
+    "stat.minecraft.interact_with_stonecutter": "Настольная пила использована",
 
     "subtitles.block.blastfurnace.fire_crackle": "Улучшенная плавильная печь разгорается",
     "subtitles.ui.stonecutter.take_result": "Настольная пила разрезает"

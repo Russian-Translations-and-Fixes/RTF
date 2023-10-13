@@ -1,12 +1,12 @@
 {
-  "name": "Scythe",
+  "name": "Коса",
   "icon": "simplyswords:iron_scythe",
   "category": "simplyswords:category_weapon_variants",
   "pages": [
     {
       "type": "patchouli:spotlight",
       "item": "simplyswords:iron_scythe",
-      "text": "The Scythe is known for its ability to deliver devastating damage with each strike, due to its weight and sharpened blade. The Scythe can be used for cutting and slicing attacks in a wide radius, thanks to its particularly large curved blade and long handle."
+      "text": "Коса известна своей способностью наносить сокрушительный урон при каждом ударе благодаря своему весу и остро заточенному лезвию. Коса может использоваться для режущих и колющих ударов в широком радиусе, благодаря особо крупному изогнутому лезвию и длинной рукоятке."
     },
     {
       "type": "patchouli:crafting",

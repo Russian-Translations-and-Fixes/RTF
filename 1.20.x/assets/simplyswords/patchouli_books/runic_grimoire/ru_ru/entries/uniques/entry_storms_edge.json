@@ -1,5 +1,5 @@
 {
-  "name": "Storm's Edge",
+  "name": "Клинок бури",
   "icon": "simplyswords:storms_edge",
   "advancement": "simplyswords:storms_edge",
   "category": "simplyswords:category_unique_weapons",
@@ -7,11 +7,11 @@
     {
       "type": "patchouli:spotlight",
       "item": "simplyswords:storms_edge",
-      "text": "The Storm's Edge is said to be forged from a rare metal that is able to channel and harness the power of electricity. The hilt is made of a dark wood and are wrapped in protective leather."
+      "text": "По преданию, Клинок бури выкован из редкого металла, способного передавать и использовать электрическую энергию. Рукоятка выполнена из тёмного дерева и обтянута кожей."
     },
     {
       "type": "patchouli:text",
-      "text": "The twinblade has the ability to store electricity, and with a command word or willpower, the wielder can release it to propel themselves forward, quickly closing the distance with their enemies and becoming temporarily invulnerable to all attacks."
+      "text": "Обоюдоострый клинок способен накапливать электричество, и с помощью командного слова или силы воли владелец может выпустить его, чтобы совершить рывок вперёд, быстро сокращая дистанцию с противником и становясь временно неуязвимым для всех атак."
     }
   ]
 }

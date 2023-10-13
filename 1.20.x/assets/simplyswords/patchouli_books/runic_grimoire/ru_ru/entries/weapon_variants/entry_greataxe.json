@@ -1,12 +1,12 @@
 {
-  "name": "Greataxe",
+  "name": "Большой топор",
   "icon": "simplyswords:iron_greataxe",
   "category": "simplyswords:category_weapon_variants",
   "pages": [
     {
       "type": "patchouli:spotlight",
       "item": "simplyswords:iron_greataxe",
-      "text": "The greataxe requires a high level of strength and skill to wield effectively. It is a two-handed weapon, which means that the wielder uses both hands to hold and swing the weapon. It's also known for its versatility as it can be used for chopping, slicing, and crushing attacks."
+      "text": "Для эффективного владения большим топором требуется высокий уровень силы и мастерства. Это двуручное оружие, то есть для удержания и замаха используются обе руки. Он также известен своей универсальностью, поскольку может использоваться для рубящих, режущих и дробящих ударов."
     },
     {
       "type": "patchouli:crafting",
