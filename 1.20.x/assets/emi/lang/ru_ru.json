@@ -36,6 +36,9 @@
   "key.emi.back": "Назад",
   "config.emi.tooltip.binds.back": "Вернуться на предыдущую страницу EMI.",
 
+  "key.emi.forward": "Вперёд",
+  "config.emi.tooltip.binds.forward": "Вернуться на следующую страницу EMI.",
+
 
   "key.emi.craft_one": "Создать один",
   "config.emi.tooltip.binds.craft_one": "Разместить на рабочей станции количество предметов достаточное для создания одной партии предмета.",
