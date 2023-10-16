@@ -1,5 +1,5 @@
 {
-  "key.keyboard.control": "Control",
+  "key.keyboard.control": "Ctrl",
   "key.keyboard.alt": "Alt",
   "key.keyboard.shift": "Shift",
 
@@ -35,6 +35,9 @@
 
   "key.emi.back": "Назад",
   "config.emi.tooltip.binds.back": "Вернуться на предыдущую страницу EMI.",
+
+  "key.emi.forward": "Вперёд",
+  "config.emi.tooltip.binds.forward": "Вернуться на следующую страницу EMI.",
 
 
   "key.emi.craft_one": "Создать один",
