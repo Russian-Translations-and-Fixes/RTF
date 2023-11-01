@@ -1,6 +1,6 @@
 {
-  "name": "Renewables",
-  "description": "$(pncr) has a collection of processes to produce some renewable resources, in particular Biodiesel.",
+  "name": "Возобновляемые ресурсы",
+  "description": "В $(pncr) имеется комплекс процессов для производства некоторых возобновляемых ресурсов, в частности биодизельного топлива.",
   "icon": "pneumaticcraft:biodiesel_bucket",
   "sortnum": 11
 }

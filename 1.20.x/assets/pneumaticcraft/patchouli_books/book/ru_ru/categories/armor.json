@@ -1,6 +1,6 @@
 {
-  "name": "Pneumatic Armor",
-  "description": "A full suit of highly-upgradable armor with a wide range of powerful abilities.",
+  "name": "Броня",
+  "description": "Полный комплект улучшаемой брони с широким спектром мощных способностей.",
   "icon": "pneumaticcraft:pneumatic_helmet",
   "sortnum": 9
 }

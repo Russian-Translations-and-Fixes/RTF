@@ -1,6 +1,6 @@
 {
-  "name": "Logistics",
-  "description": "The Logistics System is a powerful way to move items and fluids around and keep inventories and tanks stocked.",
+  "name": "Логистика",
+  "description": "Логистическая сеть  — это мощный инструмент для перемещения предметов и жидкостей, а также обеспечения наличия запасов нужных вещей и жидкостей.",
   "icon": "pneumaticcraft:logistics_drone",
   "sortnum": 8
 }

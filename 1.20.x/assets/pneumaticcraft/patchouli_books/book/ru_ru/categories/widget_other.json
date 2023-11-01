@@ -1,6 +1,6 @@
 {
-  "name": "Other Widgets",
-  "description": "Any widgets which don't fit into any of the other categories.",
+  "name": "Прочие фрагменты",
+  "description": "Любые фрагменты, которые не подходят ни к одной из других категорий.",
   "icon": "pneumaticcraft:textures/progwidgets/comment_piece.png",
   "parent": "pneumaticcraft:programming",
   "sortnum": 4

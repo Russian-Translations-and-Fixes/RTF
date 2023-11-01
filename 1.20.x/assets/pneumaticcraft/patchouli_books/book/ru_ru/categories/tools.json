@@ -1,6 +1,6 @@
 {
-  "name": "Tools",
-  "description": "These are various handheld items - tools and weapons - which serve a useful purpose.",
+  "name": "Инструменты",
+  "description": "Это различные ручные предметы — инструменты и оружие, которые будут полезны в достижении поставленных игроком целей.",
   "icon": "pneumaticcraft:pneumatic_wrench",
   "sortnum": 6
 }

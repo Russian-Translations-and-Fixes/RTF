@@ -1,6 +1,6 @@
 {
-  "name": "Flow Control Widgets",
-  "description": "Widgets that affect the program flow.",
+  "name": "Фрагменты контролирующие ход программы",
+  "description": "Фрагменты, влияющие на работу программы и очерёдность исполнения прочих фрагментов.",
   "icon": "pneumaticcraft:textures/progwidgets/start_piece.png",
   "parent": "pneumaticcraft:programming",
   "sortnum": 1

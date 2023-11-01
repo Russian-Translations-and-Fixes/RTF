@@ -1,52 +1,52 @@
 {
-  "name": "Pneumatic Boots",
+  "name": "Пневмоботинки",
   "icon": "pneumaticcraft:pneumatic_boots",
   "category": "pneumaticcraft:armor",
   "advancement": "pneumaticcraft:printed_circuit_board",
   "pages": [
     {
       "type": "text",
-      "text": "The $(item)Pneumatic Boots/$ is one of the four $(thing)Pneumatic Armor/$ pieces.$(p)The boots provide inbuilt fall protection at a modest air cost (proportional to the fall damage negated).$(p)You also get 1-block step assist for free (no air cost).  Note that this is step assist, not auto-jump, and it's a toggleable feature."
+      "text": "$(item)Пневмоботинки/$ — это один из четырёх элементов $(thing)Пневмоброни/$.$(p)Эти ботинки обеспечивают защиту от падения, за счёт среднего расхода воздуха (пропорционально полученному урону).$(p)Вы также получаете бесплатную помощь в выполнении шага на 1 блок (воздух не расходуется). Обратите внимание, что это помощь в ходьбе, а не автопрыжок, и это переключаемая функция."
     },
     {
       "type": "crafting",
       "recipe": "pneumaticcraft:pneumatic_boots",
-      "text": "Crafting a Pneumatic Boots"
+      "text": "Создание пневмоботинок"
     },
     {
       "type": "spotlight",
       "item": "pneumaticcraft:jet_boots_upgrade_1",
-      "text": "If you've ever wanted to soar through the air without a care in the world (except how much pressure you have left), the $(l:base_concepts/upgrades#jet_boots_1)Jet Boots Upgrade/$ is for you.  There are 5 tiers of Jet Boots Upgrade for progressively faster flight, and greater air usage."
+      "text": "Если вы когда-нибудь хотели парить в воздухе, не заботясь ни о чем на свете (кроме того, сколько давления у вас осталось), то $(l:base_concepts/upgrades#jet_boots_1)Улучшение: Реактивные ботинки/$ для вас. Для более быстрого полёта (и, конечно, большего расхода воздуха) доступны 5 уровней улучшения."
     },
     {
       "type": "text",
-      "title": "Jet Boots (cont.)",
-      "text": "When the upgrade is active, simply hold the $(k:pneumaticcraft.boots.jet_boots) key to thrust in the direction you're looking.$(p)$(thing)Jet Boots/$ are a $(bold)heavy/$ user of air; it's strongly recommended to add multiple $(l:base_concepts/upgrades#volume)Volume Upgrades/$ to your boots (and $(l:armor/pneumatic_chestplate)chestplate/$, with $(l:base_concepts/upgrades#charging)Charging Upgrades/$).$(p)Use of an $(l:machines/aerial_interface)Aerial Interface/$ is also advised when possible, along with a good charging infrastructure at your base."
+      "title": "Реактивные ботинки",
+      "text": "Когда улучшение активировано, просто удерживайте клавишу [$(k:pneumaticcraft.boots.jet_boots)], чтобы ускориться в направлении взгляда.$(p)$(thing)Реактивные ботинки/$ очень $(bold)сильно/$ расходуют воздух. По этому, рекомендуется установить несколько $(l:base_concepts/upgrades#volume)Улучшений: Объём/$ в ботинки (и $(l:armor/pneumatic_chestplate)нагрудник/$, с $(l:base_concepts/upgrades#charging)Улучшением: Заправщик/$).$(p)Рекомендуется также использовать $(l:machines/aerial_interface)Воздушный интерфейс/$, если это возможно, и иметь хорошую заправочную инфраструктуру на базе."
     },
     {
       "type": "text",
-      "title": "Jet Boots (cont.)",
-      "text": "With $(l:base_concepts/upgrades#jet_boots_3)Jet Boots Upgrades: Tier III/$ or better, you will also have access to $(thing)Builder Mode/$, which allows for more creative-style (but slower) flight control and improved airborne digging speed.$(p)This can be toggled on & off via the armor GUI (and bound to a toggle key)."
+      "title": "Реактивные ботинки",
+      "text": "Начиная с $(l:base_concepts/upgrades#jet_boots_3)Улучшения: Реактивные ботинки III/$ или лучше, вам также станет доступен $(thing)Режим строительства/$, его можно переключить через интерфейс брони. Полёт в этом режиме схож с полётом в творческом режиме игры, он даст возможность ломать блоки быстрее находясь в воздухе, но с меньшей скоростью передвижения."
     },
     {
       "type": "text",
-      "title": "Jet Boots (cont.)",
-      "text": "With $(l:base_concepts/upgrades#jet_boots_4)Jet Boots Upgrades: Tier IV/$ or better, you also get access to $(thing)Flight Stabilizers/$, which will bring you to an immediate halt when you release the thrust key (at an air cost proportional to the speed you were travelling at).$(p)Like Builder Mode, this too can be toggled on & off via the armor GUI (and bound to a toggle key)."
+      "title": "Реактивные ботинки",
+      "text": "Начиная с $(l:base_concepts/upgrades#jet_boots_4)Улучшения: Реактивные ботинки IV/$ или лучше, вам также станут доступны $(thing)Стабилизаторы полёта/$, они будут немедленно останавливать вас, как только вы отпустите клавишу ускорения (расход воздуха будет пропорционален скорости полёта).$(p)Как и режим строительства, это тоже можно переключить в интерфейсе пневмоброни (и назначить для этого горячую клавишу)."
     },
     {
       "type": "spotlight",
       "item": "pneumaticcraft:dispenser_upgrade",
-      "text":  "By adding up to 4 $(l:base_concepts/upgrades#dispenser)Dispenser Upgrades/$ to the boots, you gain the ability to execute a $(bold)pneumatic kick/$.  This will do moderate damage to entities (and not just living entities!), but also inflict heavy knockback, at a modest air cost.$(p)Press $(thing)$(k:pneumaticcraft.boots.kick)/$ to kick."
+      "text":  "При установке до 4 $(l:base_concepts/upgrades#dispenser)Улучшений: Раздатчик/$ в пневмоботинки, вы получите возможность совершать $(bold)пневмопинок/$. Он наносит средний урон существам (и не только живым существам!), а также достаточно сильно их отталкивает, за счёт среднего расхода воздуха.$(p)Нажмите [$(thing)$(k:pneumaticcraft.boots.kick)/$], чтобы пнуть."
     },
     {
       "type": "spotlight",
       "item": "pneumaticcraft:flippers_upgrade",
-      "text":  "With a $(l:base_concepts/upgrades#flippers)Flippers Upgrade/$ installed, you will enjoy a moderate benefit to your swim speed. This has no extra air cost, so is a much cheaper alternative to the Jet Boots when in the water."
+      "text":  "С установленным $(l:base_concepts/upgrades#flippers)Улучшением: Ласты/$, Это улучшение не расходует воздух, и является более \"дешёвой\" альтернативой использованию улучшения \"Реактивные ботинки\" под водой."
     },
     {
       "type": "spotlight",
       "item": "pneumaticcraft:stomp_upgrade",
-      "text":  "With a $(l:base_concepts/upgrades#stomp)Stomp Upgrade/$ installed and active, you can rain destruction down on your foes. If you hit the ground fast enough to take damage (even if that damage is absorbed by your boots), nearby mobs will be injured, proportionally to how fast you arrived. This uses up some air for each mob that was injured thus."
+      "text":  "С установленным и активированным $(l:base_concepts/upgrades#stomp)Улучшением: Тяжёлая поступь/$, вы будете наносить урон существам, упав на них со значительной высоты. Наносимый урон (и расход воздуха) пропорционален тому, как быстро вы ударитесь о землю. Также воздух расходуется отдельно за каждое поражённое существо."
     }
   ]
 }
