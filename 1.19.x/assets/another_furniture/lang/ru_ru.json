@@ -1,8 +1,9 @@
 {
     "itemGroup.another_furniture": "Another Furniture",
     "itemGroup.another_furniture.tab": "Another Furniture",
+    "item_group.another_furniture.tab": "Another Furniture",
 
-    "subtitles.block.another_furniture.service_bell.use": "Колокольчик звенит",
+    "subtitles.block.another_furniture.service_bell.use": "Звонок звенит",
     "subtitles.block.another_furniture.chair.tuck": "Стул задвинут",
     "subtitles.block.another_furniture.chair.untuck": "Стул выдвинут",
     "subtitles.block.another_furniture.curtain.use": "Штора сдвинута",
@@ -22,6 +23,8 @@
     "block.another_furniture.mangrove_chair": "Мангровый стул",
     "block.another_furniture.crimson_chair": "Багровый стул",
     "block.another_furniture.warped_chair": "Искажённый стул",
+    "block.another_furniture.bamboo_chair": "Бамбуковый стул",
+    "block.another_furniture.cherry_chair": "Вишнёвый стул",
 
     "block.another_furniture.oak_shelf": "Дубовая полка",
     "block.another_furniture.spruce_shelf": "Еловая полка",
@@ -32,6 +35,8 @@
     "block.another_furniture.mangrove_shelf": "Мангровая полка",
     "block.another_furniture.crimson_shelf": "Багровая полка",
     "block.another_furniture.warped_shelf": "Искажённая полка",
+    "block.another_furniture.bamboo_shelf": "Бамбуковая полка",
+    "block.another_furniture.cherry_shelf": "Вишнёвая полка",
 
     "block.another_furniture.oak_table": "Дубовый стол",
     "block.another_furniture.spruce_table": "Еловый стол",
@@ -42,6 +47,8 @@
     "block.another_furniture.mangrove_table": "Мангровый стол",
     "block.another_furniture.crimson_table": "Багровый стол",
     "block.another_furniture.warped_table": "Искажённый стол",
+    "block.another_furniture.bamboo_table": "Бамбуковый стол",
+    "block.another_furniture.cherry_table": "Вишнёвый стол",
 
     "block.another_furniture.oak_shutter": "Дубовая ставня",
     "block.another_furniture.spruce_shutter": "Еловая ставня",
@@ -52,6 +59,8 @@
     "block.another_furniture.mangrove_shutter": "Мангровая ставня",
     "block.another_furniture.crimson_shutter": "Багровая ставня",
     "block.another_furniture.warped_shutter": "Искажённая ставня",
+    "block.another_furniture.bamboo_shutter": "Бамбуковая ставня",
+    "block.another_furniture.cherry_shutter": "Вишнёвая ставня",
 
     "block.another_furniture.oak_planter_box": "Дубовый цветочный ящик",
     "block.another_furniture.spruce_planter_box": "Еловый цветочный ящик",
@@ -63,6 +72,18 @@
     "block.another_furniture.crimson_planter_box": "Багровый цветочный ящик",
     "block.another_furniture.warped_planter_box": "Искажённый цветочный ящик",
 
+    "block.another_furniture.oak_flower_box": "Дубовый цветочный ящик",
+    "block.another_furniture.spruce_flower_box": "Еловый цветочный ящик",
+    "block.another_furniture.birch_flower_box": "Берёзовый цветочный ящик",
+    "block.another_furniture.jungle_flower_box": "Цветочный ящик из тропического дерева",
+    "block.another_furniture.acacia_flower_box": "Акациевый цветочный ящик",
+    "block.another_furniture.dark_oak_flower_box": "Цветочный ящик из тёмного дуба",
+    "block.another_furniture.mangrove_flower_box": "Мангровый цветочный ящик",
+    "block.another_furniture.crimson_flower_box": "Багровый цветочный ящик",
+    "block.another_furniture.warped_flower_box": "Искажённый цветочный ящик",
+    "block.another_furniture.bamboo_flower_box": "Бамбуковый цветочный ящик",
+    "block.another_furniture.cherry_flower_box": "Вишнёвый цветочный ящик",
+
     "block.another_furniture.oak_bench": "Дубовая скамейка",
     "block.another_furniture.spruce_bench": "Еловая скамейка",
     "block.another_furniture.birch_bench": "Берёзовая скамейка",
@@ -72,6 +93,8 @@
     "block.another_furniture.mangrove_bench": "Мангровая скамейка",
     "block.another_furniture.crimson_bench": "Багровая скамейка",
     "block.another_furniture.warped_bench": "Искажённая скамейка",
+    "block.another_furniture.bamboo_bench": "Бамбуковая скамейка",
+    "block.another_furniture.cherry_bench": "Вишнёвая скамейка",
 
 	"block.another_furniture.oak_drawer": "Дубовый комод",
     "block.another_furniture.spruce_drawer": "Еловый комод",
@@ -82,6 +105,8 @@
     "block.another_furniture.mangrove_drawer": "Мангровый комод",
     "block.another_furniture.crimson_drawer": "Багровый комод",
     "block.another_furniture.warped_drawer": "Искажённый комод",
+    "block.another_furniture.bamboo_drawer": "Бамбуковый комод",
+    "block.another_furniture.cherry_drawer": "Вишнёвый комод",
 
     "block.another_furniture.white_sofa": "Белый диван",
     "block.another_furniture.orange_sofa": "Оранжевый диван",
@@ -116,8 +141,8 @@
     "block.another_furniture.green_stool": "Зелёный табурет",
     "block.another_furniture.red_stool": "Красный табурет",
     "block.another_furniture.black_stool": "Чёрный табурет",
-    "block.another_furniture.white_curtain": "Белая штора",
 
+    "block.another_furniture.white_curtain": "Белая штора",
     "block.another_furniture.orange_curtain": "Оранжевая штора",
     "block.another_furniture.magenta_curtain": "Пурпурная штора",
     "block.another_furniture.light_blue_curtain": "Голубая штора",
@@ -169,5 +194,33 @@
     "block.another_furniture.red_tall_stool": "Красный барный табурет",
     "block.another_furniture.black_tall_stool": "Чёрный барный табурет",
 
-    "block.another_furniture.service_bell": "Звонок"
+    "block.another_furniture.service_bell": "Звонок",
+
+    "block.another_furniture.white_awning": "Белый навес",
+    "block.another_furniture.orange_awning": "Оранжевый навес",
+    "block.another_furniture.magenta_awning": "Пурпурный навес",
+    "block.another_furniture.light_blue_awning": "Голубой навес",
+    "block.another_furniture.yellow_awning": "Жёлтый навес",
+    "block.another_furniture.lime_awning": "Лаймовый навес",
+    "block.another_furniture.pink_awning": "Розовый навес",
+    "block.another_furniture.gray_awning": "Серый навес",
+    "block.another_furniture.light_gray_awning": "Светло-серый навес",
+    "block.another_furniture.cyan_awning": "Бирюзовый навес",
+    "block.another_furniture.purple_awning": "Фиолетовый навес",
+    "block.another_furniture.blue_awning": "Синий навес",
+    "block.another_furniture.brown_awning": "Коричневый навес",
+    "block.another_furniture.green_awning": "Зелёный навес",
+    "block.another_furniture.red_awning": "Красный навес",
+    "block.another_furniture.black_awning": "Чёрный навес",
+
+    "block.another_furniture.oak_lattice": "Дубовая решётка",
+    "block.another_furniture.spruce_lattice": "Еловая решётка",
+    "block.another_furniture.birch_lattice": "Берёзовая решётка",
+    "block.another_furniture.jungle_lattice": "Решётка из тропического дерева",
+    "block.another_furniture.acacia_lattice": "Акациевая решётка",
+    "block.another_furniture.dark_oak_lattice": "Решётка из тёмного дуба",
+    "block.another_furniture.crimson_lattice": "Багровая решётка",
+    "block.another_furniture.warped_lattice": "Искажённая решётка",
+    "block.another_furniture.bamboo_lattice": "Бамбуковая решётка",
+    "block.another_furniture.cherry_lattice": "Вишнёвая решётка"
 }

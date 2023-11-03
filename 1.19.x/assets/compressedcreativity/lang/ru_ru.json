@@ -21,10 +21,12 @@
   "block.compressedcreativity.pink_plastic_bracket": "Розовая пластиковая скоба",
   "block.compressedcreativity.purple_plastic_bracket": "Фиолетовая пластиковая скоба",
   "block.compressedcreativity.red_plastic_bracket": "Красная пластиковая скоба",
-  "block.compressedcreativity.rotational_compressor": "Ротационный компрессор",
+  "block.compressedcreativity.rotational_compressor": "Вращательный компрессор",
   "block.compressedcreativity.white_plastic_bracket": "Белая пластиковая скоба",
   "block.compressedcreativity.yellow_plastic_bracket": "Жёлтая пластиковая скоба",
+
   "compressedcreativity.gui.tooltip.expand": "Удерживайте [Shift] для сводки",
+
   "compressedcreativity.mechanical_visor.armor.gui.block_tracker.min": "Содержит дополнительную информацию",
   "compressedcreativity.mechanical_visor.armor.gui.block_tracker_mode": "Режим трекера блоков",
   "compressedcreativity.mechanical_visor.armor.gui.block_tracker_mode.all": "Вся информация",
@@ -37,21 +39,26 @@
   "compressedcreativity.mechanical_visor.armor.gui.tooltip_mode.classic": "Классический",
   "compressedcreativity.mechanical_visor.armor.gui.tooltip_mode.none": "Выключен",
   "compressedcreativity.mechanical_visor.armor.gui.tooltip_mode.widget": "Виджет",
+
   "compressedcreativity.ponder.air_blower.header": "Воздушным потоком сжатого воздуха",
   "compressedcreativity.ponder.air_blower.text_1": "Воздуходувка использует сжатый воздух для создания воздушного потока",
-  "compressedcreativity.ponder.air_blower.text_2": "Скорость воздушного потока, так же как и скорость потребления воздуха, зависит от давления",
+  "compressedcreativity.ponder.air_blower.text_2": "Скорость воздушного потока, так же как и скорость расхода воздуха, зависит от давления",
+
   "compressedcreativity.ponder.compressed_air_engine.header": "Генерацией силы вращения воздушным давлением",
   "compressedcreativity.ponder.compressed_air_engine.text_1": "Двигатель на сжатом воздухе использует сжатый воздух для генерации силы вращения",
   "compressedcreativity.ponder.compressed_air_engine.text_2": "Несколько двигателей могут быть объединены путём размещения друг за другом или соединением гаечным ключом",
-  "compressedcreativity.ponder.rotational_compressor.header": "Генерацией давления ротационным компрессором",
-  "compressedcreativity.ponder.rotational_compressor.text_1": "Ротационный компрессор используется для генерации давления",
+
+  "compressedcreativity.ponder.rotational_compressor.header": "Негнетанием давления вращательным компрессором",
+  "compressedcreativity.ponder.rotational_compressor.text_1": "Вращательный компрессор используется для генерации давления",
   "compressedcreativity.ponder.rotational_compressor.text_2": "Для его работы требуется соблюдать направление вращения",
   "compressedcreativity.ponder.rotational_compressor.text_3": "Воздух будет утекать с несоединенных сторон труб и некоторых механизмов!",
   "compressedcreativity.ponder.rotational_compressor.text_4": "Не допускайте накопления давления в механизмах",
   "compressedcreativity.ponder.rotational_compressor.text_5": "Если давление будет выше допустимого предела...",
   "compressedcreativity.ponder.rotational_compressor.text_6": "Механизм может взорваться!",
+
   "compressedcreativity.ponder.tag.pressure": "Воздушным давлением",
   "compressedcreativity.ponder.tag.pressure.description": "Компоненты, использующие сжатый воздух",
+
   "compressedcreativity.recipe.blasting.air_blower": "Воздуходувка за лавой",
   "compressedcreativity.recipe.blasting.industrial_air_blower": "Индустриальная воздуходувка за лавой",
   "compressedcreativity.recipe.haunting.air_blower": "Воздуходувка за огнём душ",
@@ -60,8 +67,9 @@
   "compressedcreativity.recipe.smoking.industrial_air_blower": "Индустриальная воздуходувка за огнём",
   "compressedcreativity.recipe.washing.air_blower": "Воздуходувка за водой",
   "compressedcreativity.recipe.washing.industrial_air_blower": "Индустриальная воздуходувка за водой",
+
   "compressedcreativity.tooltip.air": "Воздух:",
-  "compressedcreativity.tooltip.air_production": "Производство воздуха:",
+  "compressedcreativity.tooltip.air_production": "Нагнетание воздуха:",
   "compressedcreativity.tooltip.air_usage": "Потребление воздуха:",
   "compressedcreativity.tooltip.compressed_air_engine.idle_1": "Механизм простаивает:",
   "compressedcreativity.tooltip.compressed_air_engine.idle_2": "Этот механизм использует воздух, даже если в данный момент она не работает",
@@ -77,23 +85,27 @@
   "compressedcreativity.tooltip.rotational_compressor.wrong_direction_desc": "Этот механизм не будет работать при вращении в этом направлении",
   "compressedcreativity.tooltip.temperature": "Температура:",
   "compressedcreativity.tooltip.temperature_cooling": "Скорость охлаждения:",
-  "compressedcreativity.unit.air": " мл",
-  "compressedcreativity.unit.air_per_tick": " мл/т",
-  "compressedcreativity.unit.bar": " бар",
+
+  "compressedcreativity.unit.air": "мЛ",
+  "compressedcreativity.unit.air_per_tick": "мЛ/тик",
+  "compressedcreativity.unit.bar": "бар",
   "compressedcreativity.unit.temp": "C\u00B0",
-  "compressedcreativity.unit.temp_per_tick": "C\u00B0/т",
+  "compressedcreativity.unit.temp_per_tick": "C\u00B0/тик",
+
   "item.compressedcreativity.brass_coated_upgrade_matrix": "Латунированная матрица улучшения",
   "item.compressedcreativity.brass_gilded_lapis_lazuli": "Латунированный лазурит",
   "item.compressedcreativity.engine_rotor": "Ротор двигателя",
   "item.compressedcreativity.incomplete_mesh_splashing": "Незаконченная пропитанная водой сетка",
-  "item.compressedcreativity.mechanical_visor_upgrade": "Улучшение - Инженерный визор",
+  "item.compressedcreativity.mechanical_visor_upgrade": "Улучшение: Инженерный визор",
   "item.compressedcreativity.mesh_dense": "Плотная сетка",
   "item.compressedcreativity.mesh_empty": "Рамка сетки",
   "item.compressedcreativity.mesh_haunted": "Призрачная сетка",
   "item.compressedcreativity.mesh_splashing": "Пропитанная водой сетка",
-  "item.compressedcreativity.mesh_splashing_frozen": "Замороженная сетка",
+  "item.compressedcreativity.mesh_splashing_frozen": "Замёрзшая сетка",
   "item.compressedcreativity.mesh_woven": "Плетёная сетка",
+
   "itemGroup.compressedcreativity.main": "Compressed Creativity",
+
   "pneumaticcraft.armor.upgrade.compressedcreativity.block_tracker_module_kinetic": "Кинетические блоки",
   "pneumaticcraft.armor.upgrade.compressedcreativity.mechanical_visor": "Инженерный визор",
   "pneumaticcraft.gui.tab.info.item.armor.head.compressedcreativity.mechanical_visorUpgrade": "§0Инженерный визор даёт возможность видеть информацию о некоторых механизмах, как если бы вы носили инженерные очки."
