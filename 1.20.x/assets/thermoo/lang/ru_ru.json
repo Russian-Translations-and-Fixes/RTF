@@ -5,7 +5,7 @@
     "attribute.thermoo.generic.min_temperature": "Минимальная температура",
 
     "commands.thermoo.environment.checktemperature.success": "Пассивное изменение температуры на координатах: %s, %s, %s (%s): %d",
-    "commands.thermoo.environment.printcontroller.success": "Контроллер записан в консоль   ",
+    "commands.thermoo.environment.printcontroller.success": "Контроллер записан в консоль",
     "commands.thermoo.temperature.add.success.multiple": "Температура увеличена на %d для %d сущности(ей)",
     "commands.thermoo.temperature.add.success.single": "Температура увеличена на %d для %s (сейчас %d)",
     "commands.thermoo.temperature.exception.not_living_entity": "Цель НЕ живая сущность!",

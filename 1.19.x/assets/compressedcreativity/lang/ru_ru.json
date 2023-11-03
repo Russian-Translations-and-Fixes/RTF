@@ -86,9 +86,9 @@
   "compressedcreativity.tooltip.temperature": "Температура:",
   "compressedcreativity.tooltip.temperature_cooling": "Скорость охлаждения:",
 
-  "compressedcreativity.unit.air": "мЛ",
-  "compressedcreativity.unit.air_per_tick": "мЛ/тик",
-  "compressedcreativity.unit.bar": "бар",
+  "compressedcreativity.unit.air": "мл",
+  "compressedcreativity.unit.air_per_tick": " мл/тик",
+  "compressedcreativity.unit.bar": " бар",
   "compressedcreativity.unit.temp": "C\u00B0",
   "compressedcreativity.unit.temp_per_tick": "C\u00B0/тик",
 

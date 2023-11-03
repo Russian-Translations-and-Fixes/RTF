@@ -8,8 +8,12 @@
   "tutorial.spell_hotbar.unbound": "Назначьте клавишу!",
 
   "spell.tooltip.host.proxy": "Использует заклинания из экипированной книги заклинаний",
+  "spell.tooltip.host.proxy.spell": "Использует заклинания из экипированной книги заклинаний",
+  "spell.tooltip.host.proxy.arrow": "Использует навыки стрельбы из экипированной книги заклинаний",
   "spell.tooltip.host.additional": "Дополнительные заклинания:",
   "spell.tooltip.host.pre_loaded": "Применяет заклинание при использовании",
+  "spell.tooltip.host.list.spell": "Заклинания:",
+  "spell.tooltip.host.list.arrow": "Навыки:",
   "spell.tooltip.host.bindable": "Источник заклинаний",
   "spell.tooltip.host.limit": "({current}/{max})",
   "spell.tooltip.cast_instant": "Мгновенное произнесение заклинания",

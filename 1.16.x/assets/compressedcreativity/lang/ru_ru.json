@@ -1,9 +1,9 @@
 {
   "itemGroup.compressedcreativity.main": "Compressed Creativity",
 
-  "compressedcreativity.unit.bar": "бар",
-  "compressedcreativity.unit.air": "мЛ",
-  "compressedcreativity.unit.air_per_tick": "мЛ/тик",
+  "compressedcreativity.unit.bar": " бар",
+  "compressedcreativity.unit.air": "мл",
+  "compressedcreativity.unit.air_per_tick": " мл/тик",
 
   "block.compressedcreativity.rotational_compressor": "Вращательный компрессор",
 
