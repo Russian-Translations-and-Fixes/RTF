@@ -1,0 +1,14 @@
+{
+    "bridgingmod.config.failed_integration.title": "Интерфейс настроек отключен!",
+    "bridgingmod.config.failed_integration.description": "Настройки этой модификации отключены в снапшотах",
+
+    "key.categories.bridgingmod": "Bridging Mod",
+    "key.bridgingmod.toggle_bridging": "Переключить помощь в мостостроении",
+
+    "text.autoconfig.bridgingmod.title": "Bridging Mod - Настройки",
+    "text.autoconfig.bridgingmod.option.enableBridgingAssist": "Включить помощь в мостостроении",
+    "text.autoconfig.bridgingmod.option.enableSlabAssist": "Выравнивать плиты в режиме помощи в мостостроении",
+    "text.autoconfig.bridgingmod.option.showCrosshair": "Показывать перекрестие помощи в мостостроении",
+    "text.autoconfig.bridgingmod.option.showDebugHighlight": "Выделять целевой блок для помощи в мостостроении в F3",
+    "text.autoconfig.bridgingmod.option.showDebugTrace": "Выделять внутренние элементы помощи в мостостроении в F3"
+}
