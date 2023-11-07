@@ -1,4 +1,6 @@
 {
+    "block.trashcans.trash_can": "Мусорный бак",
+
     "trashcans.advancement.trash_can.description": "Создать мусорный бак",
     "trashcans.advancement.trash_can.title": "Не забудьте утилизировать",
     "trashcans.advancement.ultimate_trash_can.description": "Создать безграничный мусорный бак",

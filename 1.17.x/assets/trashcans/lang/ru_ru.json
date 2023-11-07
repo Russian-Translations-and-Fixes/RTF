@@ -1,4 +1,6 @@
 {
+  "block.trashcans.trash_can": "Мусорный бак",
+
   "trashcans.block.item_trash_can": "Мусорный бак для предметов",
   "trashcans.item_trash_can.info": "Может аннулировать предметы, также есть фильтр на 9 предметов",
   "trashcans.block.energy_trash_can": "Мусорный бак для энергии",
@@ -31,5 +33,4 @@
   "trashcans.advancement.trash_can.description": "Создать мусорный бак",
   "trashcans.advancement.ultimate_trash_can.title": "Безграничная утилизация!",
   "trashcans.advancement.ultimate_trash_can.description": "Создать безграничный мусорный бак"
-  
 }

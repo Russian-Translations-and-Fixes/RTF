@@ -1,0 +1,8 @@
+{
+	"boxtrot.midnightconfig.title": "The Box Trot - Настройки",
+	"boxtrot.midnightconfig.doesBarrelFoolEndermen": "Маскировка под бочку позволяет вам смотреть на Эндерменов?",
+	"boxtrot.midnightconfig.doesBarrelHideParticles": "Маскировка под бочку скрывает частицы, когда вы крадётесь?",
+	"boxtrot.midnightconfig.doesBarrelFoolMobs": "Маскировка под бочку скрывает вас от существ, когда вы крадётесь?",
+	"boxtrot.midnightconfig.doesBarrelFoolAttackers": "Маскировка под бочку заставляет забыть атакующего о вас?",
+	"boxtrot.midnightconfig.canOpenPlayerBarrels": "Игрок может открыть инвентарь в маскировке под бочку?"
+}
