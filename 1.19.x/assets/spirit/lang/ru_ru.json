@@ -97,7 +97,7 @@
 
   "item.spirit.soul_steel_bow.description": "§b\uD83C\uDFF9§r Для стрельбы требуется любой кристалл душ",
   "item.spirit.soul_steel_tools.description": "§b\uD83D\uDDE1§r Даёт дополнительные \uD83D\uDD25 за убийство",
-  "item.spirit.soul_steel_tools.soul_fire_repairable": "§b\uD83D\uDD25§r Ремонтирует инструмент, когда он в огне душ",
+  "item.spirit.soul_steel_tools.soul_fire_repairable": "§b\uD83D\uDD25§r Чинит инструмент, когда он в огне душ",
   "item.spirit.soul_steel_wand.desc": "§b\uD83D\uDD25§r Превращает душу на пьедестале душ в незрелую душу",
 
   "rarity.spirit.common": "Простая",

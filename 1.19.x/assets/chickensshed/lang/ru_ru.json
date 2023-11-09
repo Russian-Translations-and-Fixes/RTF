@@ -1,0 +1,10 @@
+{
+  "text.autoconfig.chickensshed.title": "ChickensShed - Настройки",
+  "text.autoconfig.chickensshed.option.chicksDropFeathers": "Птенцы сбрасывают перья",
+  "text.autoconfig.chickensshed.option.dropChance": "Вероятность выпадения",
+  "text.autoconfig.chickensshed.option.chicksDropFeathers.@Tooltip": "Выпадают ли у детёнышей куриц перья?",
+  "text.autoconfig.chickensshed.option.dropChance.@Tooltip[0]": "Как часто будут выпадать перья?",
+  "text.autoconfig.chickensshed.option.dropChance.@Tooltip[1]": "(Вероятность сброса перьев курицами",
+  "text.autoconfig.chickensshed.option.dropChance.@Tooltip[2]": "ровна 1/Вероятность выпадения за тик)",
+  "modmenu.descriptionTranslation.chickensshed": "Курицы периодически сбрасывают перья."
+}

@@ -774,7 +774,7 @@
   "item.simplyswords.runic_tablet.tooltip": "Требуется для создания и",
   "item.simplyswords.runic_tablet.tooltip2": "смены силы Рунического оружия.",
   "item.simplyswords.runic_tablet.tooltip3": "Также может быть использована",
-  "item.simplyswords.runic_tablet.tooltip4": "для ремонта Уникального оружия.",
+  "item.simplyswords.runic_tablet.tooltip4": "для починки Уникального оружия.",
 
   "item.simplyswords.uniquesworditem.netherfused_power.echo": "[ Незеритовое насыщение: Эхо ]",
   "item.simplyswords.uniquesworditem.netherfused_power.echo.description": "Атаки оружием отзываются эхом,",

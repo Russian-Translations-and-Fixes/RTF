@@ -491,9 +491,9 @@
 	"item.gobber2.ring_teleport.line18": "Ограниченное использование: %s",
 	
 	"item.gobber2.gobber2_ring_repair": "Кольцо починки",
-	"item.gobber2.gobber2_ring_repair.tip1": "Медленно ремонтирует один повреждённый",
+	"item.gobber2.gobber2_ring_repair.tip1": "Медленно чинит один повреждённый",
 	"item.gobber2.gobber2_ring_repair.tip2": "предмет в инвентаре игрока",
-	"item.gobber2.gobber2_ring_repair.line1": "Медленно ремонтирует один повреждённый предмет в инвентаре игрока",
+	"item.gobber2.gobber2_ring_repair.line1": "Медленно чинит один повреждённый предмет в инвентаре игрока",
 	"item.gobber2.gobber2_ring_repair.line2": "Работает в инвентаре",
 	
 	"item.gobber2.gobber2_ring_stealth": "Кольцо невидимости",

@@ -1,0 +1,7 @@
+{
+  "text.autoconfig.chickensshed.title": "ChickensShed - Настройки",
+  "text.autoconfig.chickensshed.option.chicksDropFeathers": "Птенцы сбрасывают перья",
+  "text.autoconfig.chickensshed.option.dropFrequency": "Вероятность выпадения",
+  "text.autoconfig.chickensshed.option.chicksDropFeathers.@Tooltip": "Выпадают ли у детёнышей куриц перья?",
+  "text.autoconfig.chickensshed.option.dropFrequency.@Tooltip": "Как часто будут выпадать перья? (Мин: 6000, чем меньше, тем чаще)"
+}
