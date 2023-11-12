@@ -92,6 +92,7 @@
     "item.wiredredstone.yellow_insulated_wire": "Жёлтый изолированный провод",
     "item.wiredredstone.yellow_standing_bundled_cable": "Жёлтый жёсткий кабель",
     "item.wiredredstone.yellow_standing_insulated_wire": "Жёлтый жёсткий изолированный провод",
+    "item.wiredredstone.screwdriver": "Отвёртка",
 
     "item.wiredredstone.gate_and": "Элемент \"И\"",
     "item.wiredredstone.gate_diode": "Редстоуновый диод",
@@ -99,6 +100,8 @@
     "item.wiredredstone.gate_nor": "Элемент \"ИЛИ-НЕ\"",
     "item.wiredredstone.gate_not": "Элемент \"НЕ\"",
     "item.wiredredstone.gate_or": "Элемент \"ИЛИ\"",
+    "item.wiredredstone.gate_xnor": "Элемент \"ИСКЛ ИЛИ-НЕ\"",
+    "item.wiredredstone.gate_xor": "Элемент \"ИСКЛ НЕ\"",
     "item.wiredredstone.gate_projector_simple": "Редстоуновый проектор",
     "item.wiredredstone.gate_repeater": "Долгий повторитель",
     "item.wiredredstone.gate_rs_latch": "RS-триггер \"ИЛИ-НЕ\"",
@@ -117,6 +120,10 @@
     "overlay.wiredredstone.gate_not.out": "ВЫХОД",
     "overlay.wiredredstone.gate_or.in": "ВХОД",
     "overlay.wiredredstone.gate_or.out": "ВЫХОД",
+    "overlay.wiredredstone.gate_xnor.in": "ВХОД",
+    "overlay.wiredredstone.gate_xnor.out": "ВЫХОД",
+    "overlay.wiredredstone.gate_xor.in": "ВХОД",
+    "overlay.wiredredstone.gate_xor.out": "ВЫХОД",
     "overlay.wiredredstone.gate_projector_simple.distance": "%d м",
     "overlay.wiredredstone.gate_projector_simple.in": "ВХОД",
     "overlay.wiredredstone.gate_repeater.delay": "%.1f т",
@@ -136,6 +143,7 @@
     "tag.wiredredstone.colored_standing_bundled_cables": "Цветные жёсткие кабели",
     "tag.wiredredstone.insulated_wires": "Изолированные провода",
     "tag.wiredredstone.standing_insulated_wires": "Жёсткие изолированные провода",
+    "tag.wiredredstone.screwdrivers": "Отвёртки",
 
     "tooltip.wiredredstone.gate_repeater.delay": "Задержка: %.1f тиков",
     "tooltip.wiredredstone.mod_name": "Wired Redstone",
@@ -149,5 +157,7 @@
     "tooltip.wiredredstone.redstone_assembler.shapeless": "Расположение материалов не имеет значения",
     "tooltip.wiredredstone.redstone_assembler.use_crafting_items.false": "Использовать только предметы из входа. Предметы из сетки создания не трогать.",
     "tooltip.wiredredstone.redstone_assembler.use_crafting_items.true": "Использовать предметы из сетки создания.",
+    "tooltip.wiredredstone.screwdriver.description": "Нажмите [ПКМ] по элементу, чтобы повернуть на выходную сторону.",
+    "tooltip.wiredredstone.screwdriver.description.1": "Нажмите [Shift + ПКМ] по элементу, чтобы отразить.",
     "tooltip.wiredredstone.redstone_wire.power": "Энергия: %d"
 }

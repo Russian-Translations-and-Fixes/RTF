@@ -77,6 +77,7 @@
   "entity.minecraft.villager.monk": "Монах",
   "entity.minecraft.villager.paladins:monk": "Монах",
   "block.paladins.monk_workbench": "Стол монаха",
+  "block.paladins.monk_workbench.hint": "Верстак крестьянина монаха.",
 
   "advancements.rpg_classes.obtain_healing_rune.title": "Путь исцеления",
   "advancements.rpg_classes.obtain_healing_rune.description": "Получите руну исцеления",

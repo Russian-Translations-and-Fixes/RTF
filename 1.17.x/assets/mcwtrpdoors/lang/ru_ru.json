@@ -188,6 +188,19 @@
    "block.mcwtrpdoors.warped_blossom_trapdoor":"Искажённый цветущий люк",
    "block.mcwtrpdoors.crimson_blossom_trapdoor":"Багровый цветущий люк",
    "block.mcwtrpdoors.bamboo_blossom_trapdoor":"Бамбуковый цветущий люк",
+
+   "block.mcwtrpdoors.oak_barrel_trapdoor": "Дубовый бочковой люк",
+   "block.mcwtrpdoors.spruce_barrel_trapdoor": "Еловый бочковой люк",
+   "block.mcwtrpdoors.birch_barrel_trapdoor": "Берёзовый бочковой люк",
+   "block.mcwtrpdoors.jungle_barrel_trapdoor": "Бочковой люк из тропического дерева",
+   "block.mcwtrpdoors.acacia_barrel_trapdoor": "Акациевый бочковой люк",
+   "block.mcwtrpdoors.dark_oak_barrel_trapdoor": "Бочковой люк из тёмного дуба",
+   "block.mcwtrpdoors.mangrove_barrel_trapdoor": "Мангровый бочковой люк",
+   "block.mcwtrpdoors.warped_barrel_trapdoor": "Искажённый бочковой люк",
+   "block.mcwtrpdoors.crimson_barrel_trapdoor": "Багровый бочковой люк",
+   "block.mcwtrpdoors.bamboo_barrel_trapdoor": "Бамбуковый бочковой люк",
+   "block.mcwtrpdoors.cherry_barrel_trapdoor": "Вишнёвый бочковой люк",
+
    "block.mcwtrpdoors.bamboo_trapdoor":"Бамбуковый люк",
 
    "block.mcwtrpdoors.metal_trapdoor":"Металлический остеклённый люк",

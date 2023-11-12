@@ -1286,6 +1286,8 @@
    "pneumaticcraft.gui.progWidget.place.debug.cantPlaceBlock": "Блок не может быть размещён здесь.",
    "pneumaticcraft.gui.progWidget.place.debug.entityInWay": "Невозможно разместить блок: какое-то существо на пути.",
    "pneumaticcraft.gui.progWidget.place.debug.noClearSides": "Нет доступных сторон для размещения блока.",
+   "pneumaticcraft.gui.progWidget.standby.allowPickup" : "Разрешить подбор дрона",
+   "pneumaticcraft.gui.progWidget.standby.allowPickup.tooltip" : "Если отмечено, дрон смогут подобрать другие сущности (например, лодки/вагонетки), пока он находится в режиме ожидания.",
 
    "pneumaticcraft.gui.redstoneModule.addAdvancedPCB": "Установите плату расширения модуля, чтобы включить больше функций.",
    "pneumaticcraft.gui.redstoneModule.clickToToggle": "Нажмите, чтобы переключить",

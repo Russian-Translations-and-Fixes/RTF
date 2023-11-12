@@ -1156,6 +1156,7 @@
   "the_bumblezone.midnightconfig.superCandlesBurnsMobs": "Огромные/Ароматические свечи обжигают существ",
 
   "the_bumblezone.midnightconfig.dimensionComment": "§o§6    Раздел измерения",
+  "the_bumblezone.midnightconfig.enableInitialWelcomeMessage": "Показывать приветственное сообщение",
   "the_bumblezone.midnightconfig.fogBrightnessPercentage": "Яркость тумана в процентах",
   "the_bumblezone.midnightconfig.enableDimensionFog": "Включить туман в измерении",
   "the_bumblezone.midnightconfig.onlyOverworldHivesTeleports": "Телепортация только из Верхнего мира",
