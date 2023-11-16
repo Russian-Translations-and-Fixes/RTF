@@ -1,0 +1,30 @@
+{
+  "itemgroup.aurustab": "Aurus",
+
+  "block.aurus.overworld_quartz_ore": "Кварцевая руда",
+  "block.aurus.deepslate_overworld_quartz_ore": "Кварценосный глубинный сланец",
+  "block.aurus.upgrader": "Верстак улучшений",
+  "block.aurus.trophy": "Трофей",
+  "block.aurus.pot": "Горшок",
+  "block.aurus.pedestal": "Пьедестал",
+
+  "entity.aurus.spear_entity": "Копьё",
+  "entity.aurus.jellyfish": "Медуза",
+
+  "item.aurus.netherite_horse_armor": "Незеритовая конская броня",
+  "item.aurus.coin": "Монета",
+  "item.aurus.diving_helmet": "Водолазный шлем",
+  "item.aurus.diving_chestplate": "Водолазный костюм",
+  "item.aurus.diving_leggings": "Водолазные штаны",
+  "item.aurus.diving_boots": "Водолазные ботинки",
+  "item.aurus.tank": "Кислородный баллон",
+  "item.aurus.diving_upgrade": "Улучшение водолазного костюма",
+  "item.aurus.night_vision_diving_upgrade": "Улучшение водолазного костюма: Ночное зрение",
+  "item.aurus.water_breathing_diving_upgrade": "Улучшение водолазного костюма: Водное дыхание",
+  "item.aurus.quartz_fragment": "Осколок кварца",
+  "item.aurus.spear":  "Копьё",
+  "item.aurus.crystalized_soup":  "Кристаллизованный свекольный суп",
+  "item.aurus.quartzum_alloy": "Кварцевый сплав",
+  "item.aurus.jellyfish_spawn_egg": "Яйцо призыва медузы",
+  "item.aurus.quartz_dust": "Кварцевая пыль"
+}

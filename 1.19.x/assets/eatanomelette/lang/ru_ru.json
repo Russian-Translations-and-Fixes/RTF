@@ -1,0 +1,10 @@
+{
+  "creativemodetab.eao_tab": "Eat an Omelette",
+  "itemGroup.eao_tab": "Eat an Omelette",
+  "item.eatanomelette.omelette": "Омлет",
+  "item.eatanomelette.golden_omelette": "Золотой омлет",
+  "item.eatanomelette.enchanted_golden_omelette": "Зачарованный золотой омлет",
+  "item.eatanomelette.spanish_omelette_mix": "Смесь испанского омлета",
+  "block.eatanomelette.spanish_potato_omelette": "Испанский картофельный омлет",
+  "block.eatanomelette.enchanted_spanish_potato_omelette": "Зачарованный испанский картофельный омлет"
+}
