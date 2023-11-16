@@ -1,0 +1,17 @@
+{
+  "item.flowers.allium_seeds": "Семена лук-батун",
+  "item.flowers.azure_bluet_seeds": "Семена хуастонии серой",
+  "item.flowers.blue_orchid_seeds":  "Семена синей орхидеи",
+  "item.flowers.dandelion_seeds": "Семена одуванчика",
+  "item.flowers.poppy_seeds":  "Семена мака",
+  "item.flowers.red_tulip_seeds": "Семена красного тюльпана",
+  "item.flowers.orange_tulip_seeds":  "Семена оранжевого тюльпана",
+  "item.flowers.white_tulip_seeds": "Семена белого тюльпана",
+  "item.flowers.pink_tulip_seeds":  "Семена розового тюльпана",
+  "item.flowers.oxeye_daisy_seeds": "Семена ромашки",
+  "item.flowers.cornflower_seeds":  "Семена синего василька",
+  "item.flowers.lily_of_the_valley_seeds": "Семена ландыша",
+  "item.flowers.wither_rose_seeds":  "Семена розы визера",
+  "item.flowers.moobloom_spawn_egg":  "Яйцо призыва лютиковой коровы",
+  "entity.minecraft.villager.florist":  "Цветовод"
+}
