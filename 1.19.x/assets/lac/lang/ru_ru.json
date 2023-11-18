@@ -1,0 +1,14 @@
+{
+	"lac.screen.raceselector": "Выбор персонажа",
+	"lac.button.previous": "Предыдущий",
+	"lac.button.next": "Следующий",
+	"lac.button.save": "Сохранить",
+	"lac.key.category":"Legends And Creatures",
+	"lac.key.opengui": "Выбор персонажа",
+	"lac.text.race": "Раса",
+	"lac.text.righteye": "Правый глаз",
+	"lac.text.lefteye": "Левый глаз",
+	"lac.text.body1": "Тело 1",
+	"lac.text.body2": "Тело 2",
+	"lac.text.body3": "Тело 3"
+}
