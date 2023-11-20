@@ -83,7 +83,7 @@
   "emi_loot.condition.chance": "Выпадает с шансом %s%%",
   "emi_loot.condition.chance_looting": "Выпадает с шансом %1$s%% + %2$s%% за каждый уровень зачарования \"Добыча\"",
   "emi_loot.condition.damage_source": "Убитый %s",
-  "emi_loot.condition.location": "Выпадает в определенных локациях/мультиблоках",
+  "emi_loot.condition.location": "Выпадает в определенных локациях/многоблочных структурах",
   "emi_loot.condition.entity_props": "Выпадает когда %s",
   "emi_loot.condition.match_tool": "Для выпадения добычи необходим использовать инструмент %s",
   "emi_loot.condition.entity_scores": "Выпадает когда существо имеет определённое количество очков",

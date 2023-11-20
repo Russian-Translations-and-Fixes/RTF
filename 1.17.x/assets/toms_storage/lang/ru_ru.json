@@ -82,7 +82,7 @@
 	"tomsstorage.config.only_trims_connect": "Разрешить только коннектору кабеля присоединяться к хранилищу",
 	"tomsstorage.config.inv_cable_connector_max_scan": "Макс. длинна кабеля от коннектора кабеля",
 	"tomsstorage.config.wireless_reach": "Дальность действия беспроводного терминала",
-	"tomsstorage.config.multiblock_inv": "Мультиблоковые хранилища",
+	"tomsstorage.config.multiblock_inv": "Многоблочные хранилища",
 	"tomsstorage.config.adv_wireless_range": "Дальность действия улучшенного беспроводного терминала",
 
 	"text.autoconfig.toms_storage.title": "Tom's Simple Storage - Настройки",
@@ -90,6 +90,6 @@
 	"text.autoconfig.toms_storage.option.onlyTrims": "Разрешить только коннектору кабеля присоединяться к хранилищу",
 	"text.autoconfig.toms_storage.option.invConnectorMaxCables": "Макс. длинна кабеля от коннектора кабеля",
 	"text.autoconfig.toms_storage.option.wirelessRange": "Дальность действия беспроводного терминала",
-	"text.autoconfig.toms_storage.option.multiblockInv": "Мультиблоковые хранилища",
+	"text.autoconfig.toms_storage.option.multiblockInv": "Многоблочные хранилища",
 	"text.autoconfig.toms_storage.option.advWirelessRange": "Дальность действия улучшенного беспроводного терминала"
 }

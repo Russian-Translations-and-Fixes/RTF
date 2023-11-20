@@ -1,0 +1,49 @@
+{
+  "item.numismaticoverhaul.bronze_coin": "Бронзовая монета",
+  "item.numismaticoverhaul.silver_coin": "Серебряная монета",
+  "item.numismaticoverhaul.gold_coin": "Золотая монета",
+  "item.numismaticoverhaul.money_bag": "Мешочек с монетами",
+  "block.numismaticoverhaul.shop": "Магазин",
+  "block.numismaticoverhaul.inexhaustible_shop": "Бесконечный магазин",
+  "block.numismaticoverhaul.inexhaustible_shop.tooltip": "Только для творческого режима — никогда не заканчиваются запасы",
+  "block.numismaticoverhaul.piggy_bank": "Свинья-копилка",
+
+  "gui.numismaticoverhaul.shop.price": "Цена",
+  "gui.numismaticoverhaul.shop.inventory_title": "Инвентарь магазина",
+  "gui.numismaticoverhaul.shop.merchant_title": "Магазин",
+  "gui.numismaticoverhaul.shop.transfer_tooltip.enabled": "Воронки могут помещать \nпредметы в этот магазин",
+  "gui.numismaticoverhaul.shop.transfer_tooltip.disabled": "Воронки НЕ могут помещать \nпредметы в этот магазин",
+  "gui.numismaticoverhaul.purse_title": "Кошелёк",
+
+  "numismaticoverhaul.empty": "Пусто",
+  "filled_map.end_city": "Карта исследования Энда",
+  "currency.numismaticoverhaul.bronze": "Бронза",
+  "currency.numismaticoverhaul.silver": "Серебро",
+  "currency.numismaticoverhaul.gold": "Золото",
+
+  "itemGroup.numismaticoverhaul": "Numismatic Overhaul",
+  "itemGroup.numismaticoverhaul.main.button.modrinth": "Modrinth",
+  "itemGroup.numismaticoverhaul.main.button.curseforge": "CurseForge",
+  "itemGroup.numismaticoverhaul.main.button.github": "GitHub",
+  "itemGroup.numismaticoverhaul.main.button.discord": "Discord",
+
+  "text.config.numismaticoverhaul.title": "Numismatic Overhaul - Настройки",
+  "text.config.numismaticoverhaul.option.enableVillagerTrading": "Включить торговлю с крестьянами",
+  "text.config.numismaticoverhaul.option.enableMcaCompatibility": "Включить совместимость с MCA",
+  "text.config.numismaticoverhaul.option.pursePositionX": "Местоположение кошелька по оси X",
+  "text.config.numismaticoverhaul.option.pursePositionY": "Местоположение кошелька по оси Y",
+  "text.config.numismaticoverhaul.option.generateCurrencyInChests": "Генерировать деньги в сундуках с добычей",
+
+  "text.config.numismaticoverhaul.category.lootOptions": "Генерация добычи",
+  "text.config.numismaticoverhaul.option.lootOptions.desertMinLoot": "Минимум добычи в пустынном храме",
+  "text.config.numismaticoverhaul.option.lootOptions.desertMaxLoot": "Максимум добычи в пустынном храме",
+  "text.config.numismaticoverhaul.option.lootOptions.dungeonMinLoot": "Минимум добычи в подземелье",
+  "text.config.numismaticoverhaul.option.lootOptions.dungeonMaxLoot": "Максимум добычи в подземелье",
+  "text.config.numismaticoverhaul.option.lootOptions.structureMinLoot": "Минимум добычи в строениях",
+  "text.config.numismaticoverhaul.option.lootOptions.structureMaxLoot": "Максимум добычи в строениях",
+  "text.config.numismaticoverhaul.option.lootOptions.strongholdLibraryMinLoot": "Минимум добычи в библиотеке крепости",
+  "text.config.numismaticoverhaul.option.lootOptions.strongholdLibraryMaxLoot": "Максимум добычи в библиотеке крепости",
+
+  "gamerule.moneyDropPercentage": "Количество выпадающих денег",
+  "gamerule.moneyDropPercentage.description": "Контролирует как много будет терять денег игрок при смерти, только если параметр keepInventory имеет значение false"
+}
