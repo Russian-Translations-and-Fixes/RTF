@@ -1,8 +1,8 @@
 {
   "block.createoreexcavation.drilling_machine": "Буровая установка",
-  "block.createoreexcavation.extractor": "Извлекатель жидкости из скважины",
-  "block.createoreexcavation.io_block": "Вход-выход многоблочной структуры",
-  "block.createoreexcavation.kinetic_input": "Вход силы вращения многоблочной структуры",
+  "block.createoreexcavation.extractor": "Насосная буровая установка",
+  "block.createoreexcavation.io_block": "Вход-выход структуры",
+  "block.createoreexcavation.kinetic_input": "Вход силы вращения",
   "block.createoreexcavation.multiblock": "Многоблочная структура",
 
   "chat.coe.veinFinder.distance": "%s (примерно в %s блоках отсюда)",
@@ -29,7 +29,7 @@
   "createoreexcavation.ponder.find_ores.text_1": "Используйте детектор рудных жил для определения местоположения руд",
   "createoreexcavation.ponder.find_ores.text_2": "Найдено: Ничего",
   "createoreexcavation.ponder.find_ores.text_3": "Найдено: Рудная медь",
-  "createoreexcavation.ponder.find_ores.text_4": "Установите буровую установку или извлекатель жидкости из скважины, чтобы добывать ресурсы",
+  "createoreexcavation.ponder.find_ores.text_4": "Установите буровую установку или насосную буровую установку, чтобы добывать ресурсы",
   "createoreexcavation.ponder.find_ores.text_5": "Установите бур",
   "createoreexcavation.ponder.find_ores.text_6": "Механизмы требуют силу вращения для работы",
   "createoreexcavation.ponder.find_ores.text_7": "Заберите добытое",
@@ -64,7 +64,7 @@
   "itemGroup.createoreexcavation": "Create: Ore Excavation",
 
   "jei.coe.recipe.drilling": "Буровая установка",
-  "jei.coe.recipe.extracting": "Извлекатель жидкости из скважины",
+  "jei.coe.recipe.extracting": "Насосная буровая установка",
   "jei.coe.recipe.veins": "Рудные жилы",
 
   "jm.coe.veinsOverlayToggle": "Create: Ore Excavation отображение руд",
