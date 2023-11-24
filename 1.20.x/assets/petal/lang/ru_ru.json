@@ -1,0 +1,12 @@
+{
+  "item.petal.flower_crown": "Цветочный венок",
+
+  "block.petal.red_pansy": "Анютины глазки",
+  "block.petal.lime_mum": "Хризантема",
+  "block.petal.marigold": "Бархатцы",
+  "block.petal.magenta_cosmos": "Космея",
+  "block.petal.blue_hyacinth": "Гиацинт",
+  "block.petal.white_windflower": "Ветреница",
+
+  "itemgroup.petal": "Petal"
+}
