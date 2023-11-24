@@ -46,8 +46,8 @@
   "item.biggerreactors.ludicrite_dust": "Лудикритовая пыль",
   "item.biggerreactors.ludicrite_ingot": "Лудикритовый слиток",
 
-  "tooltip.biggerreactors.is_a_moderator" : "§eМожет использоваться как замедлитель для большого реактора",
-  "tooltip.biggerreactors.is_a_coil" : "§eМожет использоваться как катушка для большой турбины",
+  "tooltip.biggerreactors.is_a_moderator" : "§eМожет использоваться как замедлитель для большого реактора.",
+  "tooltip.biggerreactors.is_a_coil" : "§eМожет использоваться как катушка для большой турбины.",
 
   "multiblock.error.biggerreactors.no_terminal": "Для реакторов требуется хотя бы один терминал.",
   "multiblock.error.biggerreactors.no_rods": "Реакторы должны иметь хотя бы один топливный элемент.",
