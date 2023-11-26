@@ -1,10 +1,10 @@
 {
-  "emi.category.emitrades.villager_trades": "Торговля с жителями",
+  "emi.category.emitrades.villager_trades": "Торговля",
 
   "emi.emitrades.random_colored": "Случайный цвет",
   "emi.emitrades.random_structure": "Случайная структура",
   "emi.emitrades.random_effect": "Случайный эффект",
-  "emi.emitrades.random_enchantment": "Случайное зачарование",
+  "emi.emitrades.random_enchantment": "Случайное чары",
   "emi.emitrades.enchantments.possible": "Возможные чары",
 
   "emi.emitrades.profession.lvl.1": "Новичок",
@@ -14,5 +14,4 @@
   "emi.emitrades.profession.lvl.5": "Мастер",
 
   "emi.emitrades.placeholder.wandering_trader": "Странствующий торговец"
-  
 }

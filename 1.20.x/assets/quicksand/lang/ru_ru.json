@@ -1,0 +1,11 @@
+{
+  "block.quicksand.quicksand": "Зыбучий песок",
+  "item.quicksand.quicksand_bucket": "Ведро с зыбучим песком",
+  "block.quicksand.quicksand_cauldron": "Котёл с зыбучим песком",
+  "block.quicksand.red_quicksand": "Красный зыбучий песок",
+  "item.quicksand.red_quicksand_bucket": "Ведро с красным зыбучим песком",
+  "block.quicksand.red_quicksand_cauldron": "Котёл с красным зыбучим песком",
+  "death.attack.quicksand": "%s утонул в зыбучих песках",
+  "subtitles.entity.zombie.converted_to_husk": "Зомби превращается в Кадавра",
+  "subtitles.entity.drowned.converted_to_zombie": "Утопленник превращается в Зомби"
+}

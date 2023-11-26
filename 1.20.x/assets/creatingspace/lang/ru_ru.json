@@ -10,6 +10,7 @@
   "block.creatingspace.mechanical_electrolyzer": "Механический электролизер",
   "block.creatingspace.flow_meter": "Расходомер",
   "block.creatingspace.oxygen_sealer": "Кислородный герметизатор",
+  "block.creatingspace.air_liquefier": "Сжижитель воздуха",
 
   "block.creatingspace.clamps": "Зажимы",
   "block.creatingspace.rocket_casing": "Ракетный корпус",
@@ -95,7 +96,7 @@
   "itemGroup.minerals_tab": "Creating Space: Полезные ископаемые",
 
   "itemGroup.creatingspace.machine_tab": "Creating Space: Механизмы",
-  "itemGroup.creatingspace.component_tab": "reating Space: Компоненты",
+  "itemGroup.creatingspace.component_tab": "Creating Space: Компоненты",
   "itemGroup.creatingspace.minerals_tab": "Creating Space: Полезные ископаемые",
 
   "container.creatingspace.rocket_controls": "Контроллер ракеты",
@@ -109,7 +110,7 @@
   "creatingspace.ponder.synthesizer.header": "Производстве метана",
   "creatingspace.ponder.synthesizer.text_1": "Вам нужно залить в химический синтезатор водород...",
   "creatingspace.ponder.synthesizer.text_2": "...И добавить угольную пыль, затем остаётся дождаться окончания производства метана",
-  "creatingspace.ponder.synthesizer.text_3": "Химический синтезатор производит 100мВ метана каждые 4 секунды",
+  "creatingspace.ponder.synthesizer.text_3": "Химический синтезатор производит 320 кг метана каждые 4 секунды",
 
   "creatingspace.launch": "Пуск!",
   "creatingspace:earth_orbit": "Орбита Земли",

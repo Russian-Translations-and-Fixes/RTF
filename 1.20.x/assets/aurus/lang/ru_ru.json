@@ -1,5 +1,5 @@
 {
-  "itemgroup.aurustab": "Aurus",
+  "itemgroup.aurustab": "Aurus: Novae Terrae",
 
   "block.aurus.overworld_quartz_ore": "Кварцевая руда",
   "block.aurus.deepslate_overworld_quartz_ore": "Кварценосный глубинный сланец",
@@ -7,9 +7,19 @@
   "block.aurus.trophy": "Трофей",
   "block.aurus.pot": "Горшок",
   "block.aurus.pedestal": "Пьедестал",
+  "block.aurus.stone_pillar": "Каменный пилон",
 
   "entity.aurus.spear_entity": "Копьё",
   "entity.aurus.jellyfish": "Медуза",
+  "entity.aurus.abyssal_crab": "Глубинный краб",
+  "entity.aurus.abyssal_projectile": "Глубинный снаряд",
+
+  "effect.aurus.drowning": "Утопление",
+
+  "item.minecraft.potion.effect.drowning": "Зелье утопления",
+  "item.minecraft.splash_potion.effect.drowning": "Взрывное зелье утопления",
+  "item.minecraft.lingering_potion.effect.drowning": "Туманное зелье утопления",
+  "item.minecraft.tipped_arrow.effect.drowning": "Стрела утопления",
 
   "item.aurus.netherite_horse_armor": "Незеритовая конская броня",
   "item.aurus.coin": "Монета",
@@ -26,5 +36,7 @@
   "item.aurus.crystalized_soup":  "Кристаллизованный свекольный суп",
   "item.aurus.quartzum_alloy": "Кварцевый сплав",
   "item.aurus.jellyfish_spawn_egg": "Яйцо призыва медузы",
-  "item.aurus.quartz_dust": "Кварцевая пыль"
+  "item.aurus.abyssal_crab_spawn_egg": "Яйцо призыва глубинного краба",
+  "item.aurus.quartz_dust": "Кварцевая пыль",
+  "item.aurus.abyssal_claw": "Клешня глубинного краба"
 }

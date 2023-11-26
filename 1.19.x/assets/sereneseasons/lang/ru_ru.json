@@ -5,6 +5,7 @@
   "commands.sereneseasons.setseason.fail": "Неверный сезон %s",
   "commands.sereneseasons.setseason.disabled": "Сезоны сейчас отключены!",
 
+  "gamerule.doSeasonCycle": "Смена сезонов",
   "itemGroup.tabSereneSeasons": "Serene Seasons",
 
   "block.sereneseasons.season_sensor": "Датчик времени года",

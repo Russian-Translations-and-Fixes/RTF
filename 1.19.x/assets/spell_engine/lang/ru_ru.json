@@ -3,9 +3,15 @@
   "enchantment.spell_engine.spell_infinity" : "Бесконечность", 
   "enchantment.spell_engine.spell_infinity.desc" : "Заклинания ничего не стоят.",
   "entity.spell_engine.spell_projectile": "Заклинание",
+  "entity.spell_engine.spell_area_effect": "Эффект с областью действия",
   "tutorial.spell_hotbar.title": "Фокус на панели заклинаний",
   "tutorial.spell_hotbar.description": "Нажмите %1$s",
   "tutorial.spell_hotbar.unbound": "Назначьте клавишу!",
+
+  "spell.spell_engine.use_item.name": "Использовать предмет",
+  "spell.spell_engine.use_item.description": "Использовать один из удерживаемых предметов.",
+  "spell.spell_engine.use_offhand_item.name": "Использовать предмет во второй руке",
+  "spell.spell_engine.use_offhand_item.description": "Использовать предмет во второй руке, если он присутствует.",
 
   "spell.tooltip.host.proxy": "Использует заклинания из экипированной книги заклинаний",
   "spell.tooltip.host.additional": "Дополнительные заклинания:",

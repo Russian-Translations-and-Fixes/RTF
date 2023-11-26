@@ -721,6 +721,8 @@
   "text.resourcefulconfig.ad_astra.option.spaceSuit.jetSuitUpwardsSpeed.tooltip": "Скорость при обычном полёте вверх.",
   "text.resourcefulconfig.ad_astra.option.spaceSuit.netheriteSpaceSuitHasFireResistance": "Огнестойкость незеритового скафандра",
   "text.resourcefulconfig.ad_astra.option.spaceSuit.netheriteSpaceSuitTankSize": "Объём бака незеритового скафандра",
+  "text.resourcefulconfig.ad_astra.option.spaceSuit.renderCustomFirstPersonHand": "Отображение не стандартных рук в космическом скафандре",
+  "text.resourcefulconfig.ad_astra.option.spaceSuit.renderCustomFirstPersonHand.tooltip": "Отображение не стандартных рук может повлиять на работу шейдеров",
   "text.resourcefulconfig.ad_astra.option.spaceSuit.spaceSuitTankSize": "Объём бака скафандра",
   "text.resourcefulconfig.ad_astra.option.spaceSuit.spawnJetSuitParticles": "Частицы при полёте реактивного скафандра",
   "text.resourcefulconfig.ad_astra.option.spawning": "Появление существ",

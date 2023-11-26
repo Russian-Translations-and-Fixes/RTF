@@ -9,8 +9,11 @@
   "desc.toughasnails.cooling": "Охлаждает",
   
   "effect.toughasnails.climate_clemency": "Климатическая милость",
-  "effect.toughasnails.ice_resistance": "Холодостойкость",
+  "effect.toughasnails.climate_clemency.description": "Нейтрализует на время воздействие температуры на тела. Можно получить только временно при создании нового мира (или при возрождении, если включено в настройках).",
+  "effect.toughasnails.ice_resistance": "Морозостойкость",
+  "effect.toughasnails.ice_resistance.description": "Даёт иммунитет к урону от замерзания.",
   "effect.toughasnails.thirst": "Жажда",
+  "effect.toughasnails.thirst.description": "Снижает жажду быстрее, чем обычно.",
   "enchantment.toughasnails.thermal_tuning": "Терморегуляция",
   
   "block.toughasnails.rain_collector": "Сборщик дождевой воды",
