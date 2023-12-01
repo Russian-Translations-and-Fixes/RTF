@@ -1,0 +1,250 @@
+{
+	"createaddition.tooltip.energy.stored": "Накопленная энергия:",
+	"createaddition.tooltip.energy.consumption": "Потребляемая энергии:",
+	"createaddition.tooltip.energy.production": "Вырабатываемая энергия:",
+	"createaddition.tooltip.energy.charged": "Заряжено",
+	"createaddition.tooltip.energy.usage": "Потребление сети:",
+	"createaddition.tooltip.energy.demand": "Требование сети:",
+	"createaddition.tooltip.energy.supply": "Выработка сети:",
+	"createaddition.tooltip.energy.selected": "Выделенный коннектор:",
+	"createaddition.tooltip.energy.input": "Вход",
+	"createaddition.tooltip.energy.output": "Выход",
+	
+	"createaddition.tooltip.accumulator.info": "Информация об аккумуляторе:",
+	"createaddition.tooltip.relay.info": "Информация о реле:",
+	"createaddition.tooltip.connector.info": "Информация о коннекторе:",
+	
+	"createaddition.recipe.rolling": "Прокатка",
+	"createaddition.recipe.crude_burning": "Необработанное топливо",
+	"createaddition.recipe.crude_burning.burn_time": "Время горения",
+	
+	"desc.immersiveengineering.info.mineral.sphalerite": "Сфалерит",
+	
+	"item.createaddition.capacitor": "Конденсатор",
+	
+	"item.createaddition.multimeter": "Мультиметр",
+	"item.createaddition.multimeter.title":"[Мультиметр]:",
+	"item.createaddition.multimeter.measuring":"[Измерение...]",
+	"item.createaddition.multimeter.ticks":"тиков",
+	"item.createaddition.multimeter.no_capability":"С этой стороны блока не поступает Forge Energy.",
+	"item.createaddition.multimeter.tooltip": "МУЛЬТИМЕТР",
+	"item.createaddition.multimeter.tooltip.summary": "Измеряет _электрическую ёмкость_ блока и _входную/выходную_ мощность _Forge Energy_ на одной из сторон.",
+		
+	"item.createaddition.zinc_sheet": "Цинковый лист",
+	"item.createaddition.diamond_grit": "Алмазная пыль",
+	"item.createaddition.diamond_grit_sandpaper": "Наждачная бумага с алмазным напылением",
+	"item.createaddition.diamond_grit_sandpaper.tooltip": "НАЖДАЧНАЯ БУМАГА С АЛМАЗНЫМ НАПЫЛЕНИЕМ",
+	
+	"item.createaddition.copper_spool": "Катушка медного провода",
+	"item.createaddition.copper_spool.tooltip": "КАТУШКА",
+	"item.createaddition.copper_spool.tooltip.summary": "ПКМ по двум коннекторам создаст проводную связь между ними, сохранив при этом _пустую катушку_.",
+	
+	"item.createaddition.copper_wire": "Медный провод",
+	"item.createaddition.copper_rod": "Медный стержень",
+	
+	"item.createaddition.iron_spool": "Катушка железного провода",
+	"item.createaddition.iron_wire": "Железный провод",
+	"item.createaddition.iron_rod": "Железный стержень",
+	
+	"item.createaddition.steel_spool": "Катушка стального провода",
+	"item.createaddition.steel_wire": "Стальной провод",
+	"item.createaddition.steel_rod": "Стальной стержень",
+	
+	"item.createaddition.electrum_spool": "Катушка электрумового провода",
+	"item.createaddition.electrum_wire": "Электрумовый провод",
+	"item.createaddition.electrum_rod": "Электрумовый стержень",
+	
+	"item.createaddition.aluminum_spool": "Катушка алюминиевого провода",
+	"item.createaddition.aluminum_wire": "Алюминиевый провод",
+	"item.createaddition.aluminum_rod": "Алюминиевый стержень",
+	
+	"item.createaddition.gold_spool": "Катушка золотого провода",
+	"item.createaddition.gold_spool.tooltip": "КАТУШКА",
+	"item.createaddition.gold_spool.tooltip.summary": "ПКМ по двум коннекторам создаст проводную связь между ними, сохранив при этом _пустую катушку_.",
+	
+	"item.createaddition.gold_wire": "Золотой провод",
+	"item.createaddition.gold_rod": "Золотой стержень",
+	
+	"item.createaddition.brass_rod": "Латунный стержень",
+	"item.createaddition.bronze_rod": "Бронзовый стержень",
+	
+	"item.createaddition.cake_base": "Основа торта",
+	"item.createaddition.cake_base_baked": "Испечённая основа торта",
+	
+	"item.createaddition.seed_oil_bucket": "Ведро растительного масла",
+	
+	"item.createaddition.charging_chromatic_compound": "Зарядка хроматического компаунда",
+	"item.createaddition.overcharged_alloy": "Заряженный сплав",
+	"item.createaddition.overcharged_alloy.tooltip": "ЗАРЯЖЕННЫЙ СПЛАВ",
+	"item.createaddition.overcharged_alloy.tooltip.summary": "Хроматический материал, изготовленный с помощью _электричества_.",
+	
+	"item.createaddition.overcharged_hammer": "Заряженный молот [WIP]",
+	"item.createaddition.overcharged_hammer.tooltip": "ЗАРЯЖЕННЫЙ МОЛОТ",
+	"item.createaddition.overcharged_hammer.tooltip.summary": "Этот надёжный _молот_ наполненный силой _электричества_ [НЕЗАКОНЧЕННЫЙ ПРЕДМЕТ].",
+	
+	"item.createaddition.spool": "Пустая катушка",
+	"item.createaddition.spool.nbt": "Хранит расположение подключения.",
+	"item.createaddition.spool.tooltip": "КАТУШКА",
+	"item.createaddition.spool.tooltip.summary": "ПКМ по двум соединённым коннекторам смотает провод в _катушку_.",
+	
+	"statusbar.createaddition.wire.linked": "Коннекторы соединены",
+	"statusbar.createaddition.wire.linked_in": "Провод подключён к входу",
+	"statusbar.createaddition.wire.linked_out": "Провод подключён к выходу",
+	
+	"statusbar.createaddition.wire.connect": "Провод подключён к коннектору",
+	"statusbar.createaddition.wire.connect_in": "Провод подключён к входному коннектору",
+	"statusbar.createaddition.wire.connect_out": "Провод подключён к выходному коннектору",
+	
+	"statusbar.createaddition.wire.long": "Слишком далеко",
+	"statusbar.createaddition.wire.obstructed": "Путь провода перекрыт",
+	"statusbar.createaddition.wire.count": "Чрезмерное кол-во соединений",
+	"statusbar.createaddition.wire.removed": "Провод смотан",
+	"statusbar.createaddition.wire.exists": "Проводное соединение уже присутствует",
+	"statusbar.createaddition.wire.no_connection": "Здесь не подключён провод",
+	"statusbar.createaddition.wire.invalid": "Недопустимое соединение",
+	
+	"block.createaddition.electric_motor": "Электромотор",
+	"deprecated.block.createaddition.electric_motor.tooltip": "ЭЛЕКТРОМОТОР",
+	"deprecated.block.createaddition.electric_motor.tooltip.summary": "Генерирует _силу вращения_ потребляя _FE_. Генерируемая _скорость силы вращения_ может быть настроена на панели параметров. Энергопотребление мотора определяется генерируемой _скоростью силы вращения_.",
+	
+	"block.createaddition.alternator": "Генератор",
+	"deprecated.block.createaddition.alternator.tooltip": "ГЕНЕРАТОР",
+	"deprecated.block.createaddition.alternator.tooltip.summary": "Вырабатывает _FE_ используя _силу вращения_. Выработка энергии определяется входной _скоростью силы вращения_.",
+	
+	"block.createaddition.creative_energy": "Творческий генератор",
+	"block.createaddition.creative_energy.tooltip": "ТВОРЧЕСКИЙ_ГЕНЕРАТОР",
+	"block.createaddition.creative_energy.tooltip.summary": "Вырабатывает бесконечное количество _FE_.",
+	
+	"block.createaddition.rolling_mill": "Прокатный станок",
+	"deprecated.block.createaddition.rolling_mill.tooltip": "ПРОКАТНЫЙ_СТАНОК",
+	"deprecated.block.createaddition.rolling_mill.tooltip.summary": "Кинетический компонент, использующийся для _прокатки_ вставленных _материалов_. Можно запитать _силой вращения_, подключив её к одной из сторон. Обработанные материалы должны быть извлечены из компонента.",
+	"deprecated.block.createaddition.rolling_mill.tooltip.condition1": "Когда запитано силой вращения",
+	"deprecated.block.createaddition.rolling_mill.tooltip.behaviour1": "Начинает применять _рецепты прокатки_ к любым предметам, вставленным сбоку или сверху блока.",
+	"deprecated.block.createaddition.rolling_mill.tooltip.condition2": "ПКМ",
+	"deprecated.block.createaddition.rolling_mill.tooltip.behaviour2": "Собирает результат прокатки вручную.",
+	
+	"block.createaddition.heater": "Индукционный нагреватель",
+	"block.createaddition.heater.info": "Информация о нагревателе:",
+	"block.createaddition.heater.engine_heating_disabled": "Нагрев печных двигателей был отключён в настройках.",
+	"deprecated.block.createaddition.heater.tooltip": "ИНДУКЦИОННЫЙ_НАГРЕВАТЕЛЬ",
+	"deprecated.block.createaddition.heater.tooltip.summary": "Когда он присоединён к печи и питается _FE_ сверху, печь нагревается. Не будет включать печные двигатели, если это _не включено_ в _настройках_.",
+	
+	"block.createaddition.accumulator": "Аккумулятор",
+	"block.createaddition.accumulator.tooltip": "АККУМУЛЯТОР",
+	"block.createaddition.accumulator.tooltip.summary": "Накапливает электрический заряд.",
+	"block.createaddition.accumulator.tooltip.condition1": "Токоотдача",
+	"block.createaddition.accumulator.tooltip.behaviour1": "Передаёт _FE_ проводам, подключенных к _коннектору_, отмеченному стрелкой вверх.",
+	"block.createaddition.accumulator.tooltip.condition2": "Токоприём",
+	"block.createaddition.accumulator.tooltip.behaviour2": "Принимает _FE_ от проводов, подключенных к _коннектор_, отмеченному стрелкой вниз.",
+	
+	"block.createaddition.connector": "Коннектор",
+	"block.createaddition.connector.tooltip": "КОННЕКТОР",
+	"block.createaddition.connector.tooltip.summary": "Соединяет блоки, совместимые с _Forge Energy_, _проводами_ для передачи _FE_.",
+	"block.createaddition.connector.tooltip.control1": "ПКМ с катушкой провода в руках",
+	"block.createaddition.connector.tooltip.action1": "_Катушка медного или золотого провода_ создаёт _проводное соединение_ между двумя _коннекторами_.",
+	
+	"block.createaddition.connector_copper": "Медный коннектор",
+	"block.createaddition.connector_copper.tooltip": "КОННЕКТОР",
+	"block.createaddition.connector_copper.tooltip.summary": "Соединяет блоки, совместимые с _Forge Energy_, _проводами_ для передачи _FE_.",
+	"block.createaddition.connector_copper.tooltip.control1": "ПКМ с катушкой провода в руках",
+	"block.createaddition.connector_copper.tooltip.action1": "_Катушка медного провода_ создаёт _проводное соединение_ между двумя _коннекторами_.",
+	
+	"block.createaddition.connector_gold": "Золотой коннектор",
+	"block.createaddition.connector_gold.tooltip": "КОННЕКТОР",
+	"block.createaddition.connector_gold.tooltip.summary": "Соединяет блоки, совместимые с _Forge Energy_, _проводами_ для передачи _FE_.",
+	"block.createaddition.connector_gold.tooltip.control1": "ПКМ с катушкой провода в руках",
+	"block.createaddition.connector_gold.tooltip.action1": "_Катушка золотого провода_ создаёт _проводное соединение_ между двумя _коннекторами_.",
+	
+	"block.createaddition.redstone_relay": "Редстоуновое реле",
+	"block.createaddition.redstone_relay.tooltip": "РЕДСТОУНОВОЕ_РЕЛЕ",
+	"block.createaddition.redstone_relay.tooltip.summary": "Пропускает _FE_ от _входного коннектора_ реле к _выходному коннектору_ при получении _редстоун-сигнала_.",
+	"block.createaddition.redstone_relay.tooltip.condition1": "Токоотдача",
+	"block.createaddition.redstone_relay.tooltip.behaviour1": "Передаёт _FE_ проводам, подключенным к _выходному коннектору_, у которого чёрные точки вверху.",
+	"block.createaddition.redstone_relay.tooltip.condition2": "Токоприём",
+	"block.createaddition.redstone_relay.tooltip.behaviour2": "Принимает _FE_ от проводов, подключенных к _входному коннектору_, у которого чёрные точки внизу.",
+	
+	"block.createaddition.furnace_burner": "Печная горелка",
+	"block.createaddition.furnace_burner.tooltip": "ПЕЧНАЯ_ГОРЕЛКА",
+	"block.createaddition.furnace_burner.tooltip.summary": "Эта _печь_ не будет плавить предметы, но вместо этого может использоваться для питания _печного двигателя_ без необходимости в плавки. Топливо может быть подано, например, с помощью воронки.",
+	"block.createaddition.furnace_burner.tooltip.control1": "ПКМ",
+	"block.createaddition.furnace_burner.tooltip.action1": "Поместить _топливо_ из руки.",
+	"block.createaddition.furnace_burner.tooltip.control2": "ПКМ крадучись",
+	"block.createaddition.furnace_burner.tooltip.action2": "Извлечь хранящееся _топливо_.",
+	
+	"block.createaddition.charger": "Зарядная станция",
+	"block.createaddition.charger.info": "Информация о зарядной станции:",
+	"block.createaddition.charger.empty": "Пустая",
+	"block.createaddition.charger.tooltip": "ЗАРЯДНИК",
+	"block.createaddition.charger.tooltip.summary": "Заряжает электрические предметы используя _FE_.",
+	"block.createaddition.charger.tooltip.control1": "ПКМ с заряжаемым предметом",
+	"block.createaddition.charger.tooltip.action1": "Помещает предмет на _зарядную станцию_.",
+	"block.createaddition.charger.tooltip.control2": "ПКМ с пустой рукой",
+	"block.createaddition.charger.tooltip.action2": "Извлекает предмет из _зарядной станции_.",
+	
+	"block.createaddition.crude_burner": "Горелка для необработанных жидкостей",
+	"block.createaddition.crude_burner.tooltip": "ГОРЕЛКА",
+	"block.createaddition.crude_burner.tooltip.summary": "_Горелка_ потребляет медленно горящие горючие жидкости, например, _растительное масло_, для питания печного двигателя. _Жидкое топливо_ может быть подведено с помощью _жидкостных труб_.",
+	"block.createaddition.crude_burner.tooltip.control1": "ПКМ",
+	"block.createaddition.crude_burner.tooltip.action1": "Вливает содержимое _ведра_ удерживаемого в руке.",
+	
+	"block.createaddition.chocolate_cake": "Шоколадный торт",
+	"block.createaddition.honey_cake": "Медовый торт",
+	
+	"block.createaddition.seed_oil": "Растительное масло",
+	
+	"block.createaddition.overcharged_casing": "Заряженный корпус",
+	
+	"block.createaddition.tesla_coil": "Катушка Теслы",
+	
+	"itemGroup.createaddition.main":"Create: Crafts & Additions",
+	"itemGroup.createaddition:main":"Create: Crafts & Additions",
+	
+	"createaddition.command.cca_api.link": "Нажмите здесь, чтобы открыть документацию API",
+	
+	"createaddition.ponder.tag.electric": "Электрические приборы",
+	"createaddition.ponder.tag.electric.description": "Компоненты, использующие электричество",
+	
+	"createaddition.ponder.electric_motor.header": "Генерации силы вращения с помощью электродвигателей",
+	"createaddition.ponder.electric_motor.text_1": "Электродвигатели — это компактный и настраиваемый источник силы вращения",
+	"createaddition.ponder.electric_motor.text_2": "Прокрутка на задней панели изменяет кол-во об./мин. у вращающегося вала электродвигателя",
+	"createaddition.ponder.electric_motor.text_3": "Электродвигатель требует источника энергии (FE)",
+	"createaddition.ponder.electric_motor.text_4": "Потребление энергии двигателями определяется заданными оборотами в минуту",
+	
+	"createaddition.ponder.alternator.header": "Генерации электроэнергии с использованием генератора",
+	"createaddition.ponder.alternator.text_1": "Для работы генератора требуется не менее 32 об./мин",
+	"createaddition.ponder.alternator.text_2": "Он генерирует электроэнергию (FE) за счёт силы вращения",
+	"createaddition.ponder.alternator.text_3": "Производство энергии определяется входящей силой вращения",
+	
+	"createaddition.ponder.rolling_mill.header": "Прокатке металлов в стержни и провода",
+	"createaddition.ponder.rolling_mill.text_1": "Прокатный станок использует силу вращения для прокатки металлов в стержни и провода",
+	"createaddition.ponder.rolling_mill.text_2": "Чтобы вручную добавить предметы, бросьте слитки или листы на верхнюю часть станка",
+	"createaddition.ponder.rolling_mill.text_3": "Нажмите ПКМ по прокатному станку, чтобы вручную достать материалы",
+	
+	"createaddition.ponder.automated_rolling_mill.header": "Автоматизации прокатного станка",
+	"createaddition.ponder.automated_rolling_mill.text_1": "Прокатный станок может быть автоматизирован с помощью механического ремня и двух шлюзов",
+	"createaddition.ponder.automated_rolling_mill.text_2": "Входной шлюз",
+	"createaddition.ponder.automated_rolling_mill.text_3": "Выходной шлюз",
+	
+	"createaddition.ponder.heater.header": "Использовании электроэнергии для нагрева печи",
+	"createaddition.ponder.heater.text_1": "Нагреватель можно разместить с любой стороны печи",
+	"createaddition.ponder.heater.text_2": "При подключении к достаточному источнику электроэнергии (FE) нагреватель будет зажигать печь",
+	"createaddition.ponder.heater.text_3": "Печь будет гореть до тех пор, пока будет обеспечено достаточное количество энергии",
+	
+	"createaddition.ponder.cc_electric_motor.header": "Использование ComputerCraft для управления электродвигателем",
+	"createaddition.ponder.cc_electric_motor.text_1": "Электродвигателем можно управлять с помощью ComputerCraft",
+	"createaddition.ponder.cc_electric_motor.text_2": "Подсоединитесь к двигателю с помощью периферийного устройства (сбоку)",
+	"createaddition.ponder.cc_electric_motor.text_3": "Чтобы получить документацию по API, введите в чате команду /cca_api",
+	
+	"createaddition.ponder.tesla_coil.header": "Использовании катушки Теслы для зарядки предметов",
+	"createaddition.ponder.tesla_coil.text_1": "Катушка Теслы будет заряжать предметы под собой",
+	"createaddition.ponder.tesla_coil.text_2": "Она заряжает любые предметы совместимые с Forge Energy и многое другое!",
+	
+	"createaddition.ponder.tesla_coil_hurt.header": "Опасности катушки Теслы",
+	"createaddition.ponder.tesla_coil_hurt.text_1": "Катушка Теслы способна наносить урон находящимся поблизости игрокам и мобам",
+	"createaddition.ponder.tesla_coil_hurt.text_2": "Её можно активировать с помощью редстоун-сигнала",
+	"createaddition.ponder.tesla_coil_hurt.text_3": "Осторожно, может ударить вас током!",
+	
+	"effect.createaddition.shocking": "Электрошок",
+	"death.attack.tesla_coil": "%1$s получил смертельный удар током",
+	"death.attack.tesla_coil.player": "%1$s получил смертельный удар током во время боя с %2$s"
+}
