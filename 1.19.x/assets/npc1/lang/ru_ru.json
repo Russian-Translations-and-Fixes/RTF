@@ -1,0 +1,21 @@
+{
+    "block.npc1.herbal_table": "Стол травника",
+    "entity.npc1.golem": "Тёмный голем",
+    "item.npc1.golem_spawn_egg": "Яйцо призыва тёмного голема",
+    "item.npc1.music_disc_deutschland": "Пластинка",
+    "item.npc1.music_disc_deutschland.desc": "Deutschland",
+    "item.npc1.music_disc_moskau": "Пластинка",
+    "item.npc1.music_disc_moskau.desc": "Moskau",
+    "item.npc1.music_disc_poland": "Пластинка",
+    "item.npc1.music_disc_poland.desc": "Poland",
+    "subtitles.attack": "Тёмный голем атакует",
+    "subtitles.death": "Тёмный голем умирает",
+    "subtitles.golem": "Тёмный голем вопит",
+    "subtitles.golem_death": "Тёмный голем умирает",
+    "subtitles.golem_hurt": "Тёмный голем ранен",
+    "subtitles.hurt": "Тёмный голем ранен",
+    "subtitles.idle": "Тёмный голем вопит",
+    "subtitles.music_disc_deutschland": "",
+    "subtitles.music_disc_moskau": "",
+    "subtitles.music_disc_poland": ""
+}
