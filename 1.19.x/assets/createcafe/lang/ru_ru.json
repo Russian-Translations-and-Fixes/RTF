@@ -8,8 +8,8 @@
   "tooltip.createcafe.saturation": "Насыщенность (0:10)",
   "tooltip.createcafe.absorption": "Поглощение (0:10)",
   "tooltip.createcafe.super": "Сопротивление (0:10), Скорость (0:10),  Сила (0:10), Регенерация (0:10)",
-  "tooltip.createcafe.caffeinated.one": "Под кофеином II (0:10)",
-  "tooltip.createcafe.caffeinated": "Под кофеином IV (0:10)",
+  "tooltip.createcafe.caffeinated.one": "Заряд кофеина II (0:10)",
+  "tooltip.createcafe.caffeinated": "Заряд кофеина IV (0:10)",
 
   "effect.createcafe.caffeinated": "Заряд кофеина",
   "effect.createcafe.caffeine_crash": "Кофеиновая усталость",

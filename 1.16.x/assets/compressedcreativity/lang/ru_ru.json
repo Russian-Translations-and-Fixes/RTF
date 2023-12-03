@@ -16,7 +16,7 @@
   "compressedcreativity.tooltip.rotational_compressor.wrong_direction": "Требование к направлению вращения:",
   "compressedcreativity.tooltip.rotational_compressor.wrong_direction_desc": "Этот механизм не будет работать при вращении в этом направлении",
 
-  "compressedcreativity.ponder.rotational_compressor.header": "Негнетанием давления вращательный компрессором",
+  "compressedcreativity.ponder.rotational_compressor.header": "Нагнетанием давления вращательный компрессором",
   "compressedcreativity.ponder.rotational_compressor.text_1": "Вращательный компрессор используется для генерации давления",
   "compressedcreativity.ponder.rotational_compressor.text_2": "Для его работы требуется соблюдать направление вращения",
   "compressedcreativity.ponder.rotational_compressor.text_3": "Воздух будет утекать с несоединенных сторон труб и некоторых механизмов!",
