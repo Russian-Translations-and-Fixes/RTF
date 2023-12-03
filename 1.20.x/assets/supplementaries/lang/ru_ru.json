@@ -476,6 +476,15 @@
     "supplementaries.virtual_resourcepack.description": "динамические ресурсы",
     "supplementaries.virtual_resourcepack.title": "Виртуальный набор ресурсов",
 
+    "entity.supplementaries.hat_stand": "Стойка для головных уборов",
+    "item.supplementaries.hat_stand": "Стойка для головных уборов",
+    "config.jade.plugin_supplementaries.hat_stand": "Стойка для головных уборов",
+
+    "gui.supplementaries.optifine.message": "Прежде чем продолжить, обратите внимание, что Optifine известен своей несовместимостью и проблемами, вызывающими сбои.\n\n Эта модификация не предназначен для модифицированной среды и имеет множество случаев плохой совместимости даже с самим Forge.\n\n Более того, в плане производительности существуют гораздо более эффективные альтернативы, такие как Modern Fix, Embeddium, а также Oculus для шейдеров. \n\nНезависимо от того, играете ли вы с модификациями или в обычную версию, вы всегда должны использовать перечисленные ниже модификации вместо Optifine.",
+    "gui.supplementaries.optifine.suggestions": "Вот некоторые модификации, которые мы рекомендуем использовать вместо него.",
+    "gui.supplementaries.optifine.title": "ПРЕДУПРЕЖДЕНИЕ: ОБНАРУЖЕН OPTIFINE",
+    "gui.supplementaries.optifine.turn_off": "Больше не показывать",
+
     "trinkets.slot.chest.quiver": "Колчан",
     "trinkets.slot.legs.key": "Ключ",
 
@@ -490,6 +499,8 @@
     "wood_type.minecraft.oak": "дуба",
     "wood_type.minecraft.spruce": "ели",
     "wood_type.minecraft.warped": "искажённого стебля",
+    "wood_type.minecraft.cherry": "вишни",
+    "wood_type.minecraft.bamboo": "бамбука",
     "wood_type.twilightforest.dark": "тёмного дерева",
     "wood_type.twilightforest.sorting": "сортировочного дерева",
     "wood_type.twilightforest.time": "дерева времени",

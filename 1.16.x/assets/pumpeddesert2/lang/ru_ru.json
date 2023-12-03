@@ -7,9 +7,11 @@
     "entity.pumpeddesert2.ostrich": "Страус",
     "entity.pumpeddesert.ostrich": "Страус",
     "entity.pumpeddesert2.reino": "Носорог",
+    "entity.pumpeddesert2.raino": "Носорог",
     "item.pumpeddesert2.ostrich_spawn_egg": "Яйцо призыва страуса",
     "item.pumpeddesert.ostrich_spawn_egg": "Яйцо призыва страуса",
     "item.pumpeddesert2.reino_spawn_egg": "Яйцо призыва носорога",
+    "item.pumpeddesert2.raino_spawn_egg": "Яйцо призыва носорога",
     "itemGroup.pumpeddesert2.pumped_desert_2": "Pumped Desert 2",
     "item_group.pumpeddesert2.pumped_desert_2": "Pumped Desert 2",
     "itemGroup.tabpumped_desert_2": "Pumped Desert 2",
@@ -20,7 +22,7 @@
     "block.steve.kaktus": "Кактус",
     "block.steve.cawskull": "Коровий череп",
 
-    "block.tortikova.cawskull": "Коровий череп",
+    "block.tortikova.cawskull": "Череп коровы",
     "block.tortikova.kaktus": "Кактус",
     "effect.tortikova.sandeffect": "Песчаный"
 }
