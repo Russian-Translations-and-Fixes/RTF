@@ -4,12 +4,12 @@
     "commands.jobmanager.changed": "Информация о профессиях %s была изменена",
     "commands.jobmanager.printLevel": "%s %s %s",
 
-    "text.jobsaddon.gui.title": "Профессии %s'а",
+    "text.jobsaddon.gui.title": "Профессии %s",
 
     "text.autoconfig.jobsaddon.title": "JobsAddon - Настройки",
-    "text.autoconfig.jobsaddon.category.experience_settings": "Настройки опыта",
-    "text.autoconfig.jobsaddon.category.reward_settings": "Настройки наград",
-    "text.autoconfig.jobsaddon.category.default": "Настройки профессий",
+    "text.autoconfig.jobsaddon.category.experience_settings": "Опыт",
+    "text.autoconfig.jobsaddon.category.reward_settings": "Награды",
+    "text.autoconfig.jobsaddon.category.default": "Профессии",
     "text.autoconfig.jobsaddon.option.devMode": "Режим разработчика",
     "text.autoconfig.jobsaddon.option.employedJobs": "Макс. кол-во профессий одновременно",
     "text.autoconfig.jobsaddon.option.jobChangeTime": "Время перезарядки смены профессии",

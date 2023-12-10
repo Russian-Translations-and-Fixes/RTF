@@ -1,0 +1,7 @@
+{
+    "text.autoconfig.villagerfix.title": "Villagerfix - Настройки",
+    "text.autoconfig.villagerfix.option.baseVillagerOfTheHeroDiscount": "Базовая скидка для героя деревни",
+    "text.autoconfig.villagerfix.option.extraVillagerOfTheHeroDiscount": "Дополнительная скидка для героя деревни",
+    "text.autoconfig.villagerfix.option.maxReputationDiscount": "Кидка при макс. репутации",
+    "text.autoconfig.villagerfix.option.maxReputation": "Макс. репутация"
+}

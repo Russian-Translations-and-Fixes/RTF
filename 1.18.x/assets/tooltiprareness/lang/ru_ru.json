@@ -1,0 +1,45 @@
+{
+    "item.tooltiprareness.common_item.tooltip": "§7Обычное",
+    "item.tooltiprareness.uncommon_item.tooltip": "§2Необычное",
+    "item.tooltiprareness.rare_item.tooltip": "§cРедкое",
+    "item.tooltiprareness.epic_item.tooltip": "§5Превосходное",
+    "item.tooltiprareness.legendary_item.tooltip": "§6Легендарное",
+    "item.tooltiprareness.mythic_item.tooltip": "§bМифическое",
+    "item.tooltiprareness.admin_item.tooltip": "§8Администратор",
+    "item.tooltiprareness.none_item.tooltip": "",
+
+    "text.autoconfig.tooltiprareness.title": "TooltipRareness - Настройки",
+    "text.autoconfig.tooltiprareness.category.default": "Основные",
+    "text.autoconfig.tooltiprareness.category.advanced_settings": "Дополнительные",
+    "text.autoconfig.tooltiprareness.option.showRarenessTooltip": "Отображать редкость в подсказках",
+    "text.autoconfig.tooltiprareness.option.showFrameColor": "Включить цвет рамки",
+
+    "text.autoconfig.tooltiprareness.option.common_frame_color": "Цвет рамки обычных предметов",
+    "text.autoconfig.tooltiprareness.option.uncommon_frame_color": "Цвет рамки необычных предметов",
+    "text.autoconfig.tooltiprareness.option.rare_frame_color": "Цвет рамки редких предметов",
+    "text.autoconfig.tooltiprareness.option.epic_frame_color": "Цвет рамки превосходных предметов",
+    "text.autoconfig.tooltiprareness.option.legendary_frame_color": "Цвет рамки легендарных предметов",
+    "text.autoconfig.tooltiprareness.option.administrator_frame_color": "Цвет рамки предметов администратора",
+    "text.autoconfig.tooltiprareness.option.mythic_frame_color": "Цвет рамки мифических предметов",
+
+    "text.autoconfig.tooltiprareness.option.common_second_frame_color": "Цвет второй рамки для обычных предметов",
+    "text.autoconfig.tooltiprareness.option.uncommon_second_frame_color": "Цвет второй рамки для необычных предметов",
+    "text.autoconfig.tooltiprareness.option.rare_second_frame_color": "Цвет второй рамки для редких предметов",
+    "text.autoconfig.tooltiprareness.option.epic_second_frame_color": "Цвет второй рамки для превосходных предметов",
+    "text.autoconfig.tooltiprareness.option.legendary_second_frame_color": "Цвет второй рамки для легендарных предметов",
+    "text.autoconfig.tooltiprareness.option.administrator_second_frame_color": "Цвет второй рамки для предметов администратора",
+    "text.autoconfig.tooltiprareness.option.mythic_second_frame_color": "Цвет второй рамки для мифических предметов",
+
+    "text.autoconfig.tooltiprareness.option.common_string_length": "Длинна строки для обычных предметов",
+    "text.autoconfig.tooltiprareness.option.uncommon_string_length": "Длинна строки для необычных предметов",
+    "text.autoconfig.tooltiprareness.option.rare_string_length": "Длинна строки для редких предметов",
+    "text.autoconfig.tooltiprareness.option.epic_string_length": "Длинна строки для превосходных предметов",
+    "text.autoconfig.tooltiprareness.option.legendary_string_length": "Длинна строки для легендарных предметов",
+    "text.autoconfig.tooltiprareness.option.administrator_string_length": "Длинна строки для предметов администратора",
+
+    "text.autoconfig.tooltiprareness.option.changeBorderColor": "Изменить цвет границ",
+    "text.autoconfig.tooltiprareness.option.borderColorStart": "Начальный цвет границ",
+    "text.autoconfig.tooltiprareness.option.borderColorEnd": "Конечный цвет границ",
+    "text.autoconfig.tooltiprareness.option.changeBackgroundColor": "Изменить цвет фона",
+    "text.autoconfig.tooltiprareness.option.backgroundColor": "Цвет фона"
+}
