@@ -1,0 +1,9 @@
+{
+    "text.autoconfig.herdspanic.title": "HerdsPanic - Настройки",
+    "text.autoconfig.herdspanic.option.herd_panic": "Паника стада животных",
+    "text.autoconfig.herdspanic.option.shelter_seeking": "Животные ищут укрытие от дождя",
+    "text.autoconfig.herdspanic.option.excluded_entities": "Список исключённых существ",
+    "text.autoconfig.herdspanic.option.panic_time": "Длительность паники",
+    "text.autoconfig.herdspanic.option.panic_distance": "Дальность паники",
+    "text.autoconfig.herdspanic.option.alert_all_animals": "Межвидовая паника"
+}

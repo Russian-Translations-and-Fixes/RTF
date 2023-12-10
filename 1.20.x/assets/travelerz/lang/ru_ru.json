@@ -1,0 +1,9 @@
+{
+    "hud.travelerz.title": "%s",
+    "hud.travelerz.subtitle": "Ур. %s",
+
+    "text.autoconfig.travelerz.title": "TravelerZ - Настройки",
+    "text.autoconfig.travelerz.option.titleSize": "Размер названия биома",
+    "text.autoconfig.travelerz.option.titleX": "Положение названия биома по оси X",
+    "text.autoconfig.travelerz.option.titleY": "Положение названия биома по оси Y"
+}

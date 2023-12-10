@@ -1,0 +1,31 @@
+{
+    "text.autoconfig.nameplate.title": "Nameplate - Настройки",
+    "text.autoconfig.nameplate.option.backgroundOpacity": "Прозрачность фона",
+    "text.autoconfig.nameplate.option.nameColor": "Цвет имён",
+    "text.autoconfig.nameplate.option.backgroundColor": "Цвет фона",
+    "text.autoconfig.nameplate.option.showHealth": "Отображать здоровье",
+    "text.autoconfig.nameplate.option.showLevel": "Отображать уровень",
+    "text.autoconfig.nameplate.option.squaredDistance": "Квадратное расстояние до существа для отображения таблички",
+    "text.autoconfig.nameplate.option.excluded_entities": "Исключённые существа",
+    "text.autoconfig.nameplate.option.levelMultiplier": "Множитель уровня",
+    "text.autoconfig.nameplate.option.showHostileOnly": "Показывать только враждебных",
+    "text.autoconfig.nameplate.option.showNameplateIfObstructed": "Отображать таблички с именем если они перекрыты",
+    "text.autoconfig.nameplate.option.excludedEntities": "Исключённые существа",
+    "text.autoconfig.nameplate.option.nameplateHeight": "Высота таблички с именем",
+    "text.autoconfig.nameplate.option.nameplateSize": "Размер таблички с именем",
+    "text.autoconfig.nameplate.option.levelTitle": "Название биома",
+    "text.autoconfig.nameplate.option.healthBar": "Полоса здоровья",
+    "text.autoconfig.nameplate.option.useRpgDifficultyLvl": "Использовать систему уровней RpgDifficulty",
+
+    "text.nameplate.health": "Здоровье: %d/%d",
+    "text.nameplate.level": "§eУр. %s",
+    "text.nameplate.name": "§r%s",
+    "text.nameplate.jade.level": " §eУр. %s",
+
+    "category.nameplate.keybind": "Nameplate",
+    "key.nameplate.shownameplate": "Переключить табличку с именем",
+
+    "config.waila.plugin_nameplate": "Nameplate",
+    "config.waila.plugin_nameplate.mob_level_info": "Информация об уровне существ",
+    "config.jade.plugin_nameplate.mob_level_info": "Информация об уровне существ"
+}

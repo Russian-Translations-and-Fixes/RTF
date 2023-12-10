@@ -1,0 +1,7 @@
+{
+    "item.spoiledz.tooltip": "Испорченно на %s%%",
+    "text.autoconfig.spoiledz.title": "SpoiledZ - Настройки",
+    "text.autoconfig.spoiledz.option.freshCrafting": "Приготовленная/созданная еда всегда свежая",
+    "text.autoconfig.spoiledz.option.effectChance": "Вероятность получить негативный эффект",
+    "text.autoconfig.spoiledz.option.effectDuration": "Длительность негативного эффекта"
+}
