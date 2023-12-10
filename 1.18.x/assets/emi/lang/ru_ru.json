@@ -276,7 +276,7 @@
   "config.emi.ui.minimum_recipe_screen_width": "Минимальная ширина",
   "config.emi.tooltip.ui.minimum_recipe_screen_width": "Минимальная ширина окна рецепта в пикселях.\n \nКоличество вкладок также зависит от этой ширины. Чем больше значение, тем больше будет вкладок.\n \n§6Значение по умолчанию для большинства экранов§r: 176",
 
-  "config.emi.ui.workstation_location": "Положение рабочей станции",
+  "config.emi.ui.workstation_location": "Позиция рабочей станции",
   "config.emi.tooltip.ui.workstation_location": "Место отображения доступных рабочих станций на которых можно создать выбранный рецепт.",
 
   "config.emi.ui.miscraft_prevention": "Предотвращение случайного создания",

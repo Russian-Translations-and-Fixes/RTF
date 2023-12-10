@@ -45,8 +45,8 @@
   "text.config.numismatic-overhaul.title": "Numismatic Overhaul - Настройки",
   "text.config.numismatic-overhaul.option.enableVillagerTrading": "Включить торговлю с крестьянами",
   "text.config.numismatic-overhaul.option.enableMcaCompatibility": "Включить совместимость с MCA",
-  "text.config.numismatic-overhaul.option.pursePositionX": "Местоположение кошелька по оси X",
-  "text.config.numismatic-overhaul.option.pursePositionY": "Местоположение кошелька по оси Y",
+  "text.config.numismatic-overhaul.option.pursePositionX": "Позиция кошелька по оси X",
+  "text.config.numismatic-overhaul.option.pursePositionY": "Позиция кошелька по оси Y",
   "text.config.numismatic-overhaul.option.generateCurrencyInChests": "Генерировать деньги в сундуках с добычей",
 
   "text.config.numismatic-overhaul.category.lootOptions": "Генерация добычи",
@@ -59,7 +59,7 @@
   "text.config.numismatic-overhaul.option.lootOptions.strongholdLibraryMinLoot": "Минимум добычи в библиотеке крепости",
   "text.config.numismatic-overhaul.option.lootOptions.strongholdLibraryMaxLoot": "Максимум добычи в библиотеке крепости",
 
-  "text.config.numismatic-overhaul.option.moneyMessageLocation": "Местоположение сообщения о деньгах",
+  "text.config.numismatic-overhaul.option.moneyMessageLocation": "Позиция сообщения о деньгах",
   "text.config.numismatic-overhaul.option.moneyMessageLocation.tooltip": "Определяет, где будет появляться сообщение о деньгах (требуется перезайти в мир, чтобы применить)",
   "text.config.numismatic-overhaul.enum.moneyMessageLocation.actionbar": "Панель быстрого доступа",
   "text.config.numismatic-overhaul.enum.moneyMessageLocation.chat": "Чат",

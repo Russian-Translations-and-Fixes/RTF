@@ -1,0 +1,11 @@
+{
+    "text.autoconfig.patchoulibutton.title": "PatchouliButton - Настройки",
+    "text.autoconfig.patchoulibutton.option.bookIdentifier": "Идентификатор книги",
+    "text.autoconfig.patchoulibutton.option.posX": "Позиция кнопки книг Patchouli по оси X",
+    "text.autoconfig.patchoulibutton.option.posY": "Позиция кнопки книг Patchouli по оси Y",
+    "text.autoconfig.patchoulibutton.option.openAllBooksScreen": "Открывать экран со всеми книгами",
+    
+    "screen.patchoulibutton": "Книги модификаций",
+    "screen.patchoulibutton.title": "Книги модификаций",
+    "screen.patchoulibutton.book_name": "%s"
+}

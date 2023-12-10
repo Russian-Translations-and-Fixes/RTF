@@ -1,0 +1,9 @@
+{
+  "text.autoconfig.backslotaddon.title": "BackSlotAddon - Настройки",
+  "text.autoconfig.backslotaddon.option.double_back_sword": "Разрешить носить два меча на спине",
+  "text.autoconfig.backslotaddon.option.allow_shield_on_back": "Разрешить носить щит на спине",
+  "text.autoconfig.backslotaddon.option.allow_lantern_on_belt": "Разрешить носить фонарь на поясе",
+  "text.autoconfig.backslotaddon.option.lantern_on_back": "Изменить расположение фонаря, перевесив его назад",
+  "text.autoconfig.backslotaddon.option.shield_clipping": "Изменить крепление щита к спине",
+  "text.autoconfig.backslotaddon.option.shield_no_clipping": "Изменить крепление щита к спине"
+}

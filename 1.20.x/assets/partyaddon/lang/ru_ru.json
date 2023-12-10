@@ -1,0 +1,42 @@
+{
+    "text.autoconfig.partyaddon.title": "PartyAddon - Настройка",
+    "text.autoconfig.partyaddon.option.invitationTime": "Время приглашения",
+    "text.autoconfig.partyaddon.option.groupSize": "Размер группы",
+    "text.autoconfig.partyaddon.option.groupXpBonus": "Бонус опыта в группе",
+    "text.autoconfig.partyaddon.option.fullGroupBonus": "Бонус за полную группу",
+    "text.autoconfig.partyaddon.option.hudPosX": "Позиция интерфейса по оси X",
+    "text.autoconfig.partyaddon.option.hudPosY": "Позиция интерфейса по оси Y",
+    "text.autoconfig.partyaddon.option.hudOpacity": "Прозрачность интерфейса",
+    "text.autoconfig.partyaddon.option.showGroupHud": "Отображать интерфейс группы",
+    "text.autoconfig.partyaddon.option.distributeVanillaXP": "Выдавать обычный опыт",
+    "text.autoconfig.partyaddon.option.distributeLevelZXP": "Выдавать опыт из LevelZ",
+
+    "screen.partyaddon.party_screen": "Группа",
+    "searchPlayer.search": "Имя игрока",
+
+    "text.partyaddon.gui.title": "Группа",
+    "text.partyaddon.gui.player_list": "Список игроков",
+    "text.partyaddon.gui.invitation": "Приглашение",
+    "text.partyaddon.gui.invitation_by_player": "",
+    "text.partyaddon.gui.group": "Группа",
+    "text.partyaddon.gui.info": "Информация",
+    "text.partyaddon.gui.empty_info": "-",
+    "text.partyaddon.gui.info_player_count": "Участников группы: %s",
+    "text.partyaddon.gui.info_experience": "%s%% бонуса к опыту",
+    "text.partyaddon.gui.full_group_bonus": "Группа заполнена",
+    "text.partyaddon.gui.full_group_bonus_amount": "%s%% бонуса к опыту",
+    
+    "text.partyaddon.invitation": "%s пригласил вас присоединиться к их группе",
+    "text.partyaddon.accepted_invitation": "%s присоединился к вашей группе",
+    "text.partyaddon.declined_invitation": "%s отклонил ваше приглашение",
+    "text.partyaddon.group_is_full": "Группа %s заполнена",
+    "text.partyaddon.left_group": "%s покинул группу",
+    "text.partyaddon.leave_group": "Вы покинули группу",
+    "text.partyaddon.kicked": "Вас выгнали из группы",
+    "text.partyaddon.no_invitation": "У вас нет активных приглашений",
+    "text.partyaddon.no_group": "Вы не состоите в группе, которую можно покинуть",
+
+    "text.partyaddon.hud.group": "Группа",
+    "text.partyaddon.hud.name": "Ур. %s %s",
+    "text.partyaddon.hud.empty_name": "-"
+}

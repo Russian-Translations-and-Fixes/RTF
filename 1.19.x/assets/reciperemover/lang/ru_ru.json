@@ -1,7 +1,7 @@
 {
     "text.autoconfig.reciperemover.title": "Recipe Remover - Настройки",
-    "text.autoconfig.reciperemover.option.inventoryRecipeBookX": "Положение книги рецептов в инвентаре по оси X",
-    "text.autoconfig.reciperemover.option.inventoryRecipeBookY": "Положение книги рецептов в инвентаре по оси Y",
+    "text.autoconfig.reciperemover.option.inventoryRecipeBookX": "Позиция книги рецептов в инвентаре по оси X",
+    "text.autoconfig.reciperemover.option.inventoryRecipeBookY": "Позиция книги рецептов в инвентаре по оси Y",
     "text.autoconfig.reciperemover.option.recipeList": "Список идентификаторов рецептов",
     "text.autoconfig.reciperemover.option.advancementList": "Список идентификаторов достижений",
     "text.autoconfig.reciperemover.option.printErrorMessage": "Печатать сообщения об ошибках",

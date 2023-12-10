@@ -1,0 +1,55 @@
+{
+    "block.dungeonz.dungeon_portal": "Портал подземелья",
+    "block.dungeonz.dungeon_spawner": "Рассадник подземелья",
+    "block.dungeonz.dungeon_gate": "Врата подземелья",
+
+    "item.dungeonz.item_group": "DungeonZ",
+
+    "item.dungeonz.dungeon_compass": "Компас подземелья",
+
+    "dungeonz.difficulty": "Сложность",
+    "dungeonz.difficulty.easy": "Легко",
+    "dungeonz.difficulty.normal": "Нормально",
+    "dungeonz.difficulty.hard": "Сложно",
+    "dungeonz.difficulty.extreme": "Экстремально",
+
+    "container.dungeon_portal": "Портал подземелья",
+
+    "dungeon.task.join": "Присоединиться",
+    "dungeon.task.leave": "Покинуть",
+    "dungeon.ruin_dungeon": "Заброшенное подземелье",
+    "dungeon.dark_dungeon": "Тёмное подземелье",
+
+    "text.dungeonz.possible": "Возможная добыча",
+    "text.dungeonz.required": "Необходимые предметы",
+    "text.dungeonz.missing": "Отсутствующие предметы",
+    "text.dungeonz.effects": "Положительные эффекты",
+    "text.dungeonz.private": "Частная группа",
+    "text.dungeonz.nothing_required": "-",
+    "text.dungeonz.dead_player": "Невозможно снова присоединиться",
+    "text.dungeonz.empty_name": "-",
+    "text.dungeonz.player_list": "Игроки (%d/%d)",
+    "text.dungeonz.waiting_player_list": "Мин. кол-во игроков: %d/%d",
+    "text.dungeonz.dungeon_full": "Подземелье заполнено",
+    "text.dungeonz.dungeon_private": "Подземелье в частном режиме",
+    "text.dungeonz.dungeon_cooldown": "Подземелье на перезарядке",
+    "text.dungeonz.dungeon_cooldown_time": "Подземелье на перезарядке ещё %dч %dм %dс",
+    "text.dungeonz.dungeon_missing": "Подземелье не найдено!",
+    "text.dungeonz.dungeon_min_group_size": "Требуется ещё %s игроков в группе!",
+    "text.dungeonz.dungeon_autokick": "Вы были автоматически выкинуты из подземелья, потому что потратили слишком много времени на его завершение!",
+
+    "dungeon.op_screen.dungeon_type": "Тип подземелья",
+    "dungeon.op_screen.default_difficulty": "Стандартная сложность",
+    "dungeon.op_screen.gate_block_id": "Идентификатор блока врат",
+    "dungeon.op_screen.gate_particle_id": "Идентификатор частиц врат",
+    "dungeon.op_screen.gate_unlock_item_id": "Идентификатор предмета для открытия врат",
+
+    "compass.compass_screen.title": "Подземелья",
+    "compass.compass_screen.calibrate": "Калибровать",
+    "compass.compass_screen.required": "Требуется 3 осколка аметиста",
+    "compass.compass_item.cartography": "§7Откалибруйте на столе картографа",
+
+    "text.autoconfig.dungeonz.title": "DungeonZ - Настройки",
+    "text.autoconfig.dungeonz.option.devMode": "Режим разработчика",
+    "text.autoconfig.dungeonz.option.defaultDungeons": "Стандартные подземелья"
+}
