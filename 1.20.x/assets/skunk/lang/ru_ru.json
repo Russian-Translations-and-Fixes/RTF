@@ -1,0 +1,36 @@
+{
+"entity.skunk.skunk": "Скунс",
+"entity.skunk.warden_skunk": "Скунс-хранитель",
+"item.skunk.striped_skunk_spawn_egg":"Яйцо призыва полосатого скунса",
+"item.skunk.hooded_skunk_spawn_egg":"Яйцо призыва капюшонного скунса",
+"item.skunk.vanilla_skunk_spawn_egg":"Яйцо призыва ванильного скунса",
+"item.skunk.albino_skunk_spawn_egg":"Яйцо призыва скунса-альбиноса",
+"item.skunk.copper_skunk_spawn_egg":"Яйцо призыва медного скунса",
+"item.skunk.ghost_skunk_spawn_egg":"Яйцо призыва призрака скунса",
+"item.skunk.end_skunk_spawn_egg":"Яйцо призыва Эндер-скунса",
+"item.skunk.endvoid_skunk_spawn_egg":"Яйцо призыва скунса пустоты",
+"item.skunk.nether_skunk_spawn_egg":"Яйцо призыва незерского скунса",
+"item.skunk.nethersroom_skunk_spawn_egg":"Яйцо призыва искажённого незерского скунса",
+"item.skunk.warden_skunk_spawn_egg":"Яйцо призыва скунса-хранителя",
+
+"item.skunk.leather_skunk_armor":"Кожаная скунсовая броня",
+"item.skunk.iron_skunk_armor":"Железная скунсовая броня",
+"item.skunk.golden_skunk_armor":"Золотая скунсовая броня",
+"item.skunk.diamond_skunk_armor":"Алмазная скунсовая броня",
+
+"item.skunk.copper_skunk_item":"Медный скунс",
+"item.skunk.skunk_commanding_stick":"Палка управления скунсами",
+"item.skunk.tamed_warden_skunk_soul":"Прирученная душа скунса-хранителя",
+"item.skunk.glass_of_skunk_essence":"Бутылочка для концентрата запаха скунса",
+
+"tooltip.skunk.whenworn":"Когда надето:",
+"tooltip.skunk.armor":"Броня",
+"tooltip.skunk.toughness":"Твёрдость брони",
+
+"tooltip.skunk.collected":"\u00A7bСобранный концентрат:",
+"tooltip.skunk.overworld-1":"\u00A7bВерхнего мира",
+"tooltip.skunk.nether-1":"\u00A7bПризрачный",
+"tooltip.skunk.nether-2":"\u00A7bНезерский",
+"tooltip.skunk.nether-3":"\u00A7bИскажённый",
+"tooltip.skunk.end-1":"\u00A7bЭнда"
+}

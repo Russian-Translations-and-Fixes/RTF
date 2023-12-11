@@ -1,0 +1,38 @@
+{
+    "itemGroup.thinair.main": "Thin Air",
+
+    "item.thinair.respirator": "Респиратор",
+    "item.thinair.air_bladder": "Воздушный мешок",
+    "item.thinair.reinforced_air_bladder": "Укреплённый воздушный мешок",
+    "item.thinair.soulfire_bottle": "Бутылочка с огнём душ",
+
+    "block.thinair.safety_lantern": "Фонарь безопасности",
+
+    "advancement.thinair:root": "Разреженный воздух",
+    "advancement.thinair:root.desc": "Глубоко под землёй и в других измерениях воздух не всегда пригоден для дыхания",
+    "advancement.thinair:air_bladder": "Вдох-выдох",
+    "advancement.thinair:air_bladder.desc": "Используйте воздушный мешок, чтобы пополнять запас воздуха",
+    "advancement.thinair:soul": "Живительная синева",
+    "advancement.thinair:soul.desc": "Дышите жизненной энергией, исходящей от огня душ, чтобы поддерживать свой запас воздуха (но не увеличивать его!)",
+    "advancement.thinair:soulfire_bottle": "В случае чрезвычайной ситуации",
+    "advancement.thinair:soulfire_bottle.desc": "Восстановите свой запас воздуха, использовав бутылочку с огнём душ",
+    "advancement.thinair:protection_from_yellow": "Глубокий вдох...",
+    "advancement.thinair:protection_from_yellow.desc": "Защитите себя от удушливого воздуха, используя что-то вроде респиратора",
+    "advancement.thinair:protection_from_red": "...И задержи дыхание",
+    "advancement.thinair:protection_from_red.desc": "Дышите свободно там, где совсем нет воздуха",
+    "advancement.thinair:lantern": "Наш главный приоритет",
+    "advancement.thinair:lantern.desc": "Используйте фонарь безопасности, чтобы проверить качество воздуха вокруг вас",
+    "advancement.thinair:disco_lantern": "Красный свет! Зелёный свет!",
+    "advancement.thinair:disco_lantern.desc": "Используйте краситель, чтобы вручную изменить цвет фонаря безопасности (цвет можно соскоблить топором)",
+    "advancement.thinair:signal_torch": "Ох, вот и ВЫ-ХОД",
+    "advancement.thinair:signal_torch.desc": "Нажмите [ПКМ] по факелу, чтобы он начала испускать частицы, это можно использовать для указания на выход из пещеры",
+
+    "effect.minecraft.water_breathing": "Водное дыхание",
+    "item.minecraft.tipped_arrow.effect.water_breathing": "Стрела водного дыхания",
+    "item.minecraft.potion.effect.water_breathing": "Зелье водного дыхания",
+    "item.minecraft.splash_potion.effect.water_breathing": "Взрывное зелье водного дыхания",
+    "item.minecraft.lingering_potion.effect.water_breathing": "Туманное зелье водного дыхания",
+    "death.attack.drown": "%1$s задохнулся",
+    "death.attack.drown.player": "%1$s задохнулся, спасаясь от %2$s",
+    "subtitles.entity.player.hurt_drown": "Игрок задыхается"
+}

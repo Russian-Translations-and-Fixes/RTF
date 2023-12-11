@@ -1,0 +1,9 @@
+{
+"entity.crab.crab": "Краб",
+"item.crab.crab_spawn_egg":"Яйцо призыва краба",
+
+"item.crab.crab_claw_item":"Клешня краба",
+"item.crab.cooked_crab_claw":"Жареная клешня краба",
+
+"tooltip.crab.whenworn":"Увеличивает дальность размещения блоков"
+}

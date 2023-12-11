@@ -1,0 +1,37 @@
+{
+  "container.enderitestorage.enderiteChest": "Эндеритовый сундук",
+  "container.enderitestorage.enderiteChestDouble": "Большой эндеритовый сундук",
+
+  "block.enderitestorage.enderite_chest": "Эндеритовый сундук",
+
+  "stat.enderitestorage.open_enderite_chest": "Открыто эндеритовых сундуков",
+
+  "container.enderitestorage.enderiteShulkerBox": "Эндеритовый шалкеровый ящик",
+
+  "block.enderitestorage.enderite_shulker_box": "Эндеритовый шалкеровый ящик",
+  "block.enderitestorage.white_enderite_shulker_box": "Белый эндеритовый шалкеровый ящик",
+  "block.enderitestorage.orange_enderite_shulker_box": "Оранжевый эндеритовый шалкеровый ящик",
+  "block.enderitestorage.magenta_enderite_shulker_box": "Пурпурный эндеритовый шалкеровый ящик",
+  "block.enderitestorage.light_blue_enderite_shulker_box": "Голубой эндеритовый шалкеровый ящик",
+  "block.enderitestorage.yellow_enderite_shulker_box": "Жёлтый эндеритовый шалкеровый ящик",
+  "block.enderitestorage.lime_enderite_shulker_box": "Лаймовый эндеритовый шалкеровый ящик",
+  "block.enderitestorage.pink_enderite_shulker_box": "Розовый эндеритовый шалкеровый ящик",
+  "block.enderitestorage.gray_enderite_shulker_box": "Серый эндеритовый шалкеровый ящик",
+  "block.enderitestorage.light_gray_enderite_shulker_box": "Светло-серый эндеритовый шалкеровый ящик",
+  "block.enderitestorage.cyan_enderite_shulker_box": "Бирюзовый эндеритовый шалкеровый ящик",
+  "block.enderitestorage.purple_enderite_shulker_box": "Фиолетовый эндеритовый шалкеровый ящик",
+  "block.enderitestorage.blue_enderite_shulker_box": "Синий эндеритовый шалкеровый ящик",
+  "block.enderitestorage.brown_enderite_shulker_box": "Коричневый эндеритовый шалкеровый ящик",
+  "block.enderitestorage.green_enderite_shulker_box": "Зелёный эндеритовый шалкеровый ящик",
+  "block.enderitestorage.red_enderite_shulker_box": "Красный эндеритовый шалкеровый ящик",
+  "block.enderitestorage.black_enderite_shulker_box": "Чёрный эндеритовый шалкеровый ящик",
+
+  "stat.enderitestorage.clean_enderite_shulker_box": "Очищено эндеритовых шалкеровых ящиков",
+  "stat.enderitestorage.open_enderite_shulker_box": "Открыто эндеритовых шалкеровых ящиков",
+
+  "container.enderitestorage.enderiteBarrel": "Эндеритовая бочка",
+
+  "block.enderitestorage.enderite_barrel": "Эндеритовая бочка",
+
+  "stat.enderitestorage.open_enderite_barrel": "Открыто эндеритовых бочек"
+}

@@ -10,6 +10,7 @@
     "text.autoconfig.partyaddon.option.showGroupHud": "Отображать интерфейс группы",
     "text.autoconfig.partyaddon.option.distributeVanillaXP": "Выдавать обычный опыт",
     "text.autoconfig.partyaddon.option.distributeLevelZXP": "Выдавать опыт из LevelZ",
+    "text.autoconfig.partyaddon.option.hudMaxWidth": "Макс. ширина интерфейса",    
 
     "screen.partyaddon.party_screen": "Группа",
     "searchPlayer.search": "Имя игрока",

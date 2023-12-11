@@ -1,0 +1,59 @@
+{
+    "itemGroup.notenoughweapons": "Not Enough Weapons",
+    
+    "item.notenoughweapons.netherite_club":"Незеритовая палица",
+    "item.notenoughweapons.diamond_club":"Алмазная палица",
+    "item.notenoughweapons.iron_club":"Железная палица",
+    "item.notenoughweapons.golden_club":"Золотая палица",
+    "item.notenoughweapons.stone_club":"Каменная палица",
+    "item.notenoughweapons.wooden_club":"Деревянная палица",
+    
+    "item.notenoughweapons.netherite_dagger":"Незеритовый кинжал",
+    "item.notenoughweapons.diamond_dagger":"Алмазный кинжал",
+    "item.notenoughweapons.iron_dagger":"Железный кинжал",
+    "item.notenoughweapons.golden_dagger":"Золотой кинжал",
+    "item.notenoughweapons.stone_dagger":"Каменный кинжал",
+    "item.notenoughweapons.wooden_dagger":"Деревянный кинжал",
+    
+    "item.notenoughweapons.netherite_glaive":"Незеритовая глефа",
+    "item.notenoughweapons.diamond_glaive":"Алмазная глефа",
+    "item.notenoughweapons.iron_glaive":"Железная глефа",
+    "item.notenoughweapons.golden_glaive":"Золотая глефа",
+    "item.notenoughweapons.stone_glaive":"Каменная глефа",
+    "item.notenoughweapons.wooden_glaive":"Деревянная глефа",
+    
+    "item.notenoughweapons.netherite_greatsword":"Незеритовый большой меч",
+    "item.notenoughweapons.diamond_greatsword":"Алмазный большой меч",
+    "item.notenoughweapons.iron_greatsword":"Железный большой меч",
+    "item.notenoughweapons.golden_greatsword":"Золотой большой меч",
+    "item.notenoughweapons.stone_greatsword":"Каменный большой меч",
+    "item.notenoughweapons.wooden_greatsword":"Деревянный большой меч",
+    
+    "item.notenoughweapons.netherite_hammer":"Незеритовый молот",
+    "item.notenoughweapons.diamond_hammer":"Алмазный молот",
+    "item.notenoughweapons.iron_hammer":"Железный молот",
+    "item.notenoughweapons.golden_hammer":"Золотой молот",
+    "item.notenoughweapons.stone_hammer":"Каменный молот",
+    "item.notenoughweapons.wooden_hammer":"Деревянный молот",
+    
+    "item.notenoughweapons.netherite_longhammer":"Незеритовый длинный меч",
+    "item.notenoughweapons.diamond_longhammer":"Алмазный длинный меч",
+    "item.notenoughweapons.iron_longhammer":"Железный длинный меч",
+    "item.notenoughweapons.golden_longhammer":"Золотой длинный меч",
+    "item.notenoughweapons.stone_longhammer":"Каменный длинный меч",
+    "item.notenoughweapons.wooden_longhammer":"Деревянный длинный меч",
+    
+    "item.notenoughweapons.netherite_large_club":"Большая незеритовая палица",
+    "item.notenoughweapons.diamond_large_club":"Большая алмазная палица",
+    "item.notenoughweapons.iron_large_club":"Большая железная палица",
+    "item.notenoughweapons.golden_large_club":"Большая золотая палица",
+    "item.notenoughweapons.stone_large_club":"Большая каменная палица",
+    "item.notenoughweapons.wooden_large_club":"Большая деревянная палица",
+    
+    "item.notenoughweapons.netherite_short_sword":"Короткий незеритовый меч",
+    "item.notenoughweapons.diamond_short_sword":"Короткий алмазный меч",
+    "item.notenoughweapons.iron_short_sword":"Короткий железный меч",
+    "item.notenoughweapons.golden_short_sword":"Короткий золотой меч",
+    "item.notenoughweapons.stone_short_sword":"Короткий каменный меч",
+    "item.notenoughweapons.wooden_short_sword":"Короткий деревянный меч"
+}
