@@ -1,0 +1,40 @@
+{
+    "text.autoconfig.revive.title": "Revive - Настройки",
+    "text.autoconfig.revive.option.timer": "Время до воскрешения",
+    "text.autoconfig.revive.option.dropLoot": "Выпадение предметов из игроков при смерти",
+    "text.autoconfig.revive.option.dropRandom": "Выпадение случайных предметов из игроков при смерти",
+    "text.autoconfig.revive.option.dropRandomOnExplosion": "Выпадение случайных предметов из игроков при смерти от взрыва",
+    "text.autoconfig.revive.option.dropChance": "Вероятность выпадения предмета при смерти от взрыва",
+    "text.autoconfig.revive.option.reviveHealthPoints": "Здоровья после воскрешения",
+    "text.autoconfig.revive.option.reviveSupportiveHealthPoints": "Здоровья после спасительного воскрешения",
+    "text.autoconfig.revive.option.reviveEffects": "Эффекты после воскрешения",
+    "text.autoconfig.revive.option.effectLivelyAftermath": "Длительность эффекта «Последствие»",
+    "text.autoconfig.revive.option.effectAftermath": "Длительность эффекта «Живительное последствие»",
+    "text.autoconfig.revive.option.effectSlowness": "Длительность эффекта «Замедление»",
+    "text.autoconfig.revive.option.effectHunger": "Длительность эффекта «Голод»",
+    "text.autoconfig.revive.option.effectWeakness": "Длительность эффекта «Слабость»",
+    "text.autoconfig.revive.option.showDeathCoordinates": "Отображать координаты смерти",
+    "text.autoconfig.revive.option.allowLootablePlayer": "Разрешить забирать добычу с мёртвых игроков",
+    "text.autoconfig.revive.option.thirdPersonOnDeath": "Переходить в режим от 3-го лица после смерти",
+    "text.autoconfig.revive.option.rotationSpeed": "Скорость вращения камеры в режиме от 3-го лица после смерти",
+    "text.autoconfig.revive.option.allowReviveWithHand": "Разрешить воскресать без зелий",
+
+    "text.deathScreen.revive": "Воскреснуть",
+    "text.deathScreen.timer": "Время: %d",
+    "text.deathScreen.coordinates": "Координаты: %d, %d, %d",
+
+    "item.revive.revival_star": "Звезда воскрешения",
+
+    "item.minecraft.potion.effect.revivify_potion": "Зелье воскрешения",
+    "item.minecraft.splash_potion.effect.revivify_potion": "Взрывное зелье воскрешения",
+    "item.minecraft.lingering_potion.effect.revivify_potion": "Туманное зелье воскрешения",
+    "item.minecraft.potion.effect.supportive_revivify_potion": "Зелье спасительного воскрешения",
+    "item.minecraft.splash_potion.effect.supportive_revivify_potion": "Взрывное зелье спасительного воскрешения",
+    "item.minecraft.lingering_potion.effect.supportive_revivify_potion": "Туманное зелье спасительного воскрешения",
+
+    "item.minecraft.tipped_arrow.effect.revivify_potion": "Стрела последствия",
+    "item.minecraft.tipped_arrow.effect.supportive_revivify_potion": "Стрела живительного последствия",
+    "effect.revive.aftermath": "Последствие",
+    "effect.revive.lively_aftermath": "Живительное последствие"
+    
+}

@@ -1,0 +1,14 @@
+{
+    "screen.rewardz": "Награды",
+
+    "category.rewardz.keybind": "RewardZ",
+    "key.rewardz.reward": "Открыть окно наград",
+
+    "text.autoconfig.rewardz.title": "RewardZ - Настройки",
+    "text.autoconfig.rewardz.option.posX": "Позиция кнопки в инвентаре по оси X",
+    "text.autoconfig.rewardz.option.posY": "Позиция кнопки в инвентаре по оси Y",
+    "text.autoconfig.rewardz.option.inventoryButton": "Кнопка в инвентаре",
+
+    "command.rewardz.info": "%s открыл %s дней наград и использовал %s дней",
+    "commands.rewardz.rewards_changed": "Дни наград %s были изменены!"
+}
