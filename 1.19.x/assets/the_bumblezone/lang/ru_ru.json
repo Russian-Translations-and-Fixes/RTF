@@ -324,7 +324,7 @@
   "command.the_bumblezone.queens_desired_bees_fed": "%s накормили пчёл %s раз медовыми/сладкими предметами для достижения Королевских желаний",
   "command.the_bumblezone.queens_desired_queen_bee_trade": "%s обменялись %s раз с королевой пчёл для достижения Королевских желаний",
   "command.the_bumblezone.queens_desired_killed_entity_counter": "%s убили %s %s для достижения Королевских желаний",
-  "command.the_bumblezone.queens_desired_killed_entity_counter_ender_dragon": "%s убили %s %s для достижения Королевских желаний (Достижение требует убийства существа со всеми четырьмя надетыми элементами пчелиной брони)",
+  "command.the_bumblezone.queens_desired_killed_entity_counter_ender_dragon": "%s убили %s %s для достижения Королевских желаний (Достижение требует убийства существа со всеми четырьмя надетыми частями пчелиной брони)",
   "command.the_bumblezone.queens_desired_killed_entity_counter_wither": "%s убили %s %s для достижения Королевских желаний (Достижение требует убийства существа копьём-жалом)",
 
   "advancements.the_bumblezone.root.title": "The Bumblezone",

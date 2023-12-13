@@ -7,7 +7,7 @@
   "attribute.name.spell_power.soul" : "Сила заклинаний душ",
   "attribute.name.spell_power.critical_chance" : "Шанс критического удара заклинаний",
   "attribute.name.spell_power.critical_damage" : "Урон критического удара заклинаний",
-  "attribute.name.spell_power.haste" : "Скорость произнесения заклинаний",
+  "attribute.name.spell_power.haste" : "Скорость прочтения заклинаний",
 
   "effect.spell_power.arcane": "Таинственная сила",
   "effect.spell_power.arcane.description": "Повышает урон и эффективность заклинаний тайной магии.",
@@ -26,7 +26,7 @@
   "effect.spell_power.critical_damage": "Сила заклинаний",
   "effect.spell_power.critical_damage.description": "Повышает урон от всех видов заклинаний.",
   "effect.spell_power.haste": "Скорость заклинаний",
-  "effect.spell_power.haste.description": "Повышает скорость произнесения заклинаний.",
+  "effect.spell_power.haste.description": "Повышает скорость прочтения заклинаний.",
 
   "enchantment.spell_power.spell_power" : "Сила заклинаний",
   "enchantment.spell_power.spell_power.desc" : "Повышает урон всех заклинаний.",
@@ -41,7 +41,7 @@
   "enchantment.spell_power.critical_damage" : "Сила заклинаний",
   "enchantment.spell_power.critical_damage.desc" : "Повышает урон критического удара заклинаний.",
   "enchantment.spell_power.haste" : "Скорость заклинаний",
-  "enchantment.spell_power.haste.desc" : "Повышает cкорость произнесения заклинаний.",
+  "enchantment.spell_power.haste.desc" : "Повышает cкорость прочтения заклинаний.",
   "enchantment.spell_power.magic_protection" : "Магическая защита",
   "enchantment.spell_power.magic_protection.desc" : "Уменьшает урон от вражеских заклинаний."
 }
