@@ -7,29 +7,29 @@
 
     {
       "type": "text",
-      "text": "The $(item)Pneumatic Chestplate/$ is one of the four $(thing)Pneumatic Armor/$ pieces.$(p)It has a larger $(l:base_concepts/pressure)air volume/$ than the other three pieces."
+      "text": "$(item)Пневмонагрудник/$ — это одна из четырёх частей $(thing)Пневмоброни/$.$(p)Он вмещает в себя гораздо больший $(l:base_concepts/pressure)объём воздуха/$, чем остальные три части брони."
     },
     {
       "type": "crafting",
       "recipe": "pneumaticcraft:pneumatic_chestplate",
-      "text": "Crafting a Pneumatic Chestplate"
+      "text": "Создание Пневмонагрудника"
     },
     {
       "type": "spotlight",
       "item": "pneumaticcraft:security_upgrade",
-      "text": "With a $(l:base_concepts/upgrades#security)Security Upgrade/$ installed, the chestplate grants you protection from fire and lava, at a significant air cost: air is rapidly dumped from the chestplate to extinguish nearby flames and keep you cool.  It will even slowly solidify nearby lava."
+      "text": "$(l:base_concepts/upgrades#security)Улучшение: Безопасность/$ установленное в пневмонагрудник обеспечивает защиту от огня и лавы за счёт значительного расхода воздуха: воздух будет быстро выпускаться из нагрудника, чтобы погасить близлежащее пламя и отвердить лаву, обеспечивая нормальную температуру."
     },
     {
       "type": "text",
-      "title": "Security Upgrade (cont)",
-      "text": "Note: this protection activates if you are about to take fire damage, so if you are already protected (e.g. via a potion), this upgrade won't do anything."
+      "title": "Улучшение: Безопасность",
+      "text": "Обратите внимание, что эта защита срабатывает только тогда, когда вы получаете урон от огня, так что если вы уже защищены (например, с помощью зелья), это улучшение не будет работать."
     },
     {
       "type": "spotlight",
       "flag": "mod:immersiveengineering",
       "title": "Immersive Engineering",
       "item": "immersiveengineering:wirecoil_copper",
-      "text": "The $(item)Security Upgrade/$ will also provide protection from uninsulated $(l:https://minecraft.curseforge.com/projects/immersive-engineering)Immersive Engineering/$ wiring; you will not be injured by electric shocks from such wires, but this does cost air from the chestplate, proportional to the damage negated. This doesn't prevent any knockbacks."
+      "text": "$(item)Улучшение: Безопасность/$, также защищает от неизолированных проводов из $(l:https://minecraft.curseforge.com/projects/immersive-engineering)Immersive Engineering/$. Вы не получите урон от поражения электрическим током от таких проводов, но это приведёт к расходу воздуха в нагруднике пропорционально полученному урону. Это не предотвращает отбрасывание."
     },
     {
       "type": "spotlight",

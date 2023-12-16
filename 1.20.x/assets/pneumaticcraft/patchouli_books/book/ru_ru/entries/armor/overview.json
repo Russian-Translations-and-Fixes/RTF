@@ -7,7 +7,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "What if you mix $(pncr) with the HUD from $(thing)Iron Man/$? You get $(thing)Pneumatic Armor/$!$(p)Although this armor was inspired by Tony Stark's toy, it doesn't mean it's invincible in any way: by default, the armor has only slightly better protection and durability than the equivalent $(thing)Iron Armor/$ piece. "
+      "text": "Что если объединить $(pncr) с интерфейсом из костюма $(thing)Железного человека/$? Вы получите $(thing)Пневмоброню/$!$(p)Хотя эта броня вдохновлена игрушкой Тони Старка, это не значит, что она несокрушима: по умолчанию броня имеет лишь немного лучшую защиту и прочность, чем элементы $(thing)Железных доспехов/$. "
     },
     {
       "type": "image",
@@ -15,64 +15,58 @@
         "pneumaticcraft:textures/patchouli/pneumatic_armor.png"
       ],
       "border": "true",
-      "text": "Compressed Iron Man"
+      "text": "Прессованная броня Железного человека"
     },
     {
       "type": "text",
-      "text": "However, this armor is highly upgradable. To use upgrades (and to pressurize the armor), put the armor in a $(l:machines/charging_station)Charging Station/$.$(p)Upgrades common to all pieces are described in the following pages. Piece-specific upgrades are described separately in the pages for each armor piece."
+      "text": "Однако эта броня легко улучшается. Чтобы установить улучшения (и заправить броню сжатым воздухом), поместите броню в $(l:machines/charging_station)Заправочную станцию/$.$(p)Улучшения, общие для всех частей брони, описаны на следующих страницах. Модификации, специфичные для каждой части брони, описаны отдельно на страницах для этих частей."
     },
     {
       "type": "text",
-      "text": "When you equip an armor piece, it will $(thing)boot up/$ within a few seconds. You can press $(thing)$(k:pneumaticcraft.armor.options)/$ to open a GUI, which allows you to configure installed upgrades and adjust the armor HUD. With more upgrades installed, more options will appear in the GUI.$(p)Note that all upgrades can be toggled on/off via the GUI checkboxes, and you can even bind a key to each checkbox to quickly toggle features when outside the GUI."
+      "text": "Когда вы экипируете часть брони, она $(thing)инициализируется/$ в течение нескольких секунд. Вы можете нажать [$(thing)$(k:pneumaticcraft.armor.options)/$], чтобы открыть интерфейс, для настройки улучшений и отображаемой бронёй информации. С установленными улучшениями в интерфейсе появится больше опций.$(p)Обратите внимание, что все улучшения можно включать/выключать через флажки в интерфейсе, и вы даже можете назначить клавишу для каждого флажка, чтобы быстро переключать функции, находясь вне интерфейса."
     },
     {
       "type": "spotlight",
       "item": "minecraft:anvil",
-      "title": "Repairing",
-      "text": "There are a few ways to keep your valuable armor in good condition:$(li)It can be repaired in an $(thing)Anvil/$ with Compressed Iron Ingots$(li)Add $(thing)Item Life Upgrades/$ to each piece to have it repair itself$(li)Apply the $(thing)Mending/$ enchantment to each piece"
+      "title": "Починка",
+      "text": "Есть несколько способов поддерживать вашу ценную броню в хорошем состоянии:$(li)Её можно починить на $(thing)Наковальне/$ с помощью прессованного железного слитка.$(li)Установив $(thing)Улучшение: Срок службы/$ в каждую часть, чтобы броня сама производила починку.$(li)Наложить на часто броню чары $(thing)Починка/$."
     },
     {
       "type": "text",
-      "title": "Coloring",
-      "text": "Every armor piece is dynamically re-colorable from the default grey texture; each piece has a $(thing)primary/$ and $(thing)secondary/$ color which can be adjusted independently, and the Helmet $(thing)eyepiece/$ can also have its own color.$(p)To adjust colors, just use the $(bold)Colors.../$ screen from the main armor GUI screen. No special upgrades are needed for this; it's builtin functionality!"
+      "title": "Окраска",
+      "text": "Каждую часть брони можно динамически перекрашивать из стандартной серого цвета в что-то более интересное. У каждой части есть $(thing)основной/$ и $(thing)вторичный/$ цвета, которые можно изменять независимо, а у Шлема есть также дополнительная настройка для цвета $(thing)глазных линз/$.$(p)Чтобы настроить цвета, просто используйте экран $(bold)Цвета брони.../$ из основных компонентов интерфейса брони. Для этого не требуется особых улучшений, это встроенная функция!"
     },
     {
       "type": "spotlight",
       "item": "pneumaticcraft:speed_upgrade",
-      "text": "$(l:base_concepts/upgrades#speed)Speed Upgrades/$ reduce the startup time of each armor piece. In addition, they reduce the $(l:armor/pneumatic_helmet)Helmet/$ lock-on time for $(l:base_concepts/upgrades#entity_tracker)Entity Tracker/$ and $(l:base_concepts/upgrades#block_tracker)Block Tracker/$, and increase the $(l:armor/pneumatic_leggings)Leggings/$ run speed, but at an $(l:base_concepts/pressure)air cost/$."
+      "text": "$(l:base_concepts/upgrades#speed)Улучшения: Скорость/$ снижают время инициализации каждой части брони. Кроме того, они уменьшают время захвата целей $(l:armor/pneumatic_helmet)Пневмошлемом/$ с установленными улучшениями $(l:base_concepts/upgrades#entity_tracker)Трекер существ/$ и $(l:base_concepts/upgrades#block_tracker)Трекер блоков/$, а также увеличивают скорость бега $(l:armor/pneumatic_leggings)Пневмопоножей/$, но за счёт $(l:base_concepts/pressure)расхода воздуха/$."
     },
     {
       "type": "spotlight",
       "item": "pneumaticcraft:volume_upgrade",
-      "text": "$(l:base_concepts/upgrades#volume)Volume Upgrades/$ increase the $(l:base_concepts/pressure)air storage capacity/$ of each armor piece, making them take longer to charge, but slower to lose pressure when in use. Volume Upgrades are limited to 25, and there are diminishing returns as you add more and more upgrades."
+      "text": "$(l:base_concepts/upgrades#volume)Улучшения: Объём/$ увеличивают $(l:base_concepts/pressure)ёмкость воздуха/$ каждой части брони, делая их заправку дольше, но так они медленнее теряют давление во время использования. Максимальное количество Улучшений: Объём равно 25, и с увеличением их количества эффективность с каждым новым улучшением будет падать."
     },
     {
       "type": "spotlight",
       "item": "pneumaticcraft:armor_upgrade",
-      "text": "$(l:base_concepts/upgrades#armor)Armor Upgrades/$ increase the protection and toughness of each armor piece. With 2 upgrades installed, each piece is as good as the corresponding $(thing)Diamond Armor/$ piece.  With the maximum 4 upgrades, the protection is thus superior to $(thing)Diamond Armor/$."
+      "text": "$(l:base_concepts/upgrades#armor)Улучшения: Броня/$ увеличивают защиту и прочность каждой части брони. С 2 установленными улучшениями, каждая часть брони становится эквивалентна частям $(thing)Алмазного доспеха/$. С 4 установленными улучшениями, защита брони будет превосходить защиту $(thing)Алмазного доспеха/$."
     },
     {
       "type": "spotlight",
       "item": "pneumaticcraft:item_life_upgrade",
-      "text": "$(l:base_concepts/upgrades#item_life)Item Life Upgrades/$ slowly repair the armor piece, at a cost of $(l:base_concepts/pressure)air/$. Up to 5 upgrades can be installed in each piece, providing incrementally faster (but less air-efficient) repair."
+      "text": "$(l:base_concepts/upgrades#item_life)Улучшения: Срок службы/$ медленно чинят часть брони, за счёт $(l:base_concepts/pressure)расхода воздуха/$. В каждую часть брони можно установить до 5 улучшений, обеспечивая постепенно более быструю починку, но это будет увеличивать расход воздуха."
     },
     {
       "type": "spotlight",
       "item": "pneumaticcraft:gilded_upgrade",
-      "text": "A $(l:base_concepts/upgrades#gilded)Gilded Upgrade/$ can be installed in any armor piece, and fools $(thing)Piglins/$ into believing that you're actually wearing $(thing)Gold Armor/$. Silly Piglins."
+      "text": "$(l:base_concepts/upgrades#gilded)Улучшения: Позолота/$ можно установить в любую часть брони, чтобы обмануть $(thing)Пиглинов/$, заставляя их верить, что вы действительно носите $(thing)Золотые доспехи/$. Глупые Пиглины."
     },
     {
       "type": "spotlight",
       "flag": "mod:mekanism",
-      "title": "Mekanism Radiation",
+      "title": "Радиационная зашита",
       "item": "pneumaticcraft:radiation_shielding_upgrade",
-      "text": "The $(l:base_concepts/upgrades#radiation_shielding)Radiation Shielding Upgrade/$ provides protection against the harmful effects of Mekanism radiation, same as Mekanism's own $(l:https://wiki.aidancbrady.com/wiki/Radiation_Shielding_Unit)Radiation Shielding Unit/$. Note that you must have a Shielding Upgrade in every armor piece to receive full protection."
-    },
-    {
-      "type": "text",
-      "title": "Thaumcraft",
-      "flag": "mod:thaumcraft",
-      "text": "$(l:base_concepts/upgrades#thaumcraft)Thaumcraft Upgrades/$ provide the armor piece with the equivalent vis discount of the corresponding $(thing)Thaumaturge's armor/$.  In addition, a Thaumcraft Upgrade installed in the $(l:armor/helmet)Helmet/$ acts as a $(item)Goggles of Revealing/$, showing $(thing)aura nodes/$ and displaying $(thing)aspect/$ amounts in containers."
+      "text": "$(l:base_concepts/upgrades#radiation_shielding)Улучшения: Радиационная защита/$ обеспечивают защиту от негативных эффектов радиации из Mekanism, так же как и в Mekanism имеется $(l:https://wiki.aidancbrady.com/wiki/Radiation_Shielding_Unit)Модуль: Радиационная защита/$. Обратите внимание, что для полной защиты в каждой части брони должно быть установленно это улучшение."
     }
   ]
 }
