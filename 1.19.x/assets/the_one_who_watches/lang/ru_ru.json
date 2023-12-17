@@ -1,15 +1,21 @@
 {
     "effect.the_one_who_watches.paranoia": "Паранойя",
+    "effect.the_one_who_watches.toww_jumpscare_effect": "Испуг",
     "entity.the_one_who_watches.toww_hallucination": "Галлюцинаторный образ наблюдателя",
     "entity.the_one_who_watches.toww_hanging": "Наблюдатель",
     "entity.the_one_who_watches.toww_running": "Наблюдатель",
     "entity.the_one_who_watches.toww_stare": "Наблюдатель",
     "item.the_one_who_watches.toww_hallucination_spawn_egg": "Яйцо призыва галлюцинаторного образа наблюдателя",
     "item.the_one_who_watches.toww_stare_spawn_egg": "Яйцо призыва наблюдателя",
+    "subtitles.jumpscare1": "Пугающий крик наблюдателя",
+    "subtitles.jumpscare2": "Пугающий крик наблюдателя",
     "subtitles.scream1": "Ужасающий крик наблюдателя",
     "subtitles.scream2": "Ужасающий крик наблюдателя",
     "subtitles.scream3": "Ужасающий крик наблюдателя",
+    "subtitles.scream5": "Ужасающий крик наблюдателя",
     "subtitles.stinger1": "Неожиданный шум",
     "subtitles.whisper1": "Леденящий шёпот наблюдателя",
-    "subtitles.whisper2": "Леденящий шёпот наблюдателя"
+    "subtitles.whisper2": "Леденящий шёпот наблюдателя",
+    "subtitles.whisper_i_see_you1": "Я тебя вижу...",
+    "subtitles.whisper_look_behind_you1": "Обернись..."
 }

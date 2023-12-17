@@ -1,5 +1,9 @@
 {
+  "block.crittersandcompanions.sea_bunny_slime_block": "Блок слизи морского кролика",
+  "block.crittersandcompanions.silk_cocoon": "Шёлковый кокон",
+
   "entity.crittersandcompanions.otter": "Выдра",
+  "entity.crittersandcompanions.jumping_spider": "Прыгающий паук",
   "entity.crittersandcompanions.koi_fish": "Карп кои",
   "entity.crittersandcompanions.dragonfly": "Стрекоза",
   "entity.crittersandcompanions.sea_bunny": "Морской кролик",
@@ -13,6 +17,7 @@
   "itemGroup.crittersandcompanions": "Critters and Companions",
 
   "item.crittersandcompanions.otter_spawn_egg": "Яйцо призыва выдры",
+  "item.crittersandcompanions.jumping_spider_spawn_egg": "Яйцо призыва прыгающего паука",
   "item.crittersandcompanions.koi_fish_spawn_egg": "Яйцо призыва карпа кои",
   "item.crittersandcompanions.dragonfly_spawn_egg": "Яйцо призыва стрекозы",
   "item.crittersandcompanions.sea_bunny_spawn_egg": "Яйцо призыва морского кролика",
@@ -29,6 +34,11 @@
   "item.crittersandcompanions.iron_dragonfly_armor": "Железная броня для стрекозы",
   "item.crittersandcompanions.koi_fish": "Карп кои",
   "item.crittersandcompanions.clam": "Моллюск",
+  "item.crittersandcompanions.dragonfly_wing": "Крыло стрекозы",
+  "item.crittersandcompanions.silk": "Шёлк",
+  "item.crittersandcompanions.sea_bunny_slime_bottle": "Бутылочка слизи морского кролика",
+  "item.crittersandcompanions.silk_lead": "Шёлковый поводок",
+  "item.crittersandcompanions.grappling_hook": "Крюк-кошка",
   "item.crittersandcompanions.pearl": "Жемчуг",
   "item.crittersandcompanions.pearl_necklace_1": "Жемчужное ожерелье I",
   "item.crittersandcompanions.pearl_necklace_2": "Жемчужное ожерелье II",

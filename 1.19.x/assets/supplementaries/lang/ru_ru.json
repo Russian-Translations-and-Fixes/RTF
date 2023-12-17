@@ -153,6 +153,7 @@
     "block.supplementaries.netherite_trapdoor": "Незеритовый люк",
     "block.supplementaries.notice_board": "Информационная доска",
     "block.supplementaries.pancake": "Блинчик",
+    "block.supplementaries.pancake_disc.desc": "Partyp - Pancake Music",
     "block.supplementaries.pedestal": "Пьедестал",
     "block.supplementaries.planter": "Вазон",
     "block.supplementaries.planter_rich": "Вазон с плодородной почвой",
@@ -247,6 +248,7 @@
     "block.supplementaries.wall_lantern": "Настенный фонарь",
     "block.supplementaries.wild_flax": "Дикий лён",
     "block.supplementaries.wind_vane": "Флюгер",
+
     "block_type.supplementaries.hanging_sign": "Подвесная табличка",
     "block_type.supplementaries.sign_post": "Знак",
 
@@ -294,6 +296,7 @@
     "filled_map.pillager_outpost": "Карта исследования аванпоста",
     "filled_map.ruined_portal": "Карта исследования руин порталов",
     "filled_map.shipwreck": "Карта исследования затонувших кораблей",
+    "filled_map.sliced.tooltip": "Слой: %d",
     "filled_map.stronghold": "Карта исследования крепости",
     "filled_map.structure": "Карта исследования",
     "filled_map.swamp_hut": "Карта исследования болота",
@@ -332,6 +335,7 @@
     "gui.supplementaries.speaker_block.volume": "Громкость: ",
     "gui.supplementaries.trapped_present": "Подарок-ловушка",
 
+    "item.supplementaries.altimeter": "Высотомер",
     "item.supplementaries.amethyst_arrow": "Аметистовая стрела",
     "item.supplementaries.antique_ink": "Старинные чернила",
     "item.supplementaries.ash": "Пепел",
@@ -360,6 +364,7 @@
     "item.supplementaries.red_merchant_spawn_egg": "Яйцо призыва красного торговца",
     "item.supplementaries.rope_arrow": "Стрела с верёвкой",
     "item.supplementaries.sign_post": "Знак из %s",
+    "item.supplementaries.slice_map": "Карта слоя",
     "item.supplementaries.slingshot": "Рогатка",
     "item.supplementaries.soap": "Мыло",
     "item.supplementaries.soap_water": "Мыльная вода",
@@ -372,6 +377,7 @@
     "leaves_type.twilightforest.dark": "Тёмное дерево",
     "leaves_type.ulterlands.souldrained": "Окаменевший",
 
+    "message.supplementaries.altimeter": "Y: %d",
     "message.supplementaries.blackboard": "С рисунком",
     "message.supplementaries.bubble_blower_tooltip": "Количество мыла: %1$s / %2$s",
     "message.supplementaries.cage": "Удерживайте [Shift], чтобы поставить",
@@ -385,6 +391,8 @@
     "message.supplementaries.command.globe_reset": "Обновлён ключ генерации глобуса",
     "message.supplementaries.command.record.start": "Запись включена",
     "message.supplementaries.command.record.stop": "Запись отключена: сохранено в папке recorded_songs/%s",
+    "message.supplementaries.compass": "X: %d, Z: %d",
+    "message.supplementaries.death_marker": "Последняя смерть",
     "message.supplementaries.door.locked": "Эта дверь заперта",
     "message.supplementaries.double_cake": "Можно ставить друг на друга",
     "message.supplementaries.fluid_tooltip": "%s: %d mBtl",

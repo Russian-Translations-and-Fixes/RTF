@@ -78,6 +78,28 @@
 
 	"category.rei.jmc.cake_oven": "Выпечка торта",
 	"category.rei.jmc.cake_oven.time&xp": "%s опыта за %s сек.",
+
+    "modmenu.descriptionTranslation.jmc": "Простая модификация, добавляющая более 30 новых тортов в Minecraft",
+  
+    "config.jade.plugin_jmc.cake_nourishment": "Информация о питательности",
+    "config.jade.plugin_jmc.cake_nourishment.display_type": "Тип отображения",
+    "config.jade.plugin_jmc.cake_nourishment.display_type_total": "Полностью",
+    "config.jade.plugin_jmc.cake_nourishment.display_type_total_desc": "Количество питательности и насыщения от употребления целого торта",
+    "config.jade.plugin_jmc.cake_nourishment.display_type_per_slice": "За кусочек",
+    "config.jade.plugin_jmc.cake_nourishment.display_type_per_slice_desc": "Количество питательности и насыщения от употребления кусочка торта",
+    "config.jade.plugin_jmc.cake_nourishment.food_icons_per_line": "Иконок в ряду",
+    "config.jade.plugin_jmc.cake_nourishment.show_nutrition": "Показывать питательность",
+    "config.jade.plugin_jmc.cake_nourishment.show_saturation": "Показывать насыщение",
+    "config.jade.plugin_jmc.cake_nourishment.show_saturation_desc": "Показывать насыщение, которое даёт торт [Значение зависит от типа отображения]",
+    "config.jade.plugin_jmc.cake_effects": "Эффекты торта",
+    "config.jade.plugin_jmc.cake_oven": "Содержимое печи для тортов",
+    "config.jade.plugin_jmc.cake_oven.item_storage_remover": "Убрать стандартное отображение",
+    "config.jade.plugin_jmc.cake_oven.item_storage_remover_desc": "Убирает стандартное отображение хранящихся в печи предметов. Отключения этой опции может привести к двойному отображению содержимого, это не ошибка.",
+    "config.jade.plugin_jmc.hide_trapped_cakes": "Скрыть торты-ловушки",
+    "config.jade.plugin_jmc.candle_type": "Тип свечи",
+    "jade.plugin_jmc.count": "x%s",
+    "jade.plugin_jmc.saturation": "Насыщение: %s",
+    "narration.jade.jmc.nutrition": "Питательность: %s",
 	
 	"itemGroup.jmc.jmc_tab": "Just More Cakes!",
 	
@@ -98,6 +120,9 @@
 	"config.jmc.redstone_cake_particles": "Включить частицы редстоунового торта",
 	"config.jmc.ender_cake_particles": "Включить частицы эндер-торта",
 	"config.jmc.lava_cake_particles": "Включить частицы лавового торта",
+  	"config.jmc.cake_particles.redstone_cake_particles": "Включить частицы редстоунового торта",
+  	"config.jmc.cake_particles.ender_cake_particles": "Включить частицы эндер-торта",
+  	"config.jmc.cake_particles.lava_cake_particles": "Включить частицы лавового торта",
 	"config.jmc.firey_cake_fire_duration": "Включить частицы огненного торта",
 	"config.jmc.glowstone_cake_glowing_duration": "Включить частицы светящегося торта",
 	"config.jmc.chorus_cake_teleport_radius": "Дальность телепортации от торта с хорусом",
@@ -107,5 +132,7 @@
 	"config.jmc.encasing_ice_melt_speed": "Скорость таяния сковывающего льда",
 	"config.jmc.cake_bakery_generation_weight": "Вероятность появления пекаря тортов",
 	"config.jmc.glowstone_cake_effect_radius": "Радиус эффекта от светящегося торта",
-	"config.jmc.disable_cake_crafting_recipes": "Выключить рецепты выпекания тортов"
+	"config.jmc.disable_cake_crafting_recipes": "Выключить рецепты выпекания тортов",
+	"config.jmc.jade.allow_displaying_cake_effects": "Разрешить отображение эффектов торта",
+	"config.jmc.jade.hide_trapped_cakes": "Скрыть торты-ловушки (Ядовитый и Динамитный)"
 }

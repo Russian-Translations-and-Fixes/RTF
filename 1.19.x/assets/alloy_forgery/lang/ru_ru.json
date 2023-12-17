@@ -8,8 +8,10 @@
 
   "tooltip.alloy_forgery.forge_tier": "Уровень: %d",
   "tooltip.alloy_forgery.fuel_capacity": "Вместимость топлива: %d",
+  "tooltip.alloy_forgery.invalid_tier": "Для этого рецепта требуется контроллер плавильни уровня: %d",
 
   "container.alloy_forgery.forge_controller": "Плавильная печь",
+
   "container.alloy_forgery.rei.title": "Выплавка сплавов",
   "container.alloy_forgery.rei.min_tier": "Треб. уровень: %d",
   "container.alloy_forgery.rei.fuel_per_tick": "Топлива за тик: %d",
@@ -24,7 +26,10 @@
 
   "emi.category.alloy_forgery.alloy_forge": "Выплавка сплавов",
 
+  "tag.item.c.copper_ores": "Медные руды",
+  "tag.item.c.iron_ores": "Железные руды",
   "tag.item.c.gold_ores": "Золотые руды",
+  "tag.item.c.raw_copper_blocks": "Блоки рудной меди",
   "tag.item.c.raw_gold_ore_blocks": "Блоки рудного золота",
   "tag.item.c.raw_iron_ore_blocks": "Блоки рудного железа"
 }

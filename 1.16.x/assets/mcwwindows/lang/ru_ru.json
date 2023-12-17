@@ -311,6 +311,9 @@
 	"block.mcwwindows.mangrove_pane_window":"Мангровая оконная панель",
 	"block.mcwwindows.stripped_mangrove_pane_window":"Оконная панель из обтёсанного мангрового дерева",
 	"block.mcwwindows.mangrove_plank_pane_window":"Оконная панель из мангровых досок",
+
+	"block.mcwwindows.one_way_glass":"Одностороннее стекло",
+	"block.mcwwindows.one_way_glass_pane":"Односторонняя стеклянная панель",
 	
 	"block.mcwwindows.andesite_pane_window":"Андезитовая оконная панель",
 	"block.mcwwindows.diorite_pane_window":"Диоритовая оконная панель",
