@@ -106,7 +106,7 @@
     "enum.biomancy.mode.none": "Нет",
     "enum.biomancy.mode.replenish": "Наполнение",
     "enum.biomancy.voice_type.ambient": "Живой",
-    "enum.biomancy.voice_type.death": "Умирающий",
+    "enum.biomancy.voice_type.death": "Погибающий",
     "enum.biomancy.voice_type.hurt": "Раненый",
     "enum.biomancy.voice_type.none": "Нет",
 

@@ -4,16 +4,6 @@
   "general.evilcraft.info.empty": "Пусто",
   "general.evilcraft.description": "Зловещая модификация для Minecraft.",
 
-  "_comment": "Звуки",
-  "subtitles.evilcraft.effect.vengeancebeam.base": "Луч мщения",
-  "subtitles.evilcraft.effect.vengeancebeam.start": "Луч мщения выпущен",
-  "subtitles.evilcraft.effect.vengeancebeam.stop": "Луч мщения прерывается",
-  "subtitles.evilcraft.mob.vengeancespirit.ambient": "Дух мщения рычит",
-  "subtitles.evilcraft.mob.vengeancespirit.death": "Дух мщения умирает",
-  "subtitles.evilcraft.effect.box.beam": "Луч шкатулки вечного запечатывания",
-  "subtitles.evilcraft.effect.page.flipsingle": "Страница перевёрнута",
-  "subtitles.evilcraft.effect.page.flipmultiple": "Страницы перевёрнуты",
-
   "_comment": "Блоки",
   "block.evilcraft.inner_block.info": "Блок: %s",
   "block.evilcraft.blood": "Кровь",
@@ -467,13 +457,13 @@
 
   "_comment": "Звуки",
   "subtitles.evilcraft.effect.vengeancebeam.base": "Луч мщения",
-  "subtitles.evilcraft.effect.vengeancebeam.start": "Пуск луча мщения",
-  "subtitles.evilcraft.effect.vengeancebeam.stop": "Остановка луча мщения",
+  "subtitles.evilcraft.effect.vengeancebeam.start": "Луч мщения выпущен",
+  "subtitles.evilcraft.effect.vengeancebeam.stop": "Луч мщения прерывается",
   "subtitles.evilcraft.mob.vengeancespirit.ambient": "Дух мщения рычит",
-  "subtitles.evilcraft.mob.vengeancespirit.death": "Дух мщения умирает",
+  "subtitles.evilcraft.mob.vengeancespirit.death": "Дух мщения растворяется",
   "subtitles.evilcraft.effect.box.beam": "Луч шкатулки вечного запечатывания",
-  "subtitles.evilcraft.effect.page.flipsingle": "Перевёрнута страница",
-  "subtitles.evilcraft.effect.page.flipmultiple": "Перевёрнуты страницы",
+  "subtitles.evilcraft.effect.page.flipsingle": "Страница перевёрнута",
+  "subtitles.evilcraft.effect.page.flipmultiple": "Страницы перевёрнуты",
 
   "_comment": "------ Содержимое истоков тьмы ------",
   "info_book.evilcraft.section.main": "Истоки тьмы",
@@ -531,7 +521,7 @@
   "info_book.evilcraft.first_age.relics": "Реликвии",
 
   "info_book.evilcraft.first_age.relics.humanoid_flesh": "Плоть гуманоида",
-  "info_book.evilcraft.first_age.relics.humanoid_flesh.text": "Возможно, вы никогда не замечали этого раньше, но когда игроки умирают, они теряют часть своей плоти. Есть её опасно. Может быть, более безопасно было бы есть эту плоть ночью. Я бы не рекомендовал пробовать свою собственную плоть, лучше попробуйте съесть плоть одного из ваших друзей!",
+  "info_book.evilcraft.first_age.relics.humanoid_flesh.text": "Возможно, вы никогда не замечали этого раньше, но когда игроки погибают, они теряют часть своей плоти. Есть её опасно. Может быть, более безопасно было бы есть эту плоть ночью. Я бы не рекомендовал пробовать свою собственную плоть, лучше попробуйте съесть плоть одного из ваших друзей!",
 
   "info_book.evilcraft.first_age.relics.enchantments": "Чары",
   "info_book.evilcraft.first_age.relics.enchantments.breaking.text": "&l&nПроклятие хрупкости&r&NУ этого зачарования есть три уровня и похоже, что оно действует как зачарование прочности, но наоборот. Не очень полезное зачарование, не так ли? Может быть, стоит поискать способ избавиться от этого проклятого зачарования.",

@@ -54,11 +54,11 @@
   "item.minecraft.tipped_arrow.effect.displacement": "Стрела смещения",
   "item.minecraft.tipped_arrow.effect.rising": "Стрела левитации",
   "itemGroup.enderzoology.main": "Ender Zoology",
-  "subtitles.entity.dire_wolf.death": "Ужасный волк умирает",
+  "subtitles.entity.dire_wolf.death": "Ужасный волк погибает",
   "subtitles.entity.dire_wolf.growl": "Ужасный волк рычит",
   "subtitles.entity.dire_wolf.howl": "Ужасный волк воет",
   "subtitles.entity.dire_wolf.hurt": "Ужасный волк ранен",
-  "subtitles.entity.owl.death": "Сова умирает",
+  "subtitles.entity.owl.death": "Сова погибает",
   "subtitles.entity.owl.hoot": "Сова ухает",
   "subtitles.entity.owl.hurt": "Сова ранена",
   "subtitles.entity.owl_egg.throw": "Летит совиное яйцо"

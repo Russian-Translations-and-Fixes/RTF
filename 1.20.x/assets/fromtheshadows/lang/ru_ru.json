@@ -36,11 +36,11 @@
     "fromtheshadows.diablium_armor.text2": "§7Нанесение §7урона §7врагам §7восстанавливает §7здоровье §7игрока§r",
 
     "fromtheshadows.sound.subtitle.fromtheshadows.bulldrogioth_attack": "Бульдрогиот атакует",
-    "fromtheshadows.sound.subtitle.fromtheshadows.bulldrogioth_death": "Бульдрогиот умирает",
+    "fromtheshadows.sound.subtitle.fromtheshadows.bulldrogioth_death": "Бульдрогиот погибает",
     "fromtheshadows.sound.subtitle.fromtheshadows.bulldrogioth_hurt": "Бульдрогиот ранен",
     "fromtheshadows.sound.subtitle.fromtheshadows.bulldrogioth_idle": "Бульдрогиот рычит",
     "fromtheshadows.sound.subtitle.fromtheshadows.goresound": "Кто-то ранен",
-    "fromtheshadows.sound.subtitle.fromtheshadows.nehemoth_death": "Нехемот умирает",
+    "fromtheshadows.sound.subtitle.fromtheshadows.nehemoth_death": "Нехемот погибает",
     "fromtheshadows.sound.subtitle.fromtheshadows.nehemoth_hurt": "Нехемот ранен",
     "fromtheshadows.sound.subtitle.fromtheshadows.nehemoth_idle": "Нехемот рычит",
     "fromtheshadows.sound.subtitle.fromtheshadows.nehemoth_roar": "Нехемот ревёт",

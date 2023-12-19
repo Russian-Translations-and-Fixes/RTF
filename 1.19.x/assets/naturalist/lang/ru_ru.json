@@ -199,7 +199,7 @@
   "item.naturalist.lizard_spawn_egg": "Яйцо призыва ящерицы",
 
   "naturalist.subtitles.entity.bird.hurt": "Птица ранена",
-  "naturalist.subtitles.entity.bird.death": "Птица умирает",
+  "naturalist.subtitles.entity.bird.death": "Птица погибает",
   "naturalist.subtitles.entity.bird.eat": "Птица ест",
   "naturalist.subtitles.entity.bird.fly": "Птица порхает",
 
@@ -219,10 +219,10 @@
   "naturalist.subtitles.entity.elephant.ambient": "Слон трубит",
 
   "naturalist.subtitles.entity.firefly.hurt": "Светлячок ранен",
-  "naturalist.subtitles.entity.firefly.death": "Светлячок умирает",
+  "naturalist.subtitles.entity.firefly.death": "Светлячок погибает",
   "naturalist.subtitles.entity.firefly.hide": "Светлячок прячется",
   "naturalist.subtitles.entity.bear.hurt": "Бурый медведь ранен",
-  "naturalist.subtitles.entity.bear.death": "Бурый медведь умирает",
+  "naturalist.subtitles.entity.bear.death": "Бурый медведь погибает",
   "naturalist.subtitles.entity.bear.ambient": "Бурый медведь стонет",
   "naturalist.subtitles.entity.bear.ambient_baby": "Бурый медвежонок урчит",
   "naturalist.subtitles.entity.bear.hurt_baby": "Бурый медвежонок ранен",
@@ -249,7 +249,7 @@
 
   "naturalist.subtitles.entity.zebra.ambient": "Зебра ржёт",
   "naturalist.subtitles.entity.zebra.hurt": "Зебра ранена",
-  "naturalist.subtitles.entity.zebra.death": "Зебра умирает",
+  "naturalist.subtitles.entity.zebra.death": "Зебра погибает",
   "naturalist.subtitles.entity.zebra.eat": "Зебра ест",
   "naturalist.subtitles.entity.zebra.breathe": "Зебра дышит",
   "naturalist.subtitles.entity.zebra.jump": "Зебра прыгает",
@@ -257,7 +257,7 @@
 
   "naturalist.subtitles.entity.vulture.ambient": "Стервятник клокочет",
   "naturalist.subtitles.entity.vulture.hurt": "Стервятник ранен",
-  "naturalist.subtitles.entity.vulture.death": "Стервятник умирает",
+  "naturalist.subtitles.entity.vulture.death": "Стервятник погибает",
 
   "naturalist.subtitles.entity.giraffe.ambient": "Жираф фыркает",
 
@@ -265,13 +265,13 @@
   "naturalist.subtitles.entity.hippo.hurt": "Бегемот ранен",
 
   "naturalist.subtitles.entity.alligator.hurt": "Аллигатор ранен",
-  "naturalist.subtitles.entity.alligator.death": "Аллигатор умирает",
+  "naturalist.subtitles.entity.alligator.death": "Аллигатор погибает",
   "naturalist.subtitles.entity.alligator.ambient": "Аллигатор рычит",
   "naturalist.subtitles.entity.alligator.ambient_baby": "Детёныш аллигатора щебечет",
 
   "naturalist.subtitles.entity.boar.ambient": "Кабан рычит",
   "naturalist.subtitles.entity.boar.hurt": "Кабан ранен",
-  "naturalist.subtitles.entity.boar.death": "Кабан умирает",
+  "naturalist.subtitles.entity.boar.death": "Кабан погибает",
 
   "naturalist.subtitles.entity.catfish.flop": "Сом плещется",
   "naturalist.subtitles.entity.bass.flop": "Окунь плещется",
@@ -280,19 +280,19 @@
 
   "naturalist.subtitles.entity.duck.ambient": "Утка крякает",
   "naturalist.subtitles.entity.duck.hurt": "Утка ранена",
-  "naturalist.subtitles.entity.duck.death": "Утка умирает",
+  "naturalist.subtitles.entity.duck.death": "Утка погибает",
   "naturalist.subtitles.entity.duck.step": "Утка топает",
   "naturalist.subtitles.entity.duck.ambient_baby": "Утёнок крякает",
   "naturalist.subtitles.entity.duck.hurt_baby": "Утёнок ранен",
-  "naturalist.subtitles.entity.duck.death_baby": "Утёнок умирает",
+  "naturalist.subtitles.entity.duck.death_baby": "Утёнок погибает",
 
   "naturalist.subtitles.entity.hyena.ambient": "Гиена смеётся",
   "naturalist.subtitles.entity.hyena.hurt": "Гиена ранена",
-  "naturalist.subtitles.entity.hyena.death": "Гиена умирает",
+  "naturalist.subtitles.entity.hyena.death": "Гиена погибает",
 
   "naturalist.subtitles.entity.ostrich.ambient": "Страус щебечет",
   "naturalist.subtitles.entity.ostrich.hurt": "Страус ранен",
-  "naturalist.subtitles.entity.ostrich.death": "Страус умирает",
+  "naturalist.subtitles.entity.ostrich.death": "Страус погибает",
   "naturalist.subtitles.entity.ostrich.egg_break": "Яйцо страуса разбивается",
   "naturalist.subtitles.entity.ostrich.egg_crack": "Яйцо страуса трескается",
   "naturalist.subtitles.entity.ostrich.egg_hatch": "Яйцо страуса высижено",

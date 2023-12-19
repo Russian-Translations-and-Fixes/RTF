@@ -14,15 +14,15 @@
 	"entity.takesapillage.legioner": "Легионер",
 
 	"subtitle.takesapillage.entity.clay_golem.attack": "Глиняный голем атакует",
-	"subtitle.takesapillage.entity.clay_golem.damage": "Глиняный голем ломается",
-	"subtitle.takesapillage.entity.clay_golem.death": "Глиняный голем умирает",
+	"subtitle.takesapillage.entity.clay_golem.damage": "Глиняный голем повреждён",
+	"subtitle.takesapillage.entity.clay_golem.death": "Глиняный голем погибает",
 	"subtitle.takesapillage.entity.clay_golem.hurt": "Глиняный голем ранен",
 	"subtitle.takesapillage.entity.clay_golem.repair": "Глиняный голем починен",
 	"subtitle.takesapillage.entity.clay_golem.step": "Глиняный голем шагает",
 
 	"subtitle.takesapillage.entity.legioner.ambient": "Легионер бормочет",
 	"subtitle.takesapillage.entity.legioner.celebrate": "Легионер празднует",
-	"subtitle.takesapillage.entity.legioner.death": "Легионер умирает",
+	"subtitle.takesapillage.entity.legioner.death": "Легионер погибает",
 	"subtitle.takesapillage.entity.legioner.hurt": "Легионер ранен",
 
 	"advancements.takesapillage.root.title": "Да будет же разбой!",
