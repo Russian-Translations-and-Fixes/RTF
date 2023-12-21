@@ -1,0 +1,18 @@
+{
+  "whetstones.item.wooden_whetstone": "Деревянный точильный брусок",
+  "whetstones.wooden_whetstone.description": "Чинит деревянные инструменты\nи инструменты из менее прочных материалов",
+  "whetstones.item.stone_whetstone": "Каменный точильный брусок",
+  "whetstones.stone_whetstone.description": "Чинит каменные инструменты\nи инструменты из менее прочных материалов",
+  "whetstones.item.iron_whetstone": "Железный точильный брусок",
+  "whetstones.iron_whetstone.description": "Чинит железные инструменты\nи инструменты из менее прочных материалов",
+  "whetstones.item.golden_whetstone": "Золотой точильный брусок",
+  "whetstones.golden_whetstone.description": "Чинит золотые инструменты\nи инструменты из менее прочных материалов",
+  "whetstones.item.diamond_whetstone": "Алмазный точильный брусок",
+  "whetstones.diamond_whetstone.description": "Чинит алмазные инструменты\nи инструменты из менее прочных материалов",
+  "whetstones.item.netherite_whetstone": "Незеритовый точильный брусок",
+  "whetstones.netherite_whetstone.description": "Чинит любые инструменты",
+  "whetstones.item.description.durability": "Прочность: %s",
+  "whetstones.item.description.durability.used": "Оставшаяся прочность: %s",
+  "whetstones.item_group": "Whetstones",
+  "whetstones": "Whetstones"
+}
