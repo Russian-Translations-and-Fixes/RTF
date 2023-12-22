@@ -1,0 +1,18 @@
+{
+  "itemGroup.newshieldvariants_tab": "New Shield Variants!",
+  "item.newshieldvariants.stone_shield": "Каменный щит",
+  "item.newshieldvariants.iron_shield": "Железный щит",
+  "item.newshieldvariants.gold_shield": "Золотой щит",
+  "item.newshieldvariants.diamond_shield": "Алмазный щит",
+  "item.newshieldvariants.netherite_shield": "Незеритовый щит",
+
+  "item.newshieldvariants.ender_shield": "Эндер-щит",
+  "item.newshieldvariants.blaze_shield": "Поджигающий щит",
+  "item.newshieldvariants.fire_charge_shield": "Огнезарядный щит",
+
+  "item.newshieldvariants.shulker_shield": "Шалкеровый щит",
+  "item.newshieldvariants.dragon_head_shield": "Щит с головой Эндер-дракона",
+  "item.newshieldvariants.tnt_shield": "Динамитный щит",
+
+  "item.newshieldvariants.redstone_shield": "Редстоуновый щит"
+}
