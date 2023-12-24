@@ -1,1 +1,6 @@
-{"block.end_respawn_anchor.end_respawn_anchor":"Якорь возрождения в Энде"}
+{
+  "block.end_respawn_anchor.end_respawn_anchor": "Якорь возрождения в Энде",
+  "text.autoconfig.end_respawn_anchor.title" : "End Respawn Anchor - Настройки",
+  "text.autoconfig.end_respawn_anchor.option.isExplode" : "Взрывается при использовании в других измерениях",
+  "text.autoconfig.end_respawn_anchor.option.shouldOverrideSpawnData": "Перезаписывать данные о возрождении"
+}

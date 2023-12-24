@@ -6,9 +6,19 @@
     "key.bridgingmod.toggle_bridging": "Переключить помощь в мостостроении",
 
     "text.autoconfig.bridgingmod.title": "Bridging Mod - Настройки",
+    "text.autoconfig.bridgingmod.category.feature": "Особенности",
+    "text.autoconfig.bridgingmod.category.vfx": "Визуальные эффекты",
+    "text.autoconfig.bridgingmod.category.debug": "Отладка",
+
     "text.autoconfig.bridgingmod.option.enableBridgingAssist": "Включить помощь в мостостроении",
+    "text.autoconfig.bridgingmod.option.onlyBridgeWhenCrouched": "Использовать помощь в мостостроении только крадучись",
     "text.autoconfig.bridgingmod.option.enableSlabAssist": "Выравнивать плиты в режиме помощи в мостостроении",
+    "text.autoconfig.bridgingmod.option.enableNonSolidReplace": "Заменять нетвёрдые блоки",
+
     "text.autoconfig.bridgingmod.option.showCrosshair": "Показывать перекрестие помощи в мостостроении",
-    "text.autoconfig.bridgingmod.option.showDebugHighlight": "Выделять целевой блок для помощи в мостостроении в F3",
-    "text.autoconfig.bridgingmod.option.showDebugTrace": "Выделять внутренние элементы помощи в мостостроении в F3"
+    "text.autoconfig.bridgingmod.option.showOutline": "Показать контур устанавливаемого блока",
+    "text.autoconfig.bridgingmod.option.outlineColour": "Цвет контура устанавливаемого блока",
+
+    "text.autoconfig.bridgingmod.option.showDebugHighlight": "Показывать контур устанавливаемого блока в F3",
+    "text.autoconfig.bridgingmod.option.showDebugTrace": "Показывать контуры соседних блоков в F3"
 }

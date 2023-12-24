@@ -1334,5 +1334,25 @@
     "itemgroup.clutter_items": "Clutter: Предметы",
 
     "trim_materials.clutter.onyx": "Оникс",
-    "trim_materials.clutter.silver": "Серебряный слиток"
+    "trim_materials.clutter.silver": "Серебряный слиток",
+
+    "effect.clutter.shimmer": "Мерцание",
+    "item.minecraft.potion.effect.shimmer_potion": "Зелье мерцания",
+    "item.minecraft.splash_potion.effect.shimmer_potion": "Взрывное зелье мерцания",
+    "item.minecraft.lingering_potion.effect.shimmer_potion": "Туманное зелье мерцания",
+    "item.minecraft.tipped_arrow.effect.shimmer_potion": "Стрела мерцания",
+
+    "item.minecraft.potion.effect.long_shimmer_potion": "Зелье мерцания",
+    "item.minecraft.splash_potion.effect.long_shimmer_potion": "Взрывное зелье мерцания",
+    "item.minecraft.lingering_potion.effect.long_shimmer_potion": "Туманное зелье мерцания",
+    "item.minecraft.tipped_arrow.effect.long_shimmer_potion": "Стрела мерцания",
+
+    "item.clutter.seashell": "Ракушка",
+    "item.clutter.sea_conch": "Морская раковина",
+    "item.clutter.pearl": "Жемчужина",
+    "item.clutter.clam": "Моллюск",
+    "block.clutter.nautilus_shell_block": "Блок раковин наутилуса",
+    "block.clutter.pearl_clam_block": "Блок жемчужного моллюска",
+    "block.clutter.red_present": "Красный подарок",
+    "container.clutter.present": "Подарок"
 }

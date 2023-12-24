@@ -9,5 +9,6 @@
     "text.autoconfig.talkbubbles.option.backgroundRed": "Количество КРАСНОГО цвета в фоне",
     "text.autoconfig.talkbubbles.option.backgroundGreen": "Количество ЗЕЛЁНОГО цвета в фоне",
     "text.autoconfig.talkbubbles.option.backgroundBlue": "Количество СИНЕГО цвета в фоне",
-    "text.autoconfig.talkbubbles.option.showOwnBubble": "Отображать ваши собственные пузыри с текстом"
+    "text.autoconfig.talkbubbles.option.showOwnBubble": "Отображать ваши собственные пузыри с текстом",
+    "text.autoconfig.talkbubbles.option.maxUUIDWordCheck": "Максимальная проверка слова UUID"
 }
