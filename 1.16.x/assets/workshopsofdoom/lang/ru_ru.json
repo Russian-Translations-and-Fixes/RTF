@@ -1,0 +1,13 @@
+{
+	"item.workshopsofdoom.excavator_spawn_egg": "Яйцо призыва землекопа",
+	"entity.workshopsofdoom.excavator": "Землекоп",
+	"filled_map.workshopsofdoom:badlands_mines": "Карта шахт в бесплодных землях",
+	"filled_map.workshopsofdoom:desert_quarry": "Карта карьера в пустыне",
+	"filled_map.workshopsofdoom:mountain_mines": "Карта шахт в горе",
+	"filled_map.workshopsofdoom:plains_quarry": "Карта карьера в равнинах",
+	"filled_map.workshopsofdoom:workshop": "Карта мастерской",
+	"workshopsofdoom.advancements.find_workshop.title": "Там где вершится погибель",
+	"workshopsofdoom.advancements.find_workshop.description": "Найдите мастерскую погибели",
+	"workshopsofdoom.advancements.find_quarry_or_mines.title": "Промышленный шпионаж",
+	"workshopsofdoom.advancements.find_quarry_or_mines.description": "Найдите карьер или шахты"
+}

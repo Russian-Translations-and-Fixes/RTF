@@ -1,0 +1,22 @@
+{
+  "block.giftsofgiving.black_present": "Чёрный подарок",
+  "block.giftsofgiving.blue_present": "Синий подарок",
+  "block.giftsofgiving.brown_present": "Коричневый подарок",
+  "block.giftsofgiving.cyan_present": "Бирюзовый подарок",
+  "block.giftsofgiving.gray_present": "Серый подарок",
+  "block.giftsofgiving.green_present": "Зелёный подарок",
+  "block.giftsofgiving.light_blue_present": "Голубой подарок",
+  "block.giftsofgiving.light_gray_present": "Светло-серый подарок",
+  "block.giftsofgiving.lime_present": "Лаймовый подарок",
+  "block.giftsofgiving.magenta_present": "Пурпурный подарок",
+  "block.giftsofgiving.orange_present": "Оранжевый подарок",
+  "block.giftsofgiving.pink_present": "Розовый подарок",
+  "block.giftsofgiving.purple_present": "Фиолетовый подарок",
+  "block.giftsofgiving.red_present": "Красный подарок",
+  "block.giftsofgiving.white_present": "Белый подарок",
+  "block.giftsofgiving.yellow_present": "Жёлтый подарок",
+  "giftsofgiving.container.present": "Себя",
+  "giftsofgiving.container.present2": "Подарок для %s",
+  "giftsofgiving.container.present3": "Для: %s  От: %s",
+  "itemGroup.giftsofgiving.tab": "Gifts of Giving"
+}
