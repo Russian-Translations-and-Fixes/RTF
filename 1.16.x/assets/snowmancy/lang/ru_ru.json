@@ -1,0 +1,29 @@
+{
+    "block.snowmancy.snowman_builder": "Скульптор снеговиков",
+    "block.snowmancy.evercold_ice": "Вечнохладный лёд",
+    "item.snowmancy.frozen_snowman": "Спутник снеговик",
+    "entity.snowmancy.snowman": "Спутник снеговик",
+    "itemGroup.snowmancy:item_group": "Snowmancy",
+    "itemGroup.snowmancy": "Snowmancy",
+    
+    "snowmancy.screen.biomeTooWarm": "Слишком тёплый биом!",
+
+	"snowmancy.tooltip.goldenCarrot": "Золотая морковь: %s",
+	"snowmancy.tooltip.attackType": "Тип атаки: %s",
+	"snowmancy.tooltip.damage": "Урон: %s",
+	"snowmancy.tooltip.evercold": "Вечнохладный лёд: %s",
+	"snowmancy.tooltip.true": "Да",
+	"snowmancy.tooltip.false": "Нет",
+	
+	"snowmancy.attackType.none": "Нет",
+	"snowmancy.attackType.arrow": "Стрела",
+	"snowmancy.attackType.egg": "Яйцо",
+	"snowmancy.attackType.hit": "Ближняя",
+	"snowmancy.attackType.snowball": "Снежок",
+
+    "snowmancy.advancement.root.description": "Создайте скульптор снеговиков",
+    "snowmancy.advancement.snowman_companion.title": "Холодное сердце",
+    "snowmancy.advancement.snowman_companion.description": "Создайте своего первого спутника снеговика!",
+    "snowmancy.advancement.evercold_snowman.title": "Вечнохладный",
+    "snowmancy.advancement.evercold_snowman.description": "Защитите своего спутника снеговика от таяния, надев ему в качестве шапки вечнохладный лёд"
+}
