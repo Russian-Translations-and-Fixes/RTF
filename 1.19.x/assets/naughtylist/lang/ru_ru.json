@@ -1,0 +1,26 @@
+{
+  "itemGroup.naughtylist": "Naughty List",
+
+  "event.naughtylist.raid": "Рейд непослушных",
+  "event.naughtylist.raid.victory": "Победа!",
+  "event.naughtylist.raid.defeat": "Поражение",
+
+  "item.naughtylist.candy_cane": "Карамельная трость",
+  "item.naughtylist.wooden_horse_spawn_egg": "Яйцо призыва лошадки-качалки",
+  "item.naughtylist.nutcracker_spawn_egg": "Яйцо призыва щелкунчика",
+  "item.naughtylist.nutcracker_general_spawn_egg": "Яйцо призыва щелкунчика генерала",
+
+  "block.naughtylist.snow_globe": "Снежный шар",
+
+  "naughtylist.tooltip.snow_globe": "Попробуй разбить в деревне...",
+
+  "entity.naughtylist.wooden_horse": "Лошадка-качалка",
+  "entity.naughtylist.nutcracker": "Щелкунчик",
+  "entity.naughtylist.candy_cane": "Карамельная трость",
+  "entity.naughtylist.nutcracker_general": "Щелкунчик генерал",
+
+  "naughtylist.nutcracker.ambient": "Щелкунчик хихикает",
+  "naughtylist.nutcracker.hurt": "Щелкунчик ранен",
+  "naughtylist.nutcracker.death": "Щелкунчик погибает",
+  "naughtylist.nutcracker.clacking": "Клацанье деревянных зубов"
+}

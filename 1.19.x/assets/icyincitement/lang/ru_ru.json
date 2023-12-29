@@ -1,0 +1,9 @@
+{
+  "item.icyincitement.empty_sprinkler": "Снежкомёт",
+  "item.icyincitement.snowball_sprinkler": "Снежкомёт",
+
+  "item.icyincitement.empty_sprinkler.description_1": "Запускает высокоскоростной снег!",
+  "item.icyincitement.empty_sprinkler.description_2": "Можно усилить с помощью источника снега.",
+  "item.icyincitement.snowball_sprinkler.description_1": "Стреляет бесконечными снежками!",
+  "item.icyincitement.snowball_sprinkler.description_2": "Отталкивает вас с силой!"
+}

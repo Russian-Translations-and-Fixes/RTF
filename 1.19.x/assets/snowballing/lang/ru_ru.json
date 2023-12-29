@@ -1,0 +1,21 @@
+{
+  "block.snowballing.snowball_pile": "Куча снежков",
+  "block.snowballing.snow_bricks": "Снежные кирпичи",
+  "block.snowballing.snowball_bricks": "Кирпичи из снежков",
+
+  "item.snowballing.snowball_pile.size": "%s снежков",
+  "itemGroup.snowballing.items": "Snowballing",
+  "item.snowballing.snow_sling": "Снежкомёт",
+  "effect.snowballing.snowballed": "Попали снежком",
+
+  "advancement.snowballing.root.title": "Бегом играть в снежки!",
+  "advancement.snowballing.root.description": "Снежки кажутся особенно волшебными. Доставайте лопаты и приготовьтесь к игре в снежки",
+  "advancement.snowballing.freeze.title": "Холодно!",
+  "advancement.snowballing.freeze.description": "Получите урон от замерзания играя в снежки",
+  "advancement.snowballing.snowball_fight.title": "Игра в снежки",
+  "advancement.snowballing.snowball_fight.description": "Поучаствуйте в игре в снежки с крестьянами. Возможно, вы даже выиграете награду!",
+  "advancement.snowballing.snow_sling.title": "Снежкомёт",
+  "advancement.snowballing.snow_sling.description": "Используйте снежкомёт, чтобы запустить снежок с большой скоростью, который отбросит ваших врагов назад!",
+  "advancement.snowballing.accidental_doom.title": "Но сейчас не снегопад!",
+  "advancement.snowballing.accidental_doom.description": "Победите врага, столкнув его с высоты, используя снежкомёт"
+}
