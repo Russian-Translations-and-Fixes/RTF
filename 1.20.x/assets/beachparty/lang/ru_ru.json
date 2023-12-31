@@ -152,5 +152,10 @@
 
   "entity.minecraft.villager.beachparty.beach_guy": "Посетитель пляжа",
 
-  "block.beach.party.palm_hanging_sign": "Пальмовая подвесная табличка"
+  "block.beach.party.palm_hanging_sign": "Пальмовая подвесная табличка",
+
+  "item.beachparty.refreshing_drink": "Освежающий напиток",
+  "item.beachparty.floaty": "Надувная лодка",
+  "item.beachparty.floaty_chest_boat": "Надувная грузовая лодка",
+  "block.beachparty.beach_parasol": "Пляжный зонтик"
 }

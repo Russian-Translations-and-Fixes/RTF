@@ -1354,5 +1354,7 @@
     "block.clutter.nautilus_shell_block": "Блок раковин наутилуса",
     "block.clutter.pearl_clam_block": "Блок жемчужного моллюска",
     "block.clutter.red_present": "Красный подарок",
-    "container.clutter.present": "Подарок"
+    "container.clutter.present": "Подарок",
+    "entity.clutter.crimson_newt": "Багровый тритон",
+    "item.clutter.crimson_newt_spawn_egg": "Яйцо призыва багрового тритона"
 }
