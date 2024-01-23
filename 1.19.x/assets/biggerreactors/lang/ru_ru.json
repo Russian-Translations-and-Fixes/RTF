@@ -84,7 +84,7 @@
   "screen.biggerreactors.reactor_terminal.reactivity_rate.tooltip": "Коэффициент реактивности\n§7Количество ядерных делений в ядре топлива,\n§7напрямую влияет на выработку энергии.",
   "screen.biggerreactors.reactor_terminal.fuel_mix.tooltip": "Состав топливной смеси\n§7Соотношение топлива и отходов внутри реактора.",
   "screen.biggerreactors.reactor_terminal.case_heat.tooltip": "Температура корпуса\n§7Текущая температура корпуса реактора.",
-  "screen.biggerreactors.reactor_terminal.fuel_heat.tooltip": "Температура топлива\n§7Текущая топлива в реакторе.",
+  "screen.biggerreactors.reactor_terminal.fuel_heat.tooltip": "Температура топлива\n§7Текущая температура топлива в реакторе.",
   "screen.biggerreactors.reactor_terminal.fuel_mix_gauge.tooltip": "Смесь: %%s/%%s\nТопливо: §a%%s\nОтходы: §b%%s",
   "screen.biggerreactors.reactor_terminal.internal_battery.tooltip": "Внутренняя батарея\n§7Количество хранимой\n§7внутри реактора RF энергии.",
   "screen.biggerreactors.reactor_terminal.coolant_intake_tank.tooltip": "Бак охлаждающей жидкости\n§7Количество хранимой внутри\n§7реактора охладительной жидкости.",

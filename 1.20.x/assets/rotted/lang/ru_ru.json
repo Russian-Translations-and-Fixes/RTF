@@ -1,0 +1,30 @@
+{
+  "item.rotted.rotten_brain": "Гнилой мозг",
+  "item.rotted.flusk_viscera": "Мутированные внутренности",
+  "item.rotted.visceric_knife": "Нож из внутренностей",
+  "item.rotted.marine_spawn_egg": "Яйцо призыва зомби-подводника",
+  "item.rotted.doctor_spawn_egg": "Яйцо призыва зомби-доктора",
+  "item.rotted.farmer_spawn_egg": "Яйцо призыва зомби-фермера",
+  "item.rotted.miner_spawn_egg": "Яйцо призыва зомби-шахтёра",
+  "item.rotted.adventurer_spawn_egg": "Яйцо призыва зомби-авантюриста",
+  "item.rotted.flusk_spawn_egg": "Яйцо призыва зомби-мутанта",
+  "item.rotted.shielder_spawn_egg": "Яйцо призыва зомби-щитоносца",
+
+  "entity.rotted.marine": "Зомби-подводник",
+  "entity.rotted.doctor": "Зомби-доктор",
+  "entity.rotted.farmer": "Зомби-фермер",
+  "entity.rotted.miner": "Зомби-шахтёр",
+  "entity.rotted.adventurer": "Зомби-авантюрист",
+  "entity.rotted.flusk": "Зомби-мутант",
+  "entity.rotted.shielder": "Зомби-щитоносец",
+
+  "effect.rotted.contagion": "Заражение",
+
+  "subtitles.rotted.entity.rotted_zombie.ambient": "Зомби стонет",
+  "subtitles.rotted.entity.rotted_zombie.death": "Зомби погибает",
+  "subtitles.rotted.entity.rotted_zombie.hurt": "Зомби ранен",
+  "subtitles.rotted.entity.rotted_zombie.birth": "Зомби появился",
+  "subtitles.rotted.entity.rotted_zombie.breaks_block": "Зомби сломал блок",
+
+  "itemGroup.rotted.item": "Rotted"
+}

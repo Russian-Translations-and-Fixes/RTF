@@ -1,0 +1,37 @@
+{
+	"entity.sanitydim.rotting_stalker": "Гниющий сталкер",
+	"entity.sanitydim.sneaking_terror": "Крадущийся ужас",
+	
+	"commands.sanity.set.success.single": "Значение рассудка игрока %s изменено на %s",
+	"commands.sanity.set.success.multiple": "Значение рассудка изменено на %s для %s игроков",
+	"commands.sanity.add.success.single": "Значение рассудка увеличено на %s для игрока %s",
+	"commands.sanity.add.success.multiple": "Значение рассудка увеличено на %s для %s игроков",
+	"commands.sanity.config.reload": "Настройки измерений успешно перезагружены",
+	
+	"gui.sanitydim.hint00": "Что это за звуки?",
+	"gui.sanitydim.hint01": "Мне немного не по себе",
+	"gui.sanitydim.hint02": "Что это было?",
+	"gui.sanitydim.hint03": "Какое странное чувство...",
+	"gui.sanitydim.hint04": "Мне это не нравится...",
+	"gui.sanitydim.hint05": "Хм?",
+	"gui.sanitydim.hint06": "Э-э?",
+	"gui.sanitydim.hint07": "Что?",
+	"gui.sanitydim.hint08": "Что там?",
+	"gui.sanitydim.hint09": "Это был я?",
+	"gui.sanitydim.hint010": "Странно...",
+	"gui.sanitydim.hint011": "Я только что видел что-то?",
+	"gui.sanitydim.hint10": "КТО-ТО ПОЗАДИ МЕНЯ!",
+	"gui.sanitydim.hint11": "Один, два, три, четыре...",
+	"gui.sanitydim.hint12": "...пять, шесть, семь, восемь...",
+	"gui.sanitydim.hint13": "ОНИ В МОЕЙ ГОЛОВЕ!",
+	"gui.sanitydim.hint14": "ОСТАВЬТЕ МЕНЯ В ПОКОЕ!",
+	"gui.sanitydim.hint15": "НЕ СХОДИ С УМА!",
+	"gui.sanitydim.hint16": "ПОЧЕМУ ОНИ НЕ УХОДЯТ?!",
+	"gui.sanitydim.hint17": "СЛИШКОМ ГРОМКО, СЛИШКОМ ГРОМКО, СЛИШКОМ ГРОМКО!",
+	"gui.sanitydim.hint18": "ГОЛОСА... Я НЕ МОГУ...",
+
+	"item.sanitydim.tooltip.press_shift": "§7Удерживайте [§9Shift§7] для сводки",
+	"item.sanitydim.garland": "Цветочный венок",
+	"item.sanitydim.garland.tooltip": "§7Помогает успокоить нервы.\n\nМедленно восстанавливает ваш рассудок и делает вас немного более устойчивым к стрессу.",
+	"item.sanitydim.croissant": "Круассан"
+}

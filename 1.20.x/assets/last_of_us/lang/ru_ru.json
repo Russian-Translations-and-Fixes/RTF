@@ -1,0 +1,38 @@
+{
+    "block.last_of_us.noxioussack": "Мешочек с микотоксинами",
+    "block.last_of_us.noxioustree": "Кордицепс",
+    "block.last_of_us.puddle": "Лужа",
+
+    "effect.last_of_us.antigas": "Защита от грибка",
+    "effect.last_of_us.noxiousgas": "Вдыхание ядовитого газа",
+
+    "entity.last_of_us.bloater": "Топляк",
+    "entity.last_of_us.clicker": "Щелкун",
+    "entity.last_of_us.crawler": "Ползун",
+    "entity.last_of_us.rat_king": "Крысиный король",
+    "entity.last_of_us.runner": "Бегун",
+    "entity.last_of_us.shambler": "Шаркун",
+    "entity.last_of_us.stalker": "Сталкер",
+
+    "item.last_of_us.bloater_spawn_egg": "Яйцо призыва топляка",
+    "item.last_of_us.clicker_spawn_egg": "Яйцо призыва щелкуна",
+    "item.last_of_us.crawler_spawn_egg": "Яйцо призыва ползуна",
+    "item.last_of_us.filter": "Фильтр",
+    "item.last_of_us.gasmask_boots": "Сапоги с противогазом",
+    "item.last_of_us.gasmask_chestplate": "Нагрудник с противогазом",
+    "item.last_of_us.gasmask_helmet": "Противогаз",
+    "item.last_of_us.gasmask_leggings": "Поножи с противогазом",
+    "item.last_of_us.kevlar": "Кевлар",
+    "item.last_of_us.rags": "Тряпки",
+    "item.last_of_us.rat_king_spawn_egg": "Яйцо призыва крысиного короля",
+    "item.last_of_us.rock": "Мешочек с микотоксинами",
+    "item.last_of_us.runner_spawn_egg": "Яйцо призыва бегуна",
+    "item.last_of_us.shambler_spawn_egg": "Яйцо призыва шаркуна",
+    "item.last_of_us.stalker_spawn_egg": "Яйцо призыва сталкера",
+    "item.last_of_us.temperdglass": "Закалённое стекло",
+
+    "subtitles.clickerambient": "Щелкун щёлкает",
+    "subtitles.clickersound": "Щелкун щёлкает",
+    "subtitles.horde": "Орда приближается",
+    "subtitles.ratking": "Крысиный король визжит"
+}
