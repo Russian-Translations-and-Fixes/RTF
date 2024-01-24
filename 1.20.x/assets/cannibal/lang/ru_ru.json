@@ -1,0 +1,17 @@
+{
+  "block.cannibal.bone_trap": "Костяная ловушка",
+  "block.cannibal.skull_lamp": "Лампа из черепа",
+  "cannibal.damage_source.bone_trap": "%1$s угодил в костяную ловушку",
+  "creativemodetab.clockwork": "Cannibal Conundrum",
+  "death.attack.cannibal.damage_source.bone_trap": "%1$s угодил в костяную ловушку",
+  "effect.cannibal.cannibalism": "Каннибализм",
+  "entity.cannibal.cannibal": "Каннибал",
+  "entity.cannibal.cannibal_butcher": "Каннибал-мясник",
+  "item.cannibal.bone_mask": "Костяная маска",
+  "item.cannibal.bone_sword": "Костяной меч",
+  "item.cannibal.cannibal_butcher_spawn_egg": "Яйцо призыва каннибала-мясника",
+  "item.cannibal.cannibal_spawn_egg": "Яйцо призыва каннибала",
+  "item.cannibal.fresh_chili": "Свежий чили",
+  "item.cannibal.fresh_flesh": "Свежая плоть",
+  "item.cannibal.stone_saw": "Каменная пила"
+}

@@ -1,0 +1,19 @@
+{
+  "block.createendertransmission.chunk_loader": "Загрузчик чанков",
+  "block.createendertransmission.energy_transmitter": "Передатчик энергии",
+  "block.createendertransmission.fluid_transmitter": "Передатчик жидкостей",
+  "block.createendertransmission.item_transmitter": "Передатчик предметов",
+  "create.gui.transmitter.channel_title": "Сеть",
+  "createendertransmission.chunk_loader.loaded": "Загрузчик чанков загрузил %1$s чанков поблизости.",
+  "itemGroup.ender_transmission": "Create: Ender Transmission",
+  "transmitter.network.1": "1",
+  "transmitter.network.10": "10",
+  "transmitter.network.2": "2",
+  "transmitter.network.3": "3",
+  "transmitter.network.4": "4",
+  "transmitter.network.5": "5",
+  "transmitter.network.6": "6",
+  "transmitter.network.7": "7",
+  "transmitter.network.8": "8",
+  "transmitter.network.9": "9"
+}
