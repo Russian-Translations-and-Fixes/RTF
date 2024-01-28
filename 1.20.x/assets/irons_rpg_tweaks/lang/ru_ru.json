@@ -1,0 +1,16 @@
+{
+  "item.irons_rpg_tweaks.identification_scroll": "Свиток распознавания",
+  "item.irons_rpg_tweaks.identification_scroll.description": "Используйте на предмете, чтобы распознать чары.",
+
+  "ui.irons_rpg_tweaks.enchanting_table_error.disabled": "Чародейский стол выключен.",
+  "ui.irons_rpg_tweaks.enchanting_table_error.unenchanted": "Этот предмет не зачарован.",
+  "ui.irons_rpg_tweaks.enchanting_table_error.identified": "Чары этого предметы уже распознаны.",
+  "ui.irons_rpg_tweaks.enchanting_table_success": "%s распознан.",
+  "ui.irons_rpg_tweaks.xp_retrieve_error": "Этот катализатор опыта не принадлежит вам.",
+  "ui.irons_rpg_tweaks.shift_tooltip": "[Shift+]",
+  "ui.irons_rpg_tweaks.item_broken": "%s сломан!",
+  "ui.irons_rpg_tweaks.item_damaged": "%s получил %d урона.",
+  "ui.irons_rpg_tweaks.item_damaged_critical": "%s получил %d урона и почти сломан!",
+
+  "entity.irons_rpg_tweaks.xp_catalyst": "Катализатор опыта"
+}
