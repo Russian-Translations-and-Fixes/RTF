@@ -1,0 +1,33 @@
+{
+    "block.netheroverhaul.lumineferousplantblocksansplante": "Светоносник",
+    "block.netheroverhaul.luminiferous_plant": "Светоносник",
+    "block.netheroverhaul.warpedvinescustom": "Искажённая лиана",
+
+    "effect.netheroverhaul.paralyzie": "Паралич",
+
+    "entity.netheroverhaul.basalt_snail": "Базальтовая улитка",
+    "entity.netheroverhaul.bruger": "Брюгер",
+    "entity.netheroverhaul.brugerburger": "Брюгер",
+    "entity.netheroverhaul.crimson_shroomling": "Багровый грибочек",
+    "entity.netheroverhaul.nether_bee": "Незерская пчела",
+    "entity.netheroverhaul.soul_tracker": "Охотник за душами",
+    "entity.netheroverhaul.warped_shroomling": "Искажённый грибочек",
+
+    "item.netheroverhaul.basalt_snail_spawn_egg": "Яйцо призыва базальтовой улитки",
+    "item.netheroverhaul.bruger_fur": "Мех брюгера",
+    "item.netheroverhaul.bruger_spawn_egg": "Яйцо призыва брюгера",
+    "item.netheroverhaul.brugers_fur_tunic_chestplate": "Туника из шерсти брюгера",
+    "item.netheroverhaul.crimson_shroomling_spawn_egg": "Яйцо призыва багрового грибочка",
+    "item.netheroverhaul.fungus_stew": "Грибное рагу",
+    "item.netheroverhaul.luminese": "Светофрукт",
+    "item.netheroverhaul.pieceofshell": "Панцирь базальтовой улитки",
+    "item.netheroverhaul.nether_bee_spawn_egg": "Яйцо призыва незерской пчелы",
+    "item.netheroverhaul.shroom_hat_helmet": "Шляпка грибочка",
+    "item.netheroverhaul.shroomling_bucket": "Искажённый грибочек в ведре",
+    "item.netheroverhaul.shroomlingbucket_2": "Багровый грибочек в ведре",
+    "item.netheroverhaul.soul_tracker_spawn_egg": "Яйцо призыва охотника за душами",
+    "item.netheroverhaul.snail_slime": "Слизь улитки",
+    "item.netheroverhaul.warped_shroomling_spawn_egg": "Яйцо призыва искажённого грибочка",
+
+    "itemGroup.tabnether_overhaul": "Nether's Overhaul"
+}
