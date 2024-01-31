@@ -1,0 +1,32 @@
+{
+    "block.toolsmithing_table.name" : "Стол инструментальщика",
+
+    "advancements.adventure.shiny_tools.title": "Сверкающие инструменты",
+    "advancements.adventure.shiny_tools.description": "Нанесите отделку на инструмент или оружие на столе инструментальщика",
+
+    "item.tooltrims.smithing_template.tool_trim.applies_to": "Оружие и инструменты",
+
+    "tool_trim_pattern.tooltrims.linear": "Отделка инструмента «Линейная»",
+    "tool_trim_pattern.tooltrims.tracks": "Отделка инструмента «Направление»",
+    "tool_trim_pattern.tooltrims.charge": "Отделка инструмента «Напыление»",
+    "tool_trim_pattern.tooltrims.frost": "Отделка инструмента «Иней»",
+
+    "command.trigger.update_tool.failed" : "Не удалось обновить, старый инструмент с отделкой не найден в основной руке",
+
+    "item.tooltrims.smithing_template": "Кузнечный шаблон",
+    "item.tooltrims.smithing_template.applies_to": "Применяется к:",
+    "item.tooltrims.smithing_template.tool_trim.ingredients": "Слитки и кристаллы",
+    "item.tooltrims.smithing_template.ingredients": "Материалы:",
+    "item.tooltrims.smithing_template.upgrade": "Улучшение:",
+
+    "trim_material.tooltrims.amethyst": "Аметистовый материал",
+    "trim_material.tooltrims.copper": "Медный материал",
+    "trim_material.tooltrims.diamond": "Алмазный материал",
+    "trim_material.tooltrims.emerald": "Изумрудный материал",
+    "trim_material.tooltrims.gold": "Золотой материал",
+    "trim_material.tooltrims.iron": "Железный материал",
+    "trim_material.tooltrims.lapis": "Лазуритовый материал",
+    "trim_material.tooltrims.netherite": "Незеритовый материал",
+    "trim_material.tooltrims.quartz": "Кварцевый материал",
+    "trim_material.tooltrims.redstone": "Редстоуновый материал"
+}

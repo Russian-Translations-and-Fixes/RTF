@@ -1,0 +1,20 @@
+{
+    "block.fefes_storage.acasia_crate": "Акациевый ящик",
+    "block.fefes_storage.acacia_crate": "Акациевый ящик",
+    "block.fefes_storage.bamboo_crate": "Бамбуковый ящик",
+    "block.fefes_storage.birch_crate": "Берёзовый ящик",
+    "block.fefes_storage.cherry_crate": "Вишнёвый ящик",
+    "block.fefes_storage.crimson_crate": "Багровый ящик",
+    "block.fefes_storage.dark_oak_crate": "Ящик из тёмного дуба",
+    "block.fefes_storage.jungle_crate": "Ящик из тропического дерева",
+    "block.fefes_storage.mangrove_crate": "Мангровый ящик",
+    "block.fefes_storage.oak_crate": "Дубовый ящик",
+    "block.fefes_storage.spruce_crate": "Еловый ящик",
+    "block.fefes_storage.stripped_bamboo_crate": "Ящик из обтёсанного бамбука",
+    "block.fefes_storage.warped_crate": "Искажённый ящик",
+    "gui.fefes_storage.crate_gui.label_crate": "Ящик",
+    "gui.fefes_storage.crate_gui.label_inventory": "Инвентарь",
+    "item.fefes_storage.crate_tab_icon": "Иконка вкладки творческого режима",
+    "item_group.fefes_storage.crates_tab": "FeFe's Storage",
+    "itemGroup.fefes_storage.crates_tab": "FeFe's Storage"
+}
