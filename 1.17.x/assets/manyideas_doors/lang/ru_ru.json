@@ -6,7 +6,7 @@
     "block.manyideas_doors.big_door_crimson": "Большая багровая дверь",
     "block.manyideas_doors.big_door_dark_oak": "Большая дверь из тёмного дуба",
     "block.manyideas_doors.big_door_darsser": "Большая расписная дверь",
-    "block.manyideas_doors.big_door_dwarf": "Большая гномская дверь",
+    "block.manyideas_doors.big_door_dwarf": "Большая дворфийская дверь",
     "block.manyideas_doors.big_door_factory": "Большая фабричная дверь",
     "block.manyideas_doors.big_door_fairy_tale": "Большая сказочная дверь",
     "block.manyideas_doors.big_door_french": "Большая французская дверь",
@@ -24,7 +24,7 @@
     "block.manyideas_doors.big_door_warped": "Большая искажённая дверь",
 
     "block.manyideas_doors.door_acacia_blank": "Акациевая гладкая дверь",
-    "block.manyideas_doors.door_acacia_bookshelf": "Акациевая дверь-книжная полка",
+    "block.manyideas_doors.door_acacia_bookshelf": "Акациевая скрытая дверь",
     "block.manyideas_doors.door_acacia_cassette": "Акациевая панельная дверь",
     "block.manyideas_doors.door_acacia_french": "Акациевая французская дверь",
     "block.manyideas_doors.door_acacia_frosted": "Акациевая матовая дверь",
@@ -35,7 +35,7 @@
     "block.manyideas_doors.door_acacia_shoji": "Акациевая дверь-сёдзи",
 
     "block.manyideas_doors.door_birch_blank": "Берёзовая гладкая дверь",
-    "block.manyideas_doors.door_birch_bookshelf": "Берёзовая дверь-книжная полка",
+    "block.manyideas_doors.door_birch_bookshelf": "Берёзовая скрытая дверь",
     "block.manyideas_doors.door_birch_cassette": "Берёзовая панельная дверь",
     "block.manyideas_doors.door_birch_french": "Берёзовая французская дверь",
     "block.manyideas_doors.door_birch_frosted": "Берёзовая матовая дверь",
@@ -57,7 +57,7 @@
     "block.manyideas_doors.door_copper_steampunk": "Медная стимпанк-дверь",
 
     "block.manyideas_doors.door_crimson_blank": "Багровая гладкая дверь",
-    "block.manyideas_doors.door_crimson_bookshelf": "Багровая дверь-книжная полка",
+    "block.manyideas_doors.door_crimson_bookshelf": "Багровая скрытая дверь",
     "block.manyideas_doors.door_crimson_cassette": "Багровая панельная дверь",
     "block.manyideas_doors.door_crimson_french": "Багровая французская дверь",
     "block.manyideas_doors.door_crimson_frosted": "Багровая матовая дверь",
@@ -68,7 +68,7 @@
     "block.manyideas_doors.door_crimson_shoji": "Багровая дверь-сёдзи",
 
     "block.manyideas_doors.door_dark_oak_blank": "Гладкая дверь из тёмного дуба",
-    "block.manyideas_doors.door_dark_oak_bookshelf": "Дверь-книжная полка из тёмного дуба",
+    "block.manyideas_doors.door_dark_oak_bookshelf": "Скрытая дверь из тёмного дуба",
     "block.manyideas_doors.door_dark_oak_cassette": "Панельная дверь из тёмного дуба",
     "block.manyideas_doors.door_dark_oak_french": "Французская дверь из тёмного дуба",
     "block.manyideas_doors.door_dark_oak_frosted": "Матовая дверь из тёмного дуба",
@@ -78,8 +78,8 @@
     "block.manyideas_doors.door_dark_oak_rustic": "Деревенская дверь из тёмного дуба",
     "block.manyideas_doors.door_dark_oak_shoji": "Дверь-сёдзи из тёмного дуба",
 
-    "block.manyideas_doors.door_iron_bookshelf": "Железная дверь-книжная полка",
-    "block.manyideas_doors.door_iron_dwarf": "Железная гномская дверь",
+    "block.manyideas_doors.door_iron_bookshelf": "Железная скрытая дверь",
+    "block.manyideas_doors.door_iron_dwarf": "Железная дворфийская дверь",
     "block.manyideas_doors.door_iron_fantasy": "Железная фэнтезийная дверь",
     "block.manyideas_doors.door_iron_glass": "Железная остеклённая дверь",
     "block.manyideas_doors.door_iron_laboratory": "Железная лабораторная дверь",
@@ -90,7 +90,7 @@
     "block.manyideas_doors.door_iron_stone_brick": "Железная дверь замаскированная под каменные кирпичи",
 
     "block.manyideas_doors.door_jungle_blank": "Гладкая дверь из тропического дерева",
-    "block.manyideas_doors.door_jungle_bookshelf": "Дверь-книжная полка из тропического дерева",
+    "block.manyideas_doors.door_jungle_bookshelf": "Скрытая дверь из тропического дерева",
     "block.manyideas_doors.door_jungle_cassette": "Панельная дверь из тропического дерева",
     "block.manyideas_doors.door_jungle_french": "Французская дверь из тропического дерева",
     "block.manyideas_doors.door_jungle_frosted": "Матовая дверь из тропического дерева",
@@ -101,7 +101,7 @@
     "block.manyideas_doors.door_jungle_shoji": "Дверь-сёдзи из тропического дерева",
 
     "block.manyideas_doors.door_oak_blank": "Дубовая гладкая дверь",
-    "block.manyideas_doors.door_oak_bookshelf": "Дубовая дверь-книжная полка",
+    "block.manyideas_doors.door_oak_bookshelf": "Дубовая скрытая дверь",
     "block.manyideas_doors.door_oak_cassette": "Дубовая панельная дверь",
     "block.manyideas_doors.door_oak_french": "Дубовая французская дверь",
     "block.manyideas_doors.door_oak_frosted": "Дубовая матовая дверь",
@@ -117,7 +117,7 @@
     "block.manyideas_doors.door_special_space": "Космическая дверь",
 
     "block.manyideas_doors.door_spruce_blank": "Еловая гладкая дверь",
-    "block.manyideas_doors.door_spruce_bookshelf": "Еловая дверь-книжная полка",
+    "block.manyideas_doors.door_spruce_bookshelf": "Еловая скрытая дверь",
     "block.manyideas_doors.door_spruce_cassette": "Еловая панельная дверь",
     "block.manyideas_doors.door_spruce_french": "Еловая французская дверь",
     "block.manyideas_doors.door_spruce_frosted": "Еловая матовая дверь",
@@ -128,7 +128,7 @@
     "block.manyideas_doors.door_spruce_shoji": "Еловая дверь-сёдзи",
 
     "block.manyideas_doors.door_warped_blank": "Искажённая гладкая дверь",
-    "block.manyideas_doors.door_warped_bookshelf": "Искажённая дверь-книжная полка",
+    "block.manyideas_doors.door_warped_bookshelf": "Искажённая скрытая дверь",
     "block.manyideas_doors.door_warped_cassette": "Искажённая панельная дверь",
     "block.manyideas_doors.door_warped_french": "Искажённая французская дверь",
     "block.manyideas_doors.door_warped_frosted": "Искажённая матовая дверь",

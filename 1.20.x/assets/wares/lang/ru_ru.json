@@ -35,7 +35,7 @@
   "gui.wares.days.short": "%sдн",
   "gui.wares.hours.short": "%sч",
   "gui.wares.minutes.short": "%sм",
-  "gui.wares.seal_texture_not_found": "Seal texture «%s» not found at «%s». Make sure the name is correct and ResourcePack with the texture is loaded. Default seal will be used instead.",
+  "gui.wares.seal_texture_not_found": "Текстура печати «%s» не найдена в «%s». Убедитесь, что название указано правильно и загружен пакет ресурсов с текстурой. Вместо этого будет использоваться печать по умолчанию.",
   "gui.wares.agreement.tag_slot_tooltip": "Любое из %s",
   "gui.wares.agreement.empty_tag": "Пустой тег",
 
