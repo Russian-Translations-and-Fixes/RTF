@@ -38,6 +38,13 @@
     "advancements.biomancy.root.description": "Вы чувствуете чьё-то присутствие в плоти, оно шепчет вам в уши: «Сырое мясо приведёт тебя к большему...»",
     "advancements.biomancy.root.title": "Шепчущее мясо",
 
+    "bio_forge_tab.biomancy.blocks": "Строительные блоки",
+    "bio_forge_tab.biomancy.components": "компоненты",
+    "bio_forge_tab.biomancy.machines": "Механизмы",
+    "bio_forge_tab.biomancy.misc": "Прочее",
+    "bio_forge_tab.biomancy.search": "Всё",
+    "bio_forge_tab.biomancy.tools": "Инструменты",
+
     "block.biomancy.acid_fluid_block": "Кислота",
     "block.biomancy.adult_permeable_membrane": "Мембрана проницаемая взрослыми",
     "block.biomancy.adult_permeable_membrane.tooltip": "Гелеподобная мембрана, укреплённая эластичными волокнами.\n\nТолько взрослые существа могут проходить сквозь мембрану.",
@@ -386,6 +393,7 @@
     "item.biomancy.withering_ooze.tooltip": "Едкий экстракт, возможно, имеет биоалхимическое применение.",
 
     "itemGroup.biomancy": "Biomancy 2",
+    "item_group.biomancy": "Biomancy 2",
 
     "jei.biomancy.recipe.bio_forge": "Биокузница",
     "jei.biomancy.recipe.bio_lab": "Биолаборатория",

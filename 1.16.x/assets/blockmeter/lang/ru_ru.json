@@ -1,18 +1,24 @@
 {
   "blockmeter.keepColor": "Всегда исп. текущий цвет: %s",
   "blockmeter.diagonal": "Диагональная линия: %s",
-  "blockmeter.toggle.on": "%s теперь используется в качестве вашего счётчика блоков!",
-  "blockmeter.toggle.off": "Счётчик блоков выключен!",
+  "blockmeter.toggle.on": "%s теперь измеритель блоков!",
+  "blockmeter.toggle.off": "Измеритель блоков выключен!",
   "blockmeter.clearLast": "Последняя измерительная область очищена",
   "blockmeter.clearAll": "Все измерительные области очищены",
   "blockmeter.showOthers": "Показывать обл. других игроков: %s",
+  "blockmeter.moveCorner": "Переместить угол выделенной области",
+  "blockmeter.restrictMining": "Ограничить область добычи: %s",
+  "blockmeter.restrictMining.inside": "Только внутри",
+  "blockmeter.restrictMining.outside": "Только снаружи",
 
-  "blockmeter.boxToString": "Стартовый блок: (%d, %d, %d), Конечный блок: (%d, %d, %d)",
+  "blockmeter.boxToString": "Начальный блок: (%d, %d, %d), Конечный блок: (%d, %d, %d)",
 
   "category.blockmeter.key": "Block Meter",
 
-  "key.blockmeter.assign": "Включить/выключить счётчик блоков",
+  "key.blockmeter.assign": "Переключить измеритель блоков",
   "key.blockmeter.menu": "Показать настройки",
+  "key.blockmeter.measure": "Измерение блоков без предмета",
+  "key.blockmeter.useItem": "Альтернативная клавиша «Использовать»",
 
   "text.autoconfig.blockmeter.title": "Block Meter",
   
@@ -22,7 +28,7 @@
 
   "text.autoconfig.blockmeter.option.deleteBoxesOnDisable": "Удалять области при отключении Block Meter",
   "text.autoconfig.blockmeter.option.deleteBoxesOnDisable.@Tooltip[0]": "Удалять измерительные области при отключении",
-  "text.autoconfig.blockmeter.option.deleteBoxesOnDisable.@Tooltip[1]": "счётчика блоков назначенной клавишей.",
+  "text.autoconfig.blockmeter.option.deleteBoxesOnDisable.@Tooltip[1]": "измерителя блоков назначенной клавишей.",
 
   "text.autoconfig.blockmeter.option.sendBoxes": "Показывать области другим игрокам на совместимых серверах",
   "text.autoconfig.blockmeter.option.sendBoxes.@Tooltip[0]": "Области можно спрятать с помощью внутриигровых настроек",
@@ -30,5 +36,7 @@
   "text.autoconfig.blockmeter.option.sendBoxes.@Tooltip[2]": "установленный как плагин (Bukkit) или мод (Fabric)",
 
   "text.autoconfig.blockmeter.option.showBoxesWhenDisabled": "Показывать области при отключении ",
-  "text.autoconfig.blockmeter.option.backgroundForLabels": "Цветной фон надписей"
+  "text.autoconfig.blockmeter.option.backgroundForLabels": "Цветной фон надписей",
+
+  "text.autoconfig.blockmeter.option.reach": "Дальность выделения блоков игроком"
 }

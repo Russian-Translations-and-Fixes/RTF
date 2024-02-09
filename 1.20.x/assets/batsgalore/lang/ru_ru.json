@@ -51,6 +51,7 @@
   "block.batsgalore.white_pine_wood": "Белая сосна",
 
   "entity.batsgalore.alex_bat": "Летучая мышь Алекс",
+  "entity.batsgalore.biggest_fan_bat": "Летучий мышь самая большая поклонница",
   "entity.batsgalore.block_projectile": "Снаряд блок",
   "entity.batsgalore.candy_cane_bat": "Летучая карамельная трость",
   "entity.batsgalore.creeper_bat": "Летучий мышь-крипер",
@@ -79,6 +80,7 @@
 
   "item.batsgalore.alex_bat_spawn_egg": "Яйцо призыва летучей мыши Алекс",
   "item.batsgalore.bat_wings": "Крылья летучей мыши",
+  "item.batsgalore.biggest_fan_bat_spawn_egg": "Яйцо призыва летучей мыши самой большой поклонницы",
   "item.batsgalore.bitesized_jelly": "Желе на один укус",
   "item.batsgalore.candy_cane": "Карамельная трость",
   "item.batsgalore.candy_cane_bat_spawn_egg": "Яйцо призыва летучей карамельной трости",
@@ -90,6 +92,7 @@
   "item.batsgalore.generic_candy": "Простая конфета",
   "item.batsgalore.ghost_bat_spawn_egg": "Яйцо призыва летучей мыши-призрака",
   "item.batsgalore.herobrine_bat_spawn_egg": "Яйцо призыва летучей мыши Херобрина",
+  "item.batsgalore.novelty_drinking_hat": "Шляпа для напитков",
   "item.batsgalore.player_bat_spawn_egg": "Яйцо призыва летучей мыши-игрока",
   "item.batsgalore.pumpkin_bat_spawn_egg": "Яйцо призыва летучей мыши-тыквы",
   "item.batsgalore.pumpkin_chocolate_bar": "Плитка тыквенного шоколада",
