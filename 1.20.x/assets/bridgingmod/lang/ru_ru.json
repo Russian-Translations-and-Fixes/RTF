@@ -1,5 +1,5 @@
 {
-    "bridgingmod.config.failed_integration.title": "Интерфейс настроек отключен!",
+    "bridgingmod.config.failed_integration.title": "Интерфейс настроек отключён!",
     "bridgingmod.config.failed_integration.description": "Настройки этой модификации отключены в снапшотах",
 
     "key.categories.bridgingmod": "Bridging Mod",
@@ -14,6 +14,9 @@
     "text.autoconfig.bridgingmod.option.onlyBridgeWhenCrouched": "Использовать помощь в мостостроении только крадучись",
     "text.autoconfig.bridgingmod.option.enableSlabAssist": "Выравнивать плиты в режиме помощи в мостостроении",
     "text.autoconfig.bridgingmod.option.enableNonSolidReplace": "Заменять нетвёрдые блоки",
+    "text.autoconfig.bridgingmod.option.delayPostBridging": "Задержка после размещения",
+    "text.autoconfig.bridgingmod.option.delayPostBridging.@Tooltip": "Время в тиках до размещения следующего блока. 4 - стандартно. 3 - позволяет строить мосты быстрее.",
+    "text.autoconfig.bridgingmod.option.supportedBridgeAxes": "Ось помощи в мостостроении",
 
     "text.autoconfig.bridgingmod.option.showCrosshair": "Показывать перекрестие помощи в мостостроении",
     "text.autoconfig.bridgingmod.option.showOutline": "Показать контур устанавливаемого блока",

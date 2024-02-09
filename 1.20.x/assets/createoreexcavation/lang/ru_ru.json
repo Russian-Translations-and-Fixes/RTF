@@ -13,7 +13,7 @@
   "chat.coe.veinFinder.nothing": "Ничего",
   "chat.coe.veinFinder.pos": "В чанке: %d, %d",
 
-  "command.coe.locate.failed": "Не удалось найти жилу руды \"%s\" поблизости",
+  "command.coe.locate.failed": "Не удалось найти жилу руды «%s» поблизости",
   "command.coe.locate.success": "Ближайшая жила с типом %s находится по координатам %s (в %s блоках отсюда)",
   "command.coe.setvein.success": "Жила успешно установлена на тип: %s",
 
