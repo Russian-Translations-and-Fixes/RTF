@@ -53,7 +53,7 @@
     "text.autoconfig.additionz.option.boat_fall_damage_nerf": "Включить урон при падении в лодке",
     "text.autoconfig.additionz.option.teleport_potion": "Добавить зелье телепортации",
     "text.autoconfig.additionz.option.teleport_scroll": "Добавить свиток телепортации",
-    "text.autoconfig.additionz.option.sneak_through_berries": "Крадучись можно пройти через кусты не получив урона",
+    "text.autoconfig.additionz.option.sneak_through_berries": "Крадучись можно пройти через кусты, не получив урона",
     "text.autoconfig.additionz.option.phantom_tick_time": "Время до появления фантомов (в тиках)",
     "text.autoconfig.additionz.option.ladder_climb_speeding": "Ускорение подъёма по лестнице",
 
