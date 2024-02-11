@@ -7,7 +7,7 @@
   "container.imbue.invalidEnchantment": "Невозможно насытить силой чары на книге!",
   "container.imbue.invalidItem": "Предмет не совместим с этими чарами!",
   "container.imbue.notAtMaxLevel": "Уровень чар на книге слишком низок!",
-  "container.imbue.tooManyEnchantments": "В книга слишком много чар!",
+  "container.imbue.tooManyEnchantments": "В книге слишком много чар!",
 
   "entity.illagerinvasion.alchemist": "Алхимик",
   "entity.illagerinvasion.archivist": "Архивариус",

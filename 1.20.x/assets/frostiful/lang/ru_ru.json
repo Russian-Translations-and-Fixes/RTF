@@ -276,6 +276,7 @@
   "text.autoconfig.frostiful.option.freezingConfig.shiverWarmth": "Кол-во теплоты от дрожи за такт",
   "text.autoconfig.frostiful.option.freezingConfig.stopShiverWarmingBelowFoodLevel": "Дрожь не даёт тепло ниже уровня насыщения",
   "text.autoconfig.frostiful.option.freezingConfig.warmFoodWarmthTime": "Длительность эффекта «Теплота» от согревающей еды и напитков (в тактах)",
+  "text.autoconfig.frostiful.option.freezingConfig.netheriteFrostResistance": "Морозостойкость незеритового снаряжения",
   
   "text.autoconfig.frostiful.option.icicleConfig": "Настройки сосулек",
   "text.autoconfig.frostiful.option.icicleConfig.iciclesFormInWeather": "Сосульки образуются при погодных условиях",

@@ -120,8 +120,41 @@
     "block.mcwfences.warped_stockade_fence": "Искажённый частокол",
     "block.mcwfences.warped_wired_fence": "Искажённый забор с колючей проволокой",
 
+    "block.mcwfences.stone_pillar_wall": "Каменная колонная ограда",
+    "block.mcwfences.andesite_pillar_wall": "Андезитовая колонная ограда",
+    "block.mcwfences.diorite_pillar_wall": "Диоритовая колонная ограда",
+    "block.mcwfences.granite_pillar_wall": "Гранитная колонная ограда",
+    "block.mcwfences.sandstone_pillar_wall": "Песчаниковая колонная ограда",
+    "block.mcwfences.red_sandstone_pillar_wall": "Колонная ограда из красного песчаника",
+    "block.mcwfences.blackstone_pillar_wall": "Чернитная колонная ограда",
+    "block.mcwfences.nether_brick_pillar_wall": "Колонная ограда из незерского кирпича",
+    "block.mcwfences.end_brick_pillar_wall": "Колонная ограда из эндернякового кирпича",
+    "block.mcwfences.deepslate_pillar_wall": "Глубинносланцевая колонная ограда",
+    "block.mcwfences.deepslate_brick_pillar_wall": "Колонная ограда из глубинносланцевого кирпича",
+    "block.mcwfences.quartz_pillar_wall": "Кварцевая колонная ограда",
+    "block.mcwfences.mud_brick_pillar_wall": "Саманная колонная ограда",
+    "block.mcwfences.prismarine_pillar_wall": "Призмариновая колонная ограда",
+    
+    "block.mcwfences.stone_grass_topped_wall": "Поросшая травой каменная ограда",
+    "block.mcwfences.andesite_grass_topped_wall": "Поросшая травой андезитовая ограда",
+    "block.mcwfences.diorite_grass_topped_wall": "Поросшая травой диоритовая ограда",
+    "block.mcwfences.granite_grass_topped_wall": "Поросшая травой гранитная ограда",
+    "block.mcwfences.sandstone_grass_topped_wall": "Поросшая травой песчаниковая ограда",
+    "block.mcwfences.red_sandstone_grass_topped_wall": "Поросшая травой ограда из красного песчаника",
+    "block.mcwfences.blackstone_grass_topped_wall": "Поросшая травой чернитная ограда",
+    "block.mcwfences.nether_brick_grass_topped_wall": "Поросшая травой ограда из незерского кирпича",
+    "block.mcwfences.end_brick_grass_topped_wall": "Поросшая травой ограда из эндернякового кирпича",
+    "block.mcwfences.deepslate_grass_topped_wall": "Поросшая травой глубинносланцевая ограда",
+    "block.mcwfences.deepslate_brick_grass_topped_wall": "Поросшая травой ограда из глубинносланцевого кирпича",
+    "block.mcwfences.quartz_grass_topped_wall": "Поросшая травой кварцевая ограда",
+    "block.mcwfences.mud_brick_grass_topped_wall": "Поросшая травой саманная ограда",
+    "block.mcwfences.prismarine_grass_topped_wall": "Поросшая травой призмариновая ограда",
+    
+    "block.mcwfences.wooden_cheval_de_frise": "Деревянная рогатка",
+    "block.mcwfences.iron_cheval_de_frise": "Железная рогатка",
+
     "death.attack.wired_fence": "%1$s запутался в колючей проволоке",
-    "death.attack.wired_fence.player": "%1$s запутался в колючей проволоке убегая от %2$s",
+    "death.attack.wired_fence.player": "%1$s запутался в колючей проволоке, убегая от %2$s",
 
     "itemGroup.mcwfences": "Заборы и ограды Macaw'а"
 }

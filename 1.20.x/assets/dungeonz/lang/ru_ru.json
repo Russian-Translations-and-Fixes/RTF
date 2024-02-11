@@ -39,17 +39,17 @@
     "text.dungeonz.dungeon_autokick": "Вы были автоматически выкинуты из подземелья, потому что потратили слишком много времени на его завершение!",
 
     "dungeon.op_screen.dungeon_type": "Тип подземелья",
-    "dungeon.op_screen.default_difficulty": "Стандартная сложность",
+    "dungeon.op_screen.default_difficulty": "Сложность по умолчанию",
     "dungeon.op_screen.gate_block_id": "Идентификатор блока врат",
     "dungeon.op_screen.gate_particle_id": "Идентификатор частиц врат",
     "dungeon.op_screen.gate_unlock_item_id": "Идентификатор предмета для открытия врат",
 
     "compass.compass_screen.title": "Подземелья",
-    "compass.compass_screen.calibrate": "Калибровать",
+    "compass.compass_screen.calibrate": "Откалибровать",
     "compass.compass_screen.required": "Требуется 3 осколка аметиста",
     "compass.compass_item.cartography": "§7Откалибруйте на столе картографа",
 
     "text.autoconfig.dungeonz.title": "DungeonZ - Настройки",
     "text.autoconfig.dungeonz.option.devMode": "Режим разработчика",
-    "text.autoconfig.dungeonz.option.defaultDungeons": "Стандартные подземелья"
+    "text.autoconfig.dungeonz.option.defaultDungeons": "Подземелья по умолчанию"
 }

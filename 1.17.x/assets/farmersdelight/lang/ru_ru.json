@@ -71,13 +71,13 @@
   "block.farmersdelight.red_mushroom_colony": "Колония красных грибов",
 
   "block.farmersdelight.sandy_shrub": "Песчаный куст",
-  "block.farmersdelight.wild_cabbages": "Дикая капуста",
-  "block.farmersdelight.wild_tomatoes": "Дикий томатный куст",
-  "block.farmersdelight.wild_onions": "Дикий лук",
-  "block.farmersdelight.wild_carrots": "Дикая морковь",
-  "block.farmersdelight.wild_potatoes": "Дикий картофель",
+  "block.farmersdelight.wild_cabbages": "Дикорастущая капуста",
+  "block.farmersdelight.wild_tomatoes": "Дикорастущий томатный куст",
+  "block.farmersdelight.wild_onions": "Дикорастущий лук",
+  "block.farmersdelight.wild_carrots": "Дикорастущая морковь",
+  "block.farmersdelight.wild_potatoes": "Дикорастущий картофель",
   "block.farmersdelight.wild_beetroots": "Морская свёкла",
-  "block.farmersdelight.wild_rice": "Дикий рис",
+  "block.farmersdelight.wild_rice": "Дикорастущий рис",
 
   "block.farmersdelight.apple_pie": "Яблочный пирог",
   "block.farmersdelight.sweet_berry_cheesecake": "Чизкейк со сладкими ягодами",
@@ -245,7 +245,7 @@
   "farmersdelight.advancement.obtain_netherite_knife": "Если ты не выдержишь жару...",
   "farmersdelight.advancement.obtain_netherite_knife.desc": "Потратьте целый незеритовый слиток, чтобы улучшить свой нож! Или проваливайте с кухни!",
 
-  "farmersdelight.advancement.get_fd_seed": "Дикие ростки",
+  "farmersdelight.advancement.get_fd_seed": "Дикорастущие ростки",
   "farmersdelight.advancement.get_fd_seed.desc": "Четыре новых культуры можно найти в природе, в разных климатах... или где-нибудь в сундуках",
   "farmersdelight.advancement.plant_rice": "Погружая свои корни",
   "farmersdelight.advancement.plant_rice.desc": "Посадите рис в неглубокий водоём",
@@ -304,7 +304,7 @@
   "farmersdelight.jei.decomposition.fluid": "Процесс ускоряется посредством добавления воды",
   "farmersdelight.jei.decomposition.accelerators": "Процесс ускоряется посредством добавления активаторов (см. ниже)",
   "farmersdelight.jei.info.straw": "Сухое растительное волокно, используемое для создания предметов. Получают путем срезания ножом травянистых культур и растений.",
-  "farmersdelight.jei.info.knife": "Ножи - это лёгкое оружие ближнего боя. Они могут собирать солому с травы и гарантируют получение вторичной добычи с животных.",
+  "farmersdelight.jei.info.knife": "Лёгкое и быстрое оружие ближнего боя. С его помощью можно собирать солому с травы и гарантированно получать вторичную добычу с животных.",
   "farmersdelight.jei.info.ham": "Большой кусок мяса со Свиней или Хоглинов. Для разделки понадобится что-то полегче меча...",
 
   "farmersdelight.rei.cooking": "Готовка",
@@ -315,6 +315,6 @@
   "farmersdelight.rei.decomposition.fluid": "Процесс ускоряется посредством добавления воды",
   "farmersdelight.rei.decomposition.accelerators": "Процесс ускоряется посредством добавления активаторов (см. ниже)",
   "farmersdelight.rei.info.straw": "Сухое растительное волокно, используемое для создания предметов. Получают путем срезания ножом травянистых культур и растений.",
-  "farmersdelight.rei.info.knife": "Ножи - это лёгкое оружие ближнего боя. Они могут собирать солому с травы и гарантируют получение вторичной добычи с животных.",
+  "farmersdelight.rei.info.knife": "Лёгкое и быстрое оружие ближнего боя. С его помощью можно собирать солому с травы и гарантированно получать вторичную добычу с животных.",
   "farmersdelight.rei.info.ham": "Большой кусок мяса со Свиней или Хоглинов. Для разделки понадобится что-то полегче меча..."
 }
