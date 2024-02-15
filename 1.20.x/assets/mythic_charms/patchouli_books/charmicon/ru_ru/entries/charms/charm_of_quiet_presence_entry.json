@@ -1,0 +1,21 @@
+{
+  "name": "Тихое присутствие",
+  "icon": "mythic_charms:fragile_charm_of_quiet_presence",
+  "category": "mythic_charms:charms_category",
+  "advancement": "mythic_charms:book/fragile_charm_base",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": " Даёт владельцу способность перемещаться, не вызывая срабатывание скалк-сенсоров. Это относится только к ходьбе, бег и прыжки будут вызывать срабатывание скалк-сенсоров."
+    },
+    {
+      "type": "mythic_charms:resonance_infusing",
+      "result": "mythic_charms:fragile_charm_of_quiet_presence",
+      "ingredient1": "mythic_charms:fragile_charm_base",
+      "ingredient2": "mythic_charms:glowstone_nugget",
+      "ingredient3": "minecraft:echo_shard",
+      "ingredient4": "minecraft:feather",
+      "ingredient5": "minecraft:slime_ball"
+    }
+  ]
+}

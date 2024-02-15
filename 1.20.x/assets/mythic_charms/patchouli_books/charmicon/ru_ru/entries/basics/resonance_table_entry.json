@@ -1,0 +1,16 @@
+{
+  "name": "Стол резонанса",
+  "icon": "mythic_charms:resonance_table",
+  "category": "mythic_charms:basics_category",
+  "advancement": "mythic_charms:book/resonance_ring",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": " Как только вы создали кольцо резонанса, ваш следующий шаг — стол резонанса.$(br2) Чтобы начать создавать амулеты, вам нужно установить под столом резонанса лазуритовый блок и экипировать кольцо резонанса. Затем нажмите [ПКМ] держа ингредиент (или бросьте его сверху) и бросьте пузырёк опыта, чтобы закончить создание амулета."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mythic_charms:resonance_table"
+    }
+  ]
+}

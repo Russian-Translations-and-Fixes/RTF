@@ -1,0 +1,17 @@
+{
+  "name": "Глыба глубинного сланца",
+  "icon": "mythic_charms:deepslate_fragment",
+  "category": "mythic_charms:basics_category",
+  "advancement": "mythic_charms:book/fragile_charm_base",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mythic_charms:deepslate_fragment",
+      "text": " Глыба глубинного сланца с небольшой вероятностью выпадает при добыче глубинного сланца.$(br2) Это ингредиент, необходимый для улучшения хрупких амулетов.$(br2) Кроме того, из нескольких штук вы можете создать колотый глубокий сланец."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mythic_charms:cobbled_deepslate"
+    }
+  ]
+}

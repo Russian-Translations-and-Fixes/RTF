@@ -1,0 +1,12 @@
+{
+  "name": "Пылкая земная твердь",
+  "icon": "mythic_charms:textures/earths_order_and_blazing_embrace.png",
+  "category": "mythic_charms:combinations_category",
+  "advancement": "mythic_charms:story/first_charm",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": " $(l:mythic_charms:charms/charm_of_earths_order_entry)Управление земной твердью$() $(br)  и $(l:mythic_charms:charms/charm_of_blazing_embrace_entry)Пылкие объятия$(): $(br2) Разрушение блока голыми руками сразу переплавляет его, если это возможно."
+    }
+  ]
+}

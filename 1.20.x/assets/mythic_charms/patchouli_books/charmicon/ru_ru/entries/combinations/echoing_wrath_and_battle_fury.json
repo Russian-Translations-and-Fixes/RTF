@@ -1,0 +1,12 @@
+{
+  "name": "Вторящая ярость",
+  "icon": "mythic_charms:textures/echoing_wrath_and_battle_fury.png",
+  "category": "mythic_charms:combinations_category",
+  "advancement": "mythic_charms:story/first_charm",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": " $(l:mythic_charms:charms/charm_of_echoing_wrath_entry)Вторящая злоба$() $(br)  и $(l:mythic_charms:charms/charm_of_battle_fury_entry)Боевая ярость$(): $(br2) Чем ниже здоровье владельца, тем выше будет отражённый в существ урон."
+    }
+  ]
+}

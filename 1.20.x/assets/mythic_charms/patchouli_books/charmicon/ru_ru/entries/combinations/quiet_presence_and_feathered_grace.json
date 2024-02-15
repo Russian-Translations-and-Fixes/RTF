@@ -1,0 +1,12 @@
+{
+  "name": "Тихая воздушная грация",
+  "icon": "mythic_charms:textures/quiet_presence_and_feathered_grace.png",
+  "category": "mythic_charms:combinations_category",
+  "advancement": "mythic_charms:story/first_charm",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": " $(l:mythic_charms:charms/charm_of_quiet_presence_entry)Тихое присутствие$() $(br)  и $(l:mythic_charms:charms/charm_of_feathered_grace_entry)Воздушная грация$(): $(br2) Прыжки не будут вызывать срабатывание скалк-сенсоров."
+    }
+  ]
+}

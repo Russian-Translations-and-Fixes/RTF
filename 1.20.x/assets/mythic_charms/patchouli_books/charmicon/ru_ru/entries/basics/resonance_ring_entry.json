@@ -1,0 +1,15 @@
+{
+  "name": "Кольцо резонанса",
+  "icon": "mythic_charms:resonance_ring",
+  "category": "mythic_charms:basics_category",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": " Ваш первый шаг — создать кольцо резонанса и экипировать его.$(br2) Кольцо резонанса само по себе обладает способностью: все выброшенные предметы будут подбираться с увеличенной задержкой."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mythic_charms:resonance_ring"
+    }
+  ]
+}

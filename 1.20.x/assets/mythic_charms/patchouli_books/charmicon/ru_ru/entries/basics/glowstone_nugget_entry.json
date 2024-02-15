@@ -1,0 +1,17 @@
+{
+  "name": "Кусочек светокамня",
+  "icon": "mythic_charms:glowstone_nugget",
+  "category": "mythic_charms:basics_category",
+  "advancement": "mythic_charms:book/resonance_table",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mythic_charms:glowstone_nugget",
+      "text": " Кусочек светокамня можно получить путём плавки светокаменной пыли в плавильной печи.$(br2) Он используется в качестве ингредиента для создания хрупких амулетов.$(br2) Кроме того, вы можете создавать из него факелы."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mythic_charms:torch"
+    }
+  ]
+}

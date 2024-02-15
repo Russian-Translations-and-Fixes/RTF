@@ -1,0 +1,18 @@
+{
+  "name": "Хрупкие амулеты",
+  "icon": "mythic_charms:fragile_charm_base",
+  "category": "mythic_charms:basics_category",
+  "advancement": "mythic_charms:book/resonance_table",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mythic_charms:fragile_charm_base",
+      "text": " Чтобы создать амулет, вам нужна основа хрупкого амулета.$(br2) Если экипировать или снять хрупкий амулет, то он нанесёт вам две единицы магического урона."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "mythic_charms:broken_charm",
+      "text": " Если вы умрёте с экипированным хрупким амулетом, он будет заменён на разбитый амулет.$(br2) Странствующий торговец может продать вам хрупкий амулет в обмен на сломанный и несколько изумрудов."
+    }
+  ]
+}

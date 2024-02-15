@@ -1,0 +1,12 @@
+{
+  "name": "Невесомая грация",
+  "icon": "mythic_charms:textures/weightless_flow_and_feathered_grace.png",
+  "category": "mythic_charms:combinations_category",
+  "advancement": "mythic_charms:story/first_charm",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": " $(l:mythic_charms:charms/charm_of_weightless_flow_entry)Невесомость$() $(br)  и $(l:mythic_charms:charms/charm_of_feathered_grace_entry)Воздушная грация$(): $(br2) Если владелец будет красться, то это больше не будет отменять эффект плавного падения, теперь владелец будет возвращать себе обычное гравитационное притяжение."
+    }
+  ]
+}

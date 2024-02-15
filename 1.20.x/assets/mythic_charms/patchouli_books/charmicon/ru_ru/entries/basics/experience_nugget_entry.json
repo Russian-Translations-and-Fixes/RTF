@@ -1,0 +1,16 @@
+{
+  "name": "Кусочек опыта",
+  "icon": "mythic_charms:experience_nugget",
+  "category": "mythic_charms:basics_category",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mythic_charms:experience_nugget",
+      "text": " Кусочек опыта может появиться вместе со сферой опыта с 60% вероятностью.$(br2) Вы можете использовать его и получить небольшое количество опыта или создать пузырёк опыта."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mythic_charms:experience_bottle"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Невесомость",
+  "icon": "mythic_charms:fragile_charm_of_weightless_flow",
+  "category": "mythic_charms:charms_category",
+  "advancement": "mythic_charms:book/fragile_charm_base",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": " Удерживает гравитационное поле владельца, пока он не крадётся. Когда владелец, чьё гравитационное поле удерживается, пойдёт прямо, пытаясь спрыгнуть с блока, у него это не получится, вместо этого он пойдёт прямо по воздуху. А попытавшись прыгнуть, он отправится высоко в небо."
+    },
+    {
+      "type": "mythic_charms:resonance_infusing",
+      "result": "mythic_charms:fragile_charm_of_weightless_flow",
+      "ingredient1": "mythic_charms:fragile_charm_base",
+      "ingredient2": "mythic_charms:glowstone_nugget",
+      "ingredient3": "minecraft:ghast_tear",
+      "ingredient4": "minecraft:glow_ink_sac",
+      "ingredient5": "minecraft:phantom_membrane"
+    }
+  ]
+}

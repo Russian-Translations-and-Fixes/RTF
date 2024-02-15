@@ -1,0 +1,12 @@
+{
+  "name": "Управление невесомостью",
+  "icon": "mythic_charms:textures/earths_order_and_weightless_flow.png",
+  "category": "mythic_charms:combinations_category",
+  "advancement": "mythic_charms:story/first_charm",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": " $(l:mythic_charms:charms/charm_of_earths_order_entry)Управление земной твердью$() $(br)  и $(l:mythic_charms:charms/charm_of_weightless_flow_entry)Невесомость$(): $(br2) Скорость разрушения блоков в воздухе голыми руками такая же, как на земле."
+    }
+  ]
+}
