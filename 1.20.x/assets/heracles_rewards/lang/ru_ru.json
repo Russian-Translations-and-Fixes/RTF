@@ -1,0 +1,48 @@
+{
+    "reward.heracles.progress.desc.incomplete.singular": "Доступна %s награда",
+    "reward.heracles.progress.desc.incomplete.plural": "Доступно(ы) %s наград(ы)",
+    "reward.heracles.progress.desc.locked": "Нет доступных наград",
+    "reward.heracles.progress.desc.complete": "Все награды получены",
+
+    "gui.heracles.rewards.unlocks_quest.title": "Открывает %s",
+    "gui.heracles.rewards.unlocks_quest.desc": "Открывает доступ к новому заданию.",
+
+    "reward.heracles.xp": "☠ Опыт",
+    "reward.heracles.xp.title.singular": "Получить: Опыт",
+    "reward.heracles.xp.title.plural": "Получить: Опыт",
+    "reward.heracles.xp.desc.singular": "Получите опыт: %s %s",
+    "reward.heracles.xp.desc.plural": "Получите опыт: %s %s",
+
+    "reward.heracles.xp.type.point": "Очки",
+    "reward.heracles.xp.type.level": "Уровень",
+
+    "reward.heracles.item": "\uD83E\uDDEA Предмет",
+    "reward.heracles.item.title.singular": "Получить: %s",
+    "reward.heracles.item.title.plural": "Получить: %s",
+    "reward.heracles.item.desc.singular": "Получите %sx %s",
+    "reward.heracles.item.desc.plural": "Получите %sx %s",
+
+    "reward.heracles.loottable": "↔ Таблица добычи",
+    "reward.heracles.loottable.title.singular": "Получить случайную добычу",
+    "reward.heracles.loottable.desc.singular": "Из %s",
+    "reward.heracles.loottable.tooltip.singular": "Таблица добычи: %s",
+    "setting.heracles.loottable.title": "Заменить название:",
+    "setting.heracles.loottable.icon": "Заменить значок:",
+    "setting.heracles.loottable.loottable": "Таблица добычи:",
+
+    "reward.heracles.select": "❓ Выбор",
+    "reward.heracles.select.title.singular": "Выберите награду",
+    "reward.heracles.select.title.plural": "Выберите награды",
+    "reward.heracles.select.desc.singular": "Щёлкните кнопку, чтобы выбрать %s награду",
+    "reward.heracles.select.desc.plural": "Щёлкните кнопку, чтобы выбрать %s награды",
+    "reward.heracles.select.modal.title.singular": "Выберите награду %s",
+    "reward.heracles.select.modal.title.plural": "Выберите награды %s",
+
+    "reward.heracles.command": "/ Команда",
+    "reward.heracles.command.title.singular": "Выполнить команду",
+    "reward.heracles.command.desc.singular": "%s...",
+    "reward.heracles.command.tooltip.singular": "Команда: %s",
+    "setting.heracles.command.title": "Изменить название:",
+    "setting.heracles.command.icon": "Изменить значок:",
+    "setting.heracles.command.command": "Команда:"
+}

@@ -17,8 +17,10 @@
   "entangled.entangled_binder.info.target.known": "Связан с %1$s в %5$s по координатам (%2$d, %3$d, %4$d)",
   "entangled.entangled_binder.select": "Блок выбран!",
   "entangled.entangled_binder.clear": "Соединение сброшено!",
+  "entangled.entangled_binder.unknown_dimension": "Связыватель связан с неизвестным измерением «%s»!",
   "entangled.waila.bound_same_dimension": "Связан с %1$s по координатам (%2$d, %3$d, %4$d)",
   "entangled.waila.bound_other_dimension": "Связан с %1$s в %5$s по координатам (%2$d, %3$d, %4$d)",
   "entangled.waila.unbound": "Несвязан",
+  "entangled.waila.invalid_block": "Недопустимый блок «%s»!",
   "config.jade.plugin_entangled.entangled_block_component": "Entangled Block"
 }
