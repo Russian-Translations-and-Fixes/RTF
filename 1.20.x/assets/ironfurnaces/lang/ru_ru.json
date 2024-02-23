@@ -138,6 +138,9 @@
     "tooltip.ironfurnaces.augment_slot": "Слот для расширения",
     "tooltip.ironfurnaces.rainbow_gen1": "Генерирует",
     "tooltip.ironfurnaces.rainbow_gen2": "RF/тик, если все остальные печи генерируют энергию.",
+    "tooltip.ironfurnaces.rainbow_gen3": "Для генерации энергии, должны быть активны по одной печи каждого уровня, а также их хранилище не должно быть заполнено.",
+    "tooltip.ironfurnaces.rainbow_gen4": "Выводит энергию на любую сторону, которая настроена как выходная, такая сторона не будет использоваться для входа энергии во внутреннее хранилище.",
+    "tooltip.ironfurnaces.rainbow_gen5": "У вас может быть только один радужный генератор.",
 
     "ironfurnaces.update.speech": "[{\"text\":\"Обновление для \"},{\"text\":\"Iron Furnaces \",\"color\":\"dark_green\"},{\"text\":\"доступно!\",\"color\":\"none\"}]",
     "ironfurnaces.update.version": "[{\"text\":\"Текущая версия: \"},{\"text\":\"%s\",\"color\":\"dark_red\"},{\"text\":\", последняя версия: \",\"color\":\"none\"},{\"text\":\"%s\",\"color\":\"dark_green\"}]",

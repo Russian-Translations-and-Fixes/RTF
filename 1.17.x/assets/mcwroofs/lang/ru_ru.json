@@ -427,8 +427,8 @@
 	"block.mcwroofs.light_gray_steep_roof":"Светло-серая крутая крыша",
 	"block.mcwroofs.light_gray_upper_lower_roof":"Светло-серый верх низкой крыши",
 	"block.mcwroofs.light_gray_upper_steep_roof":"Светло-серый верх крутой крыши",
-	"block.mcwroofs.light_gray_roof_block":"Блок белой кровли",
-	"block.mcwroofs.light_gray_roof_slab":"Плита из белой кровли",
+	"block.mcwroofs.light_gray_roof_block":"Блок светло-серой кровли",
+	"block.mcwroofs.light_gray_roof_slab":"Плита из светло-серой кровли",
 
 	"block.mcwroofs.gray_roof":"Серая крыша",
 	"block.mcwroofs.gray_attic_roof":"Серое чердачное окно",
@@ -437,8 +437,8 @@
 	"block.mcwroofs.gray_steep_roof":"Серая крутая крыша",
 	"block.mcwroofs.gray_upper_lower_roof":"Серый верх низкой крыши",
 	"block.mcwroofs.gray_upper_steep_roof":"Серый верх крутой крыши",
-	"block.mcwroofs.gray_roof_block":"Блок белой кровли",
-	"block.mcwroofs.gray_roof_slab":"Плита из белой кровли",
+	"block.mcwroofs.gray_roof_block":"Блок серой кровли",
+	"block.mcwroofs.gray_roof_slab":"Плита из серой кровли",
 
 	"block.mcwroofs.black_roof":"Чёрная крыша",
 	"block.mcwroofs.black_attic_roof":"Чёрное чердачное окно",
@@ -447,8 +447,8 @@
 	"block.mcwroofs.black_steep_roof":"Чёрная крутая крыша",
 	"block.mcwroofs.black_upper_lower_roof":"Чёрный верх низкой крыши",
 	"block.mcwroofs.black_upper_steep_roof":"Чёрный верх крутой крыши",
-	"block.mcwroofs.black_roof_block":"Блок белой кровли",
-	"block.mcwroofs.black_roof_slab":"Плита из белой кровли",
+	"block.mcwroofs.black_roof_block":"Блок чёрной кровли",
+	"block.mcwroofs.black_roof_slab":"Плита из чёрной кровли",
 
 	"block.mcwroofs.base_roof":"Терракотовая крыша",
 	"block.mcwroofs.base_attic_roof":"Терракотовое чердачное окно",
@@ -673,6 +673,14 @@
 	"block.mcwroofs.bamboo_planks_steep_roof":"Крутая крыша из бамбуковых досок",
 	"block.mcwroofs.bamboo_planks_upper_lower_roof":"Верх низкой крыши из бамбуковых досок",
 	"block.mcwroofs.bamboo_planks_upper_steep_roof":"Верх крутой крыши из бамбуковых досок",
+
+	"block.mcwroofs.stone_bricks_roof":"Крыша из каменного кирпича",
+	"block.mcwroofs.stone_bricks_attic_roof":"Чердачное окно из каменного кирпича",
+	"block.mcwroofs.stone_bricks_top_roof":"Конёк крыши из каменного кирпича",
+	"block.mcwroofs.stone_bricks_lower_roof":"Низкая крыша из каменного кирпича",
+	"block.mcwroofs.stone_bricks_steep_roof":"Крутая крыша из каменного кирпича",
+	"block.mcwroofs.stone_bricks_upper_lower_roof":"Верх низкой крыши из каменного кирпича",
+	"block.mcwroofs.stone_bricks_upper_steep_roof":"Верх крутой крыши из каменного кирпича",
 
 	"block.mcwroofs.bamboo_mosaic_roof":"Крыша из бамбуковой мозаики",
 	"block.mcwroofs.bamboo_mosaic_attic_roof":"Чердачное окно из бамбуковой мозаики",

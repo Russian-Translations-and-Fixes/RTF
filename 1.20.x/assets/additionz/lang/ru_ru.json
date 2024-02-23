@@ -53,10 +53,14 @@
     "text.autoconfig.additionz.option.boat_fall_damage_nerf": "Включить урон при падении в лодке",
     "text.autoconfig.additionz.option.teleport_potion": "Добавить зелье телепортации",
     "text.autoconfig.additionz.option.teleport_scroll": "Добавить свиток телепортации",
+    "text.autoconfig.additionz.option.chunk_loader": "Загрузчик чанков",
+    "text.autoconfig.additionz.option.chunk_loader_fuel_time": "Время работы заправленного загрузчика чанков",
     "text.autoconfig.additionz.option.sneak_through_berries": "Крадучись можно пройти через кусты, не получив урона",
     "text.autoconfig.additionz.option.phantom_tick_time": "Время до появления фантомов (в тиках)",
     "text.autoconfig.additionz.option.ladder_climb_speeding": "Ускорение подъёма по лестнице",
+    "text.autoconfig.additionz.option.trinket_slot_arrangement": "Расположение слота для аксессуаров",
 
+    "text.autoconfig.additionz.option.passive_entity_group_spawn": "Групповое появление дружелюбных существ",
     "text.autoconfig.additionz.option.passive_entity_modifications": "Модификации дружелюбных существ",
     "text.autoconfig.additionz.option.passiveEntityConfig": "Модификации дружелюбных существ",
     "text.autoconfig.additionz.option.passiveEntityConfig.baby_to_adult_time": "Время роста ребёнка до взрослого (в тиках)",
@@ -80,6 +84,9 @@
     "item.additionz.teleport_scroll": "Свиток телепортации",
     "item.additionz.teleport_scroll.tooltip": "§7Удерживайте [ПКМ] 10с для телепортации",
 
+    "block.additionz.chunk_loader": "Загрузчик чанков",
+    "block.additionz.chunk_loader.message": "Чанк загружен другим загрузчиком чанков",
+
     "entity.additionz.age.tooltip": "Возраст: %d",
     "entity.additionz.age_jade.tooltip": " Возраст: %d",
 
@@ -88,6 +95,7 @@
     "config.jade.plugin_additionz.age_info": "Информация о возрасте",
 
     "container.fletching": "Стол лучника",
+    "container.chunk_loader": "Загрузчик чанков",
 
     "text.additionz.nbt": "NBT:",
 
