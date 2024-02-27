@@ -273,8 +273,8 @@
   "item.meadow.ingredient.tooltipitem.meadow.wooden_amethyst_milk_bucket": "Мы не знаем, кому это пришло в голову...",
   "item.meadow.wooden_water_bucket": "Деревянное ведро воды",
 
-  "creativetab.meadow.tab": "Let's Do: Meadow",
-  "itemGroup.meadow.meadow_tab": "Let's Do: Meadow",
+  "creativetab.meadow.tab": "[Let's Do] Meadow",
+  "itemGroup.meadow.meadow_tab": "[Let's Do] Meadow",
 
   "meadow.tooltip.fur_armor": "Охотничьи причуды:",
   "meadow.tooltip.fur_armor2": "Бонус полного комплекта:",
@@ -349,6 +349,5 @@
   "tooltip.meadow.thankyou_2": "При размещении:",
   "tooltip.meadow.thankyou_3": "Спасибо, что играете с Meadow!",
   "tooltip.meadow.thankyou_4": "Наделяет Спешкой II в радиусе 8 блоков",
-  "block.doapi.standard": "Знамя сырного эксперта: §2Meadow",
   "item.meadow.meadow_standard": "Знамя сырного эксперта: §2Meadow"
 }

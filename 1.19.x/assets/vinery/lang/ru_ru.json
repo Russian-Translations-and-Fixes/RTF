@@ -158,7 +158,7 @@
   "container.storagepot": "Ящик",
   "container.wine_rack": "Хранилище",
 
-  "creativetab.vinery.tab": "Let's Do: Vinery",
+  "creativetab.vinery.tab": "[Let's Do] Vinery",
 
   "effect.vinery.creeper_effect": "Взрыв",
   "effect.vinery.empty": "Без эффектов",
@@ -290,9 +290,9 @@
   "item.vinery.wine.block.vinery.villagers_fright": "Дурное знамение: Вселяет в крестьян ужас, давая возможность разбойникам сделать свой ход",
   "item.vinery.wine_bottle": "Винная бутылка",
 
-  "itemGroup.vinery.vinery_tab": "Let's Do: Vinery",
+  "itemGroup.vinery.vinery_tab": "[Let's Do] Vinery",
 
-  "key.category.vinery": "Let's Do: Vinery",
+  "key.category.vinery": "[Let's Do] Vinery",
   "key.vinery.change_shader:": "Переключить шейдеры",
 
   "rei.vinery.apple_press_category": "Яблочный пресс",
@@ -335,14 +335,14 @@
   "vinery.advancement.wine_press.desc": "Создайте и поставьте яблочный пресс",
 
   "vinery.config.entry.damagePerUse": "Количество повреждений",
-  "vinery.config.entry.enableWineMakerSetBonus": "Использовать бонус комплекта винодела",
+  "vinery.config.entry.enableWineMakerSetBonus": "Включить бонус комплекта винодела",
   "vinery.config.entry.probabilityForDamage": "Вероятность повреждения брони при использовании (в %)",
   "vinery.config.entry.probabilityToKeepBoneMeal": "Вероятность срабатывания бонуса комплекта (в %)",
   "vinery.config.entry.wineTraderChance": "Вероятность появления странствующего винодела",
   "vinery.config.entry.yearLengthInDays": "Дней в году",
   "vinery.config.entry.yearsPerEffectLevel": "Кол-во лет, за которые вино приобретает доп уровень эффекта",
   "vinery.config.subCategory.wineMaker": "Бонус комплекта винодела",
-  "vinery.config.title": "Let's do: Vinery - Настройки",
+  "vinery.config.title": "[Let's Do] Vinery - Настройки",
 
   "vinery.tooltip.winemaker_armor": "Желание винодела:",
   "vinery.tooltip.winemaker_armor2": "Бонус полного комплекта:",

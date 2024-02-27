@@ -217,8 +217,8 @@
   "container.sideboard": "Буфет",
   "container.cabinet": "Шкаф",
 
-  "creativetab.candlelight.tab": "Let's Do: Candlelight",
-  "itemGroup.candlelight.candlelight_tab": "Let's Do: Candlelight",
+  "creativetab.candlelight.tab": "[Let's Do] Candlelight",
+  "itemGroup.candlelight.candlelight_tab": "[Let's Do] Candlelight",
   "gui.candlelight.recipebook.toggleRecipes.cookable": "Доступно к приготовлению",
 
   "item.candlelight.baumeisterjo.press_shift": "- BaumeisterJO",
